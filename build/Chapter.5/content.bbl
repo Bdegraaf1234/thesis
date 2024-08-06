@@ -1,0 +1,327 @@
+\begin{thebibliography}{35}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Schroeder and Cavacini(2010)]{schroeder2010structure}
+Harry~W. Schroeder and Lisa Cavacini.
+\newblock Structure and function of immunoglobulins.
+\newblock \emph{Journal of Allergy and Clinical Immunology}, 125\penalty0
+  (2):\penalty0 41--52, 2010.
+\newblock ISSN 00916749.
+\newblock \doi{10.1016/j.jaci.2009.09.046}.
+
+\bibitem[Kaplon and Reichert(2021)]{kaplon2021antibodies}
+Hélène Kaplon and Janice~M. Reichert.
+\newblock Antibodies to watch in 2021.
+\newblock \emph{mAbs}, 13\penalty0 (1), 2021.
+\newblock ISSN 19420870.
+\newblock \doi{10.1080/19420862.2020.1860476}.
+
+\bibitem[Marks and Deane(2020)]{marks2020how}
+Claire Marks and Charlotte~M Deane.
+\newblock How repertoire data are changing antibody science.
+\newblock \emph{The Journal of biological chemistry}, 295\penalty0
+  (29):\penalty0 9823--9837, 2020.
+\newblock ISSN 1083-351.
+\newblock \doi{10.1074/jbc.rev120.010181}.
+
+\bibitem[Raybould et~al.(2020)Raybould, Marks, Lewis, Shi, Bujotzek, Taddese,
+  and Deane]{raybould2020thera-sabdab:}
+Matthew I~J Raybould, Claire Marks, Alan~P Lewis, et~al.
+\newblock Thera-sabdab: the therapeutic structural antibody database.
+\newblock \emph{Nucleic acids research}, 48\penalty0 (1):\penalty0 383--388,
+  2020.
+\newblock ISSN 1362-4962.
+\newblock \doi{10.1093/nar/gkz827}.
+
+\bibitem[Bornholdt et~al.(2016)Bornholdt, Turner, Murin, Li, Sok, Souders,
+  Piper, Goff, Shamblin, Wollen, Sprague, Fusco, Pommert, Cavacini, Smith,
+  Klempner, Reimann, Krauland, Gerngross, Wittrup, Saphire, Burton, Glass,
+  Ward, and Walker]{bornholdt2016isolation}
+Zachary~A. Bornholdt, Hannah~L. Turner, Charles~D. Murin, et~al.
+\newblock Isolation of potent neutralizing antibodies from a survivor of the
+  2014 ebola virus outbreak.
+\newblock \emph{Science}, 351\penalty0 (6277):\penalty0 1078--1083, 2016.
+\newblock ISSN 1095-9203.
+\newblock \doi{10.1126/science.aad5788}.
+
+\bibitem[Corti et~al.(2016)Corti, Misasi, Mulangu, Stanley, Kanekiyo, Wollen,
+  Ploquin, Doria-Rose, Staupe, Bailey, Shi, Choe, Marcus, Thompson, Cagigi,
+  Silacci, Fernandez-Rodriguez, Perez, Sallusto, Vanzetta, Agatic, Cameroni,
+  Kisalu, Gordon, Ledgerwood, Mascola, Graham, Muyembe-Tamfun, Trefry,
+  Lanzavecchia, and Sullivan]{corti2016protective}
+Davide Corti, John Misasi, Sabue Mulangu, et~al.
+\newblock Protective monotherapy against lethal ebola virus infection by a
+  potently neutralizing antibody.
+\newblock \emph{Science (New York, N.Y.)}, 351\penalty0 (6279):\penalty0
+  1339--1342, 2016.
+\newblock ISSN 1095-9203.
+\newblock \doi{10.1126/science.aad5224}.
+
+\bibitem[Valgardsdottir et~al.(2021)Valgardsdottir, Cattaneo, Napolitano,
+  Raglio, Spinelli, Salmoiraghi, Castilletti, Lapa, Capobianchi, Farina, and
+  Golay]{valgardsdottir2021identification}
+Rut Valgardsdottir, Irene Cattaneo, Gavino Napolitano, et~al.
+\newblock Identification of human sars-cov-2 monoclonal antibodies from
+  convalescent patients using ebv immortalization.
+\newblock \emph{Antibodies}, 10\penalty0 (3):\penalty0 26, 2021.
+\newblock ISSN 2073-4468.
+\newblock \doi{10.3390/antib10030026}.
+
+\bibitem[Schroeder~Jr.(2006)]{schroederjr.2006similarity}
+H~W Schroeder~Jr.
+\newblock Similarity and divergence in the development and expression of the
+  mouse and human antibody repertoires.
+\newblock \emph{Dev Comp Immunol}, 30\penalty0 (12):\penalty0 119--135, 2006.
+\newblock \doi{10.1016/j.dci.2005.06.006}.
+
+\bibitem[Briney et~al.(2019)Briney, Inderbitzin, Joyce, and
+  Burton]{briney2019commonality}
+Bryan Briney, Anne Inderbitzin, Collin Joyce, and Dennis~R. Burton.
+\newblock Commonality despite exceptional diversity in the baseline human
+  antibody repertoire.
+\newblock \emph{Nature}, 566\penalty0 (7744):\penalty0 393--397, 2019.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/s41586-019-0879-y}.
+
+\bibitem[Hom et~al.(2022)Hom, Tomar, and Tipton]{hom2022exploring}
+Jennifer~R. Hom, Deepak Tomar, and Christopher~M. Tipton.
+\newblock Exploring the diversity of the b-cell receptor repertoire through
+  high-throughput sequencing.
+\newblock In \emph{Methods in Molecular Biology: Immune Receptors}, pages
+  231--241. Clifton (NJ), 2022.
+
+\bibitem[Altelaar et~al.(2013)Altelaar, Munoz, and
+  Heck]{altelaar2013next-generation}
+A.~F.~Maarten Altelaar, Javier Munoz, and Albert J.~R. Heck.
+\newblock Next-generation proteomics: towards an integrative view of proteome
+  dynamics.
+\newblock \emph{Nature Reviews Genetics}, 14\penalty0 (1):\penalty0 35--48,
+  2013.
+\newblock ISSN 1471-0056.
+\newblock \doi{10.1038/nrg3356}.
+
+\bibitem[Aebersold and Mann(2016)]{aebersold2016mass-spectrometric}
+Ruedi Aebersold and Matthias Mann.
+\newblock Mass-spectrometric exploration of proteome structure and function.
+\newblock \emph{Nature}, 537\penalty0 (7620):\penalty0 347--355, 2016.
+\newblock ISSN 0028-0836.
+\newblock \doi{10.1038/nature19949}.
+
+\bibitem[Sen et~al.(2017)Sen, Tang, Nayak, Kil, Bern, Ozoglu, Ueberheide,
+  Davis, and Becker]{sen2017automated}
+K.~Ilker Sen, Wilfred~H Tang, Shruti Nayak, et~al.
+\newblock Automated antibody de novo sequencing and its utility in
+  biopharmaceutical discovery.
+\newblock \emph{Journal of the American Society for Mass Spectrometry},
+  28\penalty0 (5):\penalty0 803--810, 2017.
+\newblock ISSN 1879-1123.
+\newblock \doi{10.1007/s13361-016-1580-0}.
+
+\bibitem[Peng et~al.(2021)Peng, Pronker, and Snijder]{peng2021mass}
+Weiwei Peng, Matti~F. Pronker, and Joost Snijder.
+\newblock Mass spectrometry-based de novo sequencing of monoclonal antibodies
+  using multiple proteases and a dual fragmentation scheme.
+\newblock \emph{Journal of Proteome Research}, 20\penalty0 (7):\penalty0
+  3559--3566, 2021.
+\newblock ISSN 1535-3893.
+\newblock \doi{10.1021/acs.jproteome.1c00169}.
+
+\bibitem[Srzentić et~al.(2020)Srzentić, Fornelli, Tsybin, Loo, Seckler, Agar,
+  Anderson, Bai, Beck, Brodbelt, van~der Burgt, Chamot-Rooke, Chatterjee, Chen,
+  Clarke, Danis, Diedrich, D’Ippolito, Dupré, Gasilova, Ge, Goo, Goodlett,
+  Greer, Haselmann, He, Hendrickson, Hinkle, Holt, Hughes, Hunt, Kelleher,
+  Kozhinov, Lin, Malosse, Marshall, Menin, Millikin, Nagornov, Nicolardi,
+  Paša-Tolić, Pengelley, Quebbemann, Resemann, Sandoval, Sarin, Schmitt,
+  Shabanowitz, Shaw, Shortreed, Smith, Sobott, Suckau, Toby, Weisbrod,
+  Wildburger, Yates, Yoon, Young, and Zhou]{srzentić2020interlaboratory}
+Kristina Srzentić, Luca Fornelli, Yury~O. Tsybin, et~al.
+\newblock Interlaboratory study for characterizing monoclonal antibodies by
+  top-down and middle-down mass spectrometry.
+\newblock \emph{Journal of the American Society for Mass Spectrometry},
+  31\penalty0 (9):\penalty0 1783--1802, 2020.
+\newblock ISSN 1044-0305.
+\newblock \doi{10.1021/jasms.0c00036}.
+
+\bibitem[Aebersold and Mann(2003)]{aebersold2003mass}
+Ruedi Aebersold and Matthias Mann.
+\newblock Mass spectrometry-based proteomics.
+\newblock \emph{Nature}, 422\penalty0 (6928):\penalty0 198--207, 2003.
+\newblock ISSN 0028-0836.
+\newblock \doi{10.1038/nature01511}.
+
+\bibitem[Tran et~al.(2016)Tran, Rahman, He, Xin, Shan, and
+  Li]{tran2016complete}
+Ngoc~Hieu Tran, M~Ziaur Rahman, Lin He, et~al.
+\newblock Complete de novo assembly of monoclonal antibody sequences.
+\newblock \emph{Scientific Reports}, 6\penalty0 (1):\penalty0 31730, 2016.
+\newblock ISSN 2045-2322.
+\newblock \doi{10.1038/srep31730}.
+
+\bibitem[Guthals et~al.(2012)Guthals, Clauser, and
+  Bandeira]{guthals2012shotgun}
+Adrian Guthals, Karl~R Clauser, and Nuno Bandeira.
+\newblock Shotgun protein sequencing with meta-contig assembly.
+\newblock \emph{Molecular and Cellular Proteomics}, 11\penalty0 (10):\penalty0
+  1084--1096, 2012.
+\newblock ISSN 15359476.
+\newblock \doi{10.1074/mcp.m111.015768}.
+
+\bibitem[Charles A~Janeway et~al.(2001)Charles A~Janeway, Travers, Walport, and
+  Shlomchik]{charlesajaneway2001generation}
+Jr~Charles A~Janeway, Paul Travers, Mark Walport, and Mark~J Shlomchik.
+\newblock The generation of diversity in immunoglobulins.
+\newblock In \emph{Immunobiology: The Immune System in Health and Disease}. New
+  York (NY), 5 edition, 2001.
+\newblock ISBN 0-8153-3642-X.
+
+\bibitem[Alberts et~al.(2002)Alberts, Johnson, Lewis, Raff, Roberts, and
+  Walter]{alberts2002generation}
+Bruce Alberts, Alexander Johnson, Julian Lewis, et~al.
+\newblock The generation of antibody diversity.
+\newblock In \emph{Molecular Biology of the Cell}. New York (NY), 4 edition,
+  2002.
+\newblock ISBN 0-8153-3218-1.
+
+\bibitem[de~Graaf et~al.(2022)de~Graaf, Hoek, Tamara, and
+  Heck]{graaf2022perspective}
+Sebastiaan~C. de~Graaf, Max Hoek, Sem Tamara, and Albert~J.R. Heck.
+\newblock A perspective toward mass spectrometry-based de novo sequencing of
+  endogenous antibodies.
+\newblock \emph{mAbs}, 14\penalty0 (1), 2022.
+\newblock ISSN 19420870.
+\newblock \doi{10.1080/19420862.2022.2079449}.
+
+\bibitem[Schulte et~al.(2022)Schulte, Peng, and
+  Snijder]{schulte2022template-based}
+Douwe Schulte, Weiwei Peng, and Joost Snijder.
+\newblock Template-based assembly of proteomic short reads for de novo antibody
+  sequencing and repertoire profiling.
+\newblock \emph{Analytical chemistry}, 94\penalty0 (29):\penalty0 10391--10399,
+  2022.
+\newblock ISSN 1520-6882.
+\newblock \doi{10.1021/acs.analchem.2c01300}.
+
+\bibitem[Castellana et~al.(2010)Castellana, Pham, Arnott, Lill, and
+  Bafna]{castellana2010template}
+Natalie~E Castellana, Victoria Pham, David Arnott, Jennie~R Lill, and Vineet
+  Bafna.
+\newblock Template proteogenomics: Sequencing whole proteins using an imperfect
+  database.
+\newblock \emph{Molecular and Cellular Proteomics}, 9\penalty0 (6):\penalty0
+  1260--1270, 2010.
+\newblock ISSN 15359476.
+\newblock \doi{10.1074/mcp.m900504-mcp200}.
+
+\bibitem[Lefranc(2003)]{lefranc2003imgt}
+Marie~Paule Lefranc.
+\newblock Imgt, the international immunogenetics database®.
+\newblock \emph{Nucleic Acids Research}, 31\penalty0 (1):\penalty0 307--310,
+  2003.
+\newblock ISSN 03051048.
+\newblock \doi{10.1093/nar/gkg085}.
+
+\bibitem[Lefranc and Lefranc(2020)]{lefranc2020immunoglobulins}
+Marie-Paule Lefranc and Gérard Lefranc.
+\newblock Immunoglobulins or antibodies: Imgt® bridging genes, structures and
+  functions.
+\newblock \emph{Biomedicines}, 8\penalty0 (9):\penalty0 319, 2020.
+\newblock ISSN 2227-9059.
+\newblock \doi{10.3390/biomedicines8090319}.
+
+\bibitem[Toby et~al.(2016)Toby, Fornelli, and Kelleher]{toby2016progress}
+Timothy~K. Toby, Luca Fornelli, and Neil~L. Kelleher.
+\newblock Progress in top-down proteomics and the analysis of proteoforms.
+\newblock \emph{Annual Review of Analytical Chemistry}, 9\penalty0
+  (1):\penalty0 499--519, 2016.
+\newblock ISSN 1936-1327.
+\newblock \doi{10.1146/annurev-anchem-071015-041550}.
+
+\bibitem[Johansson et~al.(2008)Johansson, Shannon, and
+  Björck]{johansson2008ides:}
+Björn~P. Johansson, Oonagh Shannon, and Lars Björck.
+\newblock Ides: A bacterial proteolytic enzyme with therapeutic potential.
+\newblock \emph{PLoS ONE}, 3\penalty0 (2):\penalty0 1692, 2008.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/journal.pone.0001692}.
+
+\bibitem[Bondt et~al.(2021{\natexlab{a}})Bondt, Hoek, Tamara, de~Graaf, Peng,
+  Schulte, van Rijswijck, den Boer, Greisch, Varkila, Snijder, Cremer, Bonten,
+  and Heck]{bondt2021human}
+Albert Bondt, Max Hoek, Sem Tamara, et~al.
+\newblock Human plasma igg1 repertoires are simple, unique, and dynamic.
+\newblock \emph{Cell Systems}, 12\penalty0 (12):\penalty0 1131--11435,
+  2021{\natexlab{a}}.
+\newblock ISSN 24054720.
+\newblock \doi{10.1016/j.cels.2021.08.008}.
+
+\bibitem[Dupré et~al.(2021)Dupré, Duchateau, Sternke-Hoffmann, Boquoi,
+  Malosse, Fenk, Haas, Buell, Rey, and Chamot-Rooke]{dupré2021de}
+Mathieu Dupré, Magalie Duchateau, Rebecca Sternke-Hoffmann, et~al.
+\newblock De novo sequencing of antibody light chain proteoforms from patients
+  with multiple myeloma.
+\newblock \emph{Analytical Chemistry}, 93\penalty0 (30):\penalty0 10627--10634,
+  2021.
+\newblock ISSN 15206882.
+\newblock \doi{10.1021/acs.analchem.1c01955}.
+
+\bibitem[Lefranc(1997)]{lefranc1997unique}
+Marie~Paule Lefranc.
+\newblock Unique database numbering system for immunogenetic analysis.
+\newblock \emph{Immunology today}, 18\penalty0 (11):\penalty0 509, 1997.
+\newblock ISSN 0167-5699.
+\newblock \doi{10.1016/s0167-5699(97)01163-8}.
+
+\bibitem[Melani et~al.(2019)Melani, Srzentić, Gerbasi, McGee, Huguet,
+  Fornelli, and Kelleher]{melani2019direct}
+Rafael~D. Melani, Kristina Srzentić, Vincent~R. Gerbasi, et~al.
+\newblock Direct measurement of light and heavy antibody chains using ion
+  mobility and middle-down mass spectrometry.
+\newblock \emph{mAbs}, 11\penalty0 (8):\penalty0 1351, 2019.
+\newblock ISSN 19420870.
+\newblock \doi{10.1080/19420862.2019.1668226}.
+
+\bibitem[Bondt et~al.(2021{\natexlab{b}})Bondt, Dingess, Hoek, van Rijswijck,
+  and Heck]{bondt2021direct}
+Albert Bondt, Kelly~A. Dingess, Max Hoek, Danique M.~H. van Rijswijck, and
+  Albert J.~R. Heck.
+\newblock A direct ms-based approach to profile human milk secretory
+  immunoglobulin a (iga1) reveals donor-specific clonal repertoires with high
+  longitudinal stability.
+\newblock \emph{Frontiers in Immunology}, 12:\penalty0 5190,
+  2021{\natexlab{b}}.
+\newblock ISSN 1664-3224.
+\newblock \doi{10.3389/fimmu.2021.789748}.
+
+\bibitem[Ma et~al.(2003)Ma, Zhang, Hendrie, Liang, Li, Doherty-Kirby, and
+  Lajoie]{ma2003peaks:}
+Bin Ma, Kaizhong Zhang, Christopher Hendrie, et~al.
+\newblock Peaks: powerful software for peptide de novo sequencing by tandem
+  mass spectrometry.
+\newblock \emph{Rapid Communications in Mass Spectrometry}, 17\penalty0
+  (20):\penalty0 2337--2342, 2003.
+\newblock ISSN 0951-4198.
+\newblock \doi{10.1002/rcm.1196}.
+
+\bibitem[Olsen and Mann(2004)]{olsen2004improved}
+V~Jesper Olsen and Matthias Mann.
+\newblock Improved peptide identification in proteomics by two consecutive
+  stages of mass spectrometric fragmentation.
+\newblock 101, 2004.
+
+\bibitem[Perez-Riverol et~al.(2022)Perez-Riverol, Bai, Bandla,
+  García-Seisdedos, Hewapathirana, Kamatchinathan, Kundu, Prakash,
+  Frericks-Zipper, Eisenacher, Walzer, Wang, Brazma, and
+  Vizcaíno]{perez-riverol2022pride}
+Yasset Perez-Riverol, Jingwen Bai, Chakradhar Bandla, et~al.
+\newblock The pride database resources in 2022: a hub for mass
+  spectrometry-based proteomics evidences.
+\newblock \emph{Nucleic acids research}, 50\penalty0 (1):\penalty0 543--552,
+  2022.
+\newblock ISSN 1362-4962.
+\newblock \doi{10.1093/nar/gkab1038}.
+
+\end{thebibliography}

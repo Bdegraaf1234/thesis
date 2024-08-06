@@ -1,0 +1,493 @@
+\begin{thebibliography}{52}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Schilling et~al.(2003)Schilling, Row, Gibson, Guo, and
+  Young]{schilling2003ms}
+Birgit Schilling, Richard~H Row, Bradford~W Gibson, Xin Guo, and Malin~M Young.
+\newblock Ms2assign, automated assignment and nomenclature of tandem mass
+  spectra of chemically crosslinked peptides.
+\newblock \emph{Journal of the American Society for Mass Spectrometry},
+  14\penalty0 (8):\penalty0 834--850, 2003.
+\newblock ISSN 1879-1123.
+\newblock \doi{10.1016/s1044-0305(03)00327-1}.
+
+\bibitem[Fagerlund et~al.(2017)Fagerlund, Wilkinson, Klykov, Barendregt,
+  Pearce, Kieper, Maxwell, Capolupo, Heck, Krause, Bostina, Scheltema, Staals,
+  and Fineran]{fagerlund2017spacer}
+Robert~D. Fagerlund, Max~E. Wilkinson, Oleg Klykov, et~al.
+\newblock Spacer capture and integration by a type i-f cas1–cas2-3 crispr
+  adaptation complex.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 114\penalty0
+  (26):\penalty0 5122--5128, 2017.
+\newblock ISSN 0027-8424.
+\newblock \doi{10.1073/pnas.1618421114}.
+
+\bibitem[Benda et~al.(2014)Benda, Ebert, Scheltema, Schiller, Baumgärtner,
+  Bonneau, Mann, and Conti]{benda2014structural}
+Christian Benda, Judith Ebert, RichardA. Scheltema, et~al.
+\newblock Structural model of a crispr rna-silencing complex reveals the
+  rna-target cleavage activity in cmr4.
+\newblock \emph{Molecular Cell}, 56\penalty0 (1):\penalty0 43--54, 2014.
+\newblock ISSN 10972765.
+\newblock \doi{10.1016/j.molcel.2014.09.002}.
+
+\bibitem[Joachimiak et~al.(2014)Joachimiak, Walzthoeni, Liu, Aebersold, and
+  Frydman]{joachimiak2014structural}
+Lukasz~A Joachimiak, Thomas Walzthoeni, Corey~W Liu, Ruedi Aebersold, and
+  Judith Frydman.
+\newblock The structural basis of substrate recognition by the eukaryotic
+  chaperonin tric/cct.
+\newblock \emph{Cell}, 159\penalty0 (5):\penalty0 1042--1055, 2014.
+\newblock ISSN 1097-4172 0092-8674.
+\newblock \doi{10.1016/j.cell.2014.10.042}.
+
+\bibitem[Herzog et~al.(2012)Herzog, Kahraman, Boehringer, Mak, Bracher,
+  Walzthoeni, Leitner, Beck, Hartl, Ban, Malmstrom, and
+  Aebersold]{herzog2012structural}
+F~Herzog, A~Kahraman, D~Boehringer, et~al.
+\newblock Structural probing of a protein phosphatase 2a network by chemical
+  cross-linking and mass spectrometry.
+\newblock \emph{Science}, 337\penalty0 (6100):\penalty0 1348--1352, 2012.
+\newblock ISSN 1095-9203 0036-8075.
+\newblock \doi{10.1126/science.1221483}.
+
+\bibitem[Chen et~al.(2010)Chen, Jawhari, Fischer, Buchen, Tahir, Kamenski,
+  Rasmussen, Lariviere, Bukowski-Wills, Nilges, Cramer, and
+  Rappsilber]{chen2010architecture}
+Zhuo~Angel Chen, Anass Jawhari, Lutz Fischer, et~al.
+\newblock Architecture of the rna polymerase ii-tfiif complex revealed by
+  cross-linking and mass spectrometry.
+\newblock \emph{The EMBO journal}, 29\penalty0 (4):\penalty0 717--726, 2010.
+\newblock ISSN 0261-4189.
+\newblock \doi{10.1038/emboj.2009.401}.
+
+\bibitem[Armony et~al.(2016)Armony, Jacob, Moran, Levin, Mehlman, Levy, and
+  Fass]{armony2016cross-linking}
+Gad Armony, Etai Jacob, Toot Moran, et~al.
+\newblock Cross-linking reveals laminin coiled-coil architecture.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 113\penalty0
+  (47):\penalty0 201608424, 2016.
+\newblock \doi{10.1073/pnas.1608424113}.
+
+\bibitem[Hosp et~al.(2015)Hosp, Scheltema, Eberl, Kulak, Keilhauer, Mayr, and
+  Mann]{hosp2015double-barrel}
+Fabian Hosp, Richard~A. Scheltema, H.~Christian Eberl, et~al.
+\newblock A double-barrel liquid chromatography- tandem mass spectrometry
+  (lc-ms/ms) system to quantify 96 interactomes per day.
+\newblock \emph{Molecular and Cellular Proteomics}, 14\penalty0 (7):\penalty0
+  2030--2041, 2015.
+\newblock \doi{10.1074/}.
+
+\bibitem[Kao et~al.(2011)Kao, Chiu, Vellucci, Yang, Patel, Guan, Randall,
+  Baldi, Rychnovsky, and Huang]{kao2011development}
+Athit Kao, C.-l. Chi-li Chiu, Danielle Vellucci, et~al.
+\newblock Development of a novel cross-linking strategy for fast and accurate
+  identification of cross-linked peptides of protein complexes.
+\newblock \emph{Molecular and Cellular Proteomics}, 10\penalty0 (1):\penalty0
+  110002212---110002212, 2011.
+\newblock \doi{10.1074/mcp.m110.002212}.
+
+\bibitem[Liu et~al.(2015)Liu, Rijkers, Post, and Heck]{liu2015proteome-wide}
+Fan Liu, Dirk T~S Rijkers, Harm Post, and Albert J~R Heck.
+\newblock Proteome-wide profiling of protein assemblies by cross-linking mass
+  spectrometry.
+\newblock \emph{Nat Meth}, 12\penalty0 (12):\penalty0 1179--1184, 2015.
+\newblock ISSN 1548-7091.
+
+\bibitem[Liu et~al.(2017)Liu, Lössl, Scheltema, Viner, and
+  Heck]{liu2017optimized}
+Fan Liu, Philip Lössl, Richard Scheltema, Rosa Viner, and Albert J~R Heck.
+\newblock Optimized fragmentation schemes and data analysis strategies for
+  proteome-wide cross-link identification.
+\newblock \emph{Nature Communications}, 8\penalty0 (May), 2017.
+\newblock ISSN 20411723.
+\newblock \doi{10.1038/ncomms15473}.
+
+\bibitem[Schweppe et~al.(2017)Schweppe, Chavez, Lee, Caudal, Kruse, Stuppard,
+  Marcinek, Shadel, Tian, and Bruce]{schweppe2017mitochondrial}
+Devin~K Schweppe, Juan~D Chavez, Chi~Fung Lee, et~al.
+\newblock Mitochondrial protein interactome elucidated by chemical
+  cross-linking mass spectrometry.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 114\penalty0 (7):\penalty0 1732--1737, 2017.
+\newblock \doi{10.1073/pnas.1617220114}.
+
+\bibitem[Belsom et~al.(2017)Belsom, Mudd, Giese, Auer, and
+  Rappsilber]{belsom2017complementary}
+Adam Belsom, Gemma Mudd, Sven Giese, Manfred Auer, and Juri Rappsilber.
+\newblock Complementary benzophenone cross-linking/mass spectrometry
+  photochemistry.
+\newblock \emph{Analytical Chemistry}, 89\penalty0 (10):\penalty0 5319--5324,
+  2017.
+\newblock \doi{10.1021/acs.analchem.6b04938}.
+
+\bibitem[Shannon et~al.(2003)Shannon, Markiel, Ozier, Baliga, Wang, Ramage,
+  Amin, Schwikowski, and Ideker]{shannon2003cytoscape:}
+Paul Shannon, Andrew Markiel, Owen Ozier, et~al.
+\newblock Cytoscape: a software environment for integrated models of
+  biomolecular interaction networks.
+\newblock \emph{Genome research}, 13\penalty0 (11):\penalty0 2498--504, 2003.
+\newblock ISSN 1088-9051.
+\newblock \doi{10.1101/gr.1239303}.
+
+\bibitem[Cline et~al.(2007)Cline, Smoot, Cerami, Kuchinsky, Landys, Workman,
+  Christmas, Avila-campilo, Creech, Gross, Hanspers, Isserlin, Kelley,
+  Killcoyne, Lotia, Maere, Morris, Ono, Pavlovic, Pico, Vailaya, Wang, Adler,
+  Conklin, Hood, Kuiper, Sander, Schmulevich, Schwikowski, Warner, Ideker, and
+  Bader]{cline2007integration}
+S~Melissa Cline, Michael Smoot, Ethan Cerami, et~al.
+\newblock Integration of biological networks and gene expression data using
+  cytoscape.
+\newblock \emph{Nature protocols}, 2\penalty0 (10):\penalty0 2366--2382, 2007.
+\newblock ISSN 1754-2189.
+\newblock \doi{10.1038/nprot.2007.324.integration}.
+
+\bibitem[Bastian et~al.(2009)Bastian, Heymann, and Jacomy]{bastian2009gephi:}
+Mathieu Bastian, Sebastien Heymann, and Mathieu Jacomy.
+\newblock Gephi: An open source software for exploring and manipulating
+  networks.
+\newblock \emph{Third International AAAI Conference on Weblogs and Social
+  Media}, pages 361--362, 2009.
+\newblock ISSN 14753898.
+\newblock \doi{10.1136/qshc.2004.010033}.
+
+\bibitem[Agapito et~al.(2013)Agapito, Guzzi, and
+  Cannataro]{agapito2013visualization}
+Giuseppe Agapito, Pietro~H Guzzi, and Mario Cannataro.
+\newblock Visualization of protein interaction networks: Problems and
+  solutions.
+\newblock \emph{BMC Bioinformatics}, 14\penalty0 (1):\penalty0 1, 2013.
+\newblock ISSN 14712105.
+\newblock \doi{10.1186/1471-2105-14-s1-s1}.
+
+\bibitem[Courcelles et~al.(2017)Courcelles, Coulombe-Huntington, Cossette,
+  Gingras, Thibault, and Tyers]{courcelles2017clmsvault:}
+Mathieu Courcelles, Jasmin Coulombe-Huntington, Émilie Cossette, et~al.
+\newblock Clmsvault: A software suite for protein cross-linking
+  mass-spectrometry data analysis and visualization.
+\newblock \emph{Journal of Proteome Research}, 16\penalty0 (7):\penalty0
+  2645--2652, 2017.
+\newblock \doi{10.1021/acs.jproteome.7b00205}.
+
+\bibitem[Heymann et~al.(2008)Heymann, Paramelle, Subra, Forest, Martinez,
+  Geourjon, and Deléage]{heymann2008msx-}
+Michaël Heymann, David Paramelle, Gilles Subra, et~al.
+\newblock Msx-3d: A tool to validate 3d protein models using mass spectrometry.
+\newblock \emph{Bioinformatics}, 24\penalty0 (23):\penalty0 2782--2783, 2008.
+\newblock ISSN 13674803.
+\newblock \doi{10.1093/bioinformatics/btn510}.
+
+\bibitem[Kahraman et~al.(2011)Kahraman, Malmström, and
+  Aebersold]{kahraman2011xwalk:}
+Abdullah Kahraman, Lars Malmström, and Ruedi Aebersold.
+\newblock Xwalk: Computing and visualizing distances in cross-linking
+  experiments.
+\newblock \emph{Bioinformatics}, 27\penalty0 (15):\penalty0 2163--2164, 2011.
+\newblock ISSN 13674803.
+\newblock \doi{10.1093/bioinformatics/btr348}.
+
+\bibitem[Kosinski et~al.(2015)Kosinski, von Appen, Ori, Karius, Müller, and
+  Beck]{kosinski2015xlink}
+Jan Kosinski, Alexander von Appen, Alessandro Ori, et~al.
+\newblock Xlink analyzer: Software for analysis and visualization of
+  cross-linking data in the context of three-dimensional structures.
+\newblock \emph{Journal of Structural Biology}, 189\penalty0 (3):\penalty0
+  177--183, 2015.
+\newblock ISSN 10958657.
+\newblock \doi{10.1016/j.jsb.2015.01.014}.
+
+\bibitem[Lima et~al.(2015)Lima, de~Lima, Balbuena, Neves-Ferreira, Barbosa,
+  Gozzo, Carvalho, Gisele, Neves-Ferreira, Barbosa, Gozzo, and
+  Carvalho]{lima2015sim-xl:}
+Diogo~B. Lima, Tatiani~B. de~Lima, Tiago~S. Balbuena, et~al.
+\newblock Sim-xl: A powerful and user-friendly tool for peptide cross-linking
+  analysis.
+\newblock \emph{Journal of Proteomics}, 129:\penalty0 51--55, 2015.
+\newblock ISSN 18767737.
+\newblock \doi{10.1016/j.jprot.2015.01.013}.
+
+\bibitem[Riffle et~al.(2016)Riffle, Jaschob, Zelter, and
+  Davis]{riffle2016proxl}
+Michael Riffle, Daniel Jaschob, Alex Zelter, and Trisha~N Davis.
+\newblock Proxl (protein cross-linking database): a platform for analysis,
+  visualization, and sharing of protein cross-linking mass spectrometry data.
+\newblock \emph{Journal of proteome research}, 2016.
+\newblock \doi{10.1021/acs.jproteome.6b00274}.
+
+\bibitem[Schweppe et~al.(2015)Schweppe, Chavez, and Bruce]{schweppe2015xlmap:}
+Devin~K Schweppe, Juan~D Chavez, and James~E Bruce.
+\newblock Xlmap: An r package to visualize and score protein structure models
+  based on sites of protein cross-linking.
+\newblock \emph{Bioinformatics}, 32\penalty0 (2):\penalty0 306--308, 2015.
+\newblock ISSN 14602059.
+\newblock \doi{10.1093/bioinformatics/btv519}.
+
+\bibitem[Schweppe et~al.(2016)Schweppe, Zheng, Chavez, Navare, Wu, Eng, and
+  Bruce]{schweppe2016xlinkdb}
+Devin~K Schweppe, Chunxiang Zheng, Juan~D Chavez, et~al.
+\newblock Xlinkdb 2.0: Integrated, large-scale structural analysis of protein
+  crosslinking data.
+\newblock \emph{Bioinformatics}, 32\penalty0 (17):\penalty0 2716--2718, 2016.
+\newblock \doi{10.1093/bioinformatics/btw232}.
+
+\bibitem[Solis-Mezarino and Herzog(2017)]{solis-mezarino2017complexview:}
+Victor Solis-Mezarino and Franz Herzog.
+\newblock Complexview: A server for the interpretation of protein abundance and
+  connectivity information to identify protein complexes.
+\newblock \emph{Nucleic Acids Research}, 45\penalty0 (1):\penalty0 276--284,
+  2017.
+\newblock ISSN 13624962.
+\newblock \doi{10.1093/nar/gkx411}.
+
+\bibitem[Combe et~al.(2015)Combe, Fischer, and Rappsilber]{combe2015xinet:}
+Colin~W Combe, Lutz Fischer, and Juri Rappsilber.
+\newblock xinet: cross-link network maps with residue resolution.
+\newblock \emph{Molecular and Cellular Proteomics}, 14\penalty0 (4):\penalty0
+  1137--1147, 2015.
+\newblock \doi{10.1074/mcp.o114.042259}.
+
+\bibitem[Grimm et~al.(2015)Grimm, Zimniak, Kahraman, and
+  Herzog]{grimm2015xvis:}
+Maximilian Grimm, Tomasz Zimniak, Abdullah Kahraman, and Franz Herzog.
+\newblock xvis: a web server for the schematic visualization and interpretation
+  of crosslink-derived spatial restraints.
+\newblock \emph{Nucleic acids research}, 43\penalty0 (May):\penalty0 362---369,
+  2015.
+\newblock \doi{10.1093/nar/gkv463}.
+
+\bibitem[Morimoto et~al.(2013)Morimoto, Nakagawa, and
+  Kojima]{morimoto2013small-angle}
+Yasumasa Morimoto, Takashi Nakagawa, and Masaki Kojima.
+\newblock Small-angle x-ray scattering constraints and local geometry like
+  secondary structures can construct a coarse-grained protein model at amino
+  acid residue resolution.
+\newblock \emph{Biochemical and Biophysical Research Communications},
+  431\penalty0 (1):\penalty0 65--69, 2013.
+\newblock ISSN 0006291.
+\newblock \doi{10.1016/j.bbrc.2012.12.091}.
+
+\bibitem[Bateman et~al.(2017)Bateman, Martin, ODonovan, Magrane, Alpi, Antunes,
+  Bely, Bingley, Bonilla, Britto, Bursteinas, Bye-AJee, Cowley, Da~Silva,
+  De~Giorgi, Dogan, Fazzini, Castro, Figueira, Garmiri, Georghiou, Gonzalez,
+  Hatton-Ellis, Li, Liu, Lopez, Luo, Lussi, MacDougall, Nightingale, Palka,
+  Pichler, Poggioli, Pundir, Pureza, Qi, Rosanoff, Saidi, Sawford, Shypitsyna,
+  Speretta, Turner, Tyagi, Volynkin, Wardell, Warner, Watkins, Zaru, Zellner,
+  Xenarios, Bougueleret, Bridge, Poux, Redaschi, Aimo, ArgoudPuy, Auchincloss,
+  Axelsen, Bansal, Baratin, Blatter, Boeckmann, Bolleman, Boutet, Breuza,
+  Casal-Casas, De~Castro, Coudert, Cuche, Doche, Dornevil, Duvaud, Estreicher,
+  Famiglietti, Feuermann, Gasteiger, Gehant, Gerritsen, Gos, Gruaz-Gumowski,
+  Hinz, Hulo, Jungo, Keller, Lara, Lemercier, Lieberherr, Lombardot, Martin,
+  Masson, Morgat, Neto, Nouspikel, Paesano, Pedruzzi, Pilbout, Pozzato, Pruess,
+  Rivoire, Roechert, Schneider, Sigrist, Sonesson, Staehli, Stutz, Sundaram,
+  Tognolli, Verbregue, Veuthey, Wu, Arighi, Arminski, Chen, Chen, Garavelli,
+  Huang, Laiho, McGarvey, Natale, Ross, Vinayaka, Wang, Wang, Yeh, and
+  Zhang]{bateman2017uniprot:}
+Alex Bateman, Maria~Jesus Martin, Claire ODonovan, et~al.
+\newblock Uniprot: The universal protein knowledgebase.
+\newblock \emph{Nucleic Acids Research}, 45:\penalty0 158--169, 2017.
+\newblock ISSN 13624962.
+\newblock \doi{10.1093/nar/gkw1099}.
+
+\bibitem[van Zundert et~al.(2016{\natexlab{a}})van Zundert, Trellet,
+  Schaarschmidt, Kurkcuoglu, David, Verlato, Rosato, and
+  Bonvin]{zundert2016disvis}
+G.C.P. van Zundert, M.~Trellet, J.~Schaarschmidt, et~al.
+\newblock The disvis and powerfit web servers: Explorative and integrative
+  modeling of biomolecular complexes.
+\newblock \emph{Journal of Molecular Biology}, 429\penalty0 (3):\penalty0
+  399--407, 2016{\natexlab{a}}.
+\newblock ISSN 00222836.
+\newblock \doi{10.1016/j.jmb.2016.11.032}.
+
+\bibitem[van Zundert and Bonvin(2015)]{zundert2015disvis:}
+G.~C.P. van Zundert and A.~M.J.J. Bonvin.
+\newblock Disvis: Quantifying and visualizing accessible interaction space of
+  distance-restrained biomolecular complexes.
+\newblock \emph{Bioinformatics}, 31\penalty0 (19):\penalty0 3222--3224, 2015.
+\newblock ISSN 14602059.
+\newblock \doi{10.1093/bioinformatics/btv333}.
+
+\bibitem[Klykov et~al.(2018)Klykov, Steigenberger, Pekta, Fasci, Heck, and
+  Scheltema]{klykov2018efficient}
+Oleg Klykov, Barbara Steigenberger, Sibel Pekta, et~al.
+\newblock Efficient and robust proteome-wide approaches for cross-linking mass
+  spectrometry.
+\newblock \emph{Nature Protocols}, 13\penalty0 (12):\penalty0 2964--2990, 2018.
+\newblock ISSN 1754-2189.
+\newblock \doi{10.1038/s41596-018-0074-x}.
+
+\bibitem[Hennrich et~al.(2011)Hennrich, Groenewold, Kops, Heck, and
+  Mohammed]{hennrich2011improving}
+Marco~L. Hennrich, Vincent Groenewold, Geert J P~L Kops, Albert J~R Heck, and
+  Shabaz Mohammed.
+\newblock Improving depth in phosphoproteomics by using a strong cation
+  exchange-weak anion exchange-reversed phase multidimensional separation
+  approach.
+\newblock \emph{Analytical Chemistry}, 83\penalty0 (18):\penalty0 7137--7143,
+  2011.
+\newblock ISSN 00032700.
+\newblock \doi{10.1021/ac2015068}.
+
+\bibitem[Vizcaíno et~al.(2014)Vizcaíno, Deutsch, Wang, Csordas, Reisinger,
+  Ríos, Dianes, Sun, Farrah, Bandeira, Binz, Xenarios, Eisenacher, Mayer,
+  Gatto, Campos, Chalkley, Kraus, Albar, Martinez-Bartolomé, Apweiler, Omenn,
+  Martens, Jones, and Hermjakob]{vizcaíno2014proteomexchange}
+Juan~A Vizcaíno, Eric~W Deutsch, Rui Wang, et~al.
+\newblock Proteomexchange provides globally coordinated proteomics data
+  submission and dissemination.
+\newblock \emph{Nature Biotechnology}, 32\penalty0 (3):\penalty0 223--226,
+  2014.
+\newblock ISSN 15461696.
+\newblock \doi{10.1038/nbt.2839}.
+
+\bibitem[Levenstein(1966)]{levenstein1966binary}
+V.~I. Levenstein.
+\newblock Binary codes capable of correcting deletions, insertions, and
+  reversals.
+\newblock \emph{Cybernetics and Control Theory}, 10\penalty0 (8):\penalty0
+  707--710, 1966.
+
+\bibitem[Noack(2007)]{noack2007energy}
+Andreas Noack.
+\newblock Energy models for graph clustering.
+\newblock \emph{Journal of Graph Algorithms and Applications}, 11\penalty0
+  (2):\penalty0 453--480, 2007.
+
+\bibitem[Pajntar(1900)]{pajntar1900overview}
+Boštjan Pajntar.
+\newblock Overview of algorithms for graph drawing.
+\newblock \emph{Knowledge Creation Diffusion Utilization}, pages 3--6, 1900.
+
+\bibitem[Huerta-Cepas et~al.(2016)Huerta-Cepas, Szklarczyk, Forslund, Cook,
+  Heller, Walter, Rattei, Mende, Sunagawa, Kuhn, Jensen, Von~Mering, and
+  Bork]{huerta-cepas2016eggnog}
+Jaime Huerta-Cepas, Damian Szklarczyk, Kristoffer Forslund, et~al.
+\newblock Eggnog 4.5: A hierarchical orthology framework with improved
+  functional annotations for eukaryotic, prokaryotic and viral sequences.
+\newblock \emph{Nucleic Acids Research}, 44:\penalty0 286--293, 2016.
+\newblock ISSN 13624962.
+\newblock \doi{10.1093/nar/gkv1248}.
+
+\bibitem[Rivals et~al.(2007)Rivals, Personnaz, Taing, and
+  Potier]{rivals2007enrichment}
+Isabelle Rivals, Léon Personnaz, Lieng Taing, and Marie~Claude Potier.
+\newblock Enrichment or depletion of a go category within a class of genes:
+  Which test?
+\newblock \emph{Bioinformatics}, 23\penalty0 (4):\penalty0 401--407, 2007.
+\newblock ISSN 13674803.
+\newblock \doi{10.1093/bioinformatics/btl633}.
+
+\bibitem[Pettersen et~al.(2004)Pettersen, Goddard, Huang, Couch, Greenblatt,
+  Meng, and Ferrin]{pettersen2004ucsf}
+Eric~F. Pettersen, Thomas~D. Goddard, Conrad~C. Huang, et~al.
+\newblock Ucsf chimera - a visualization system for exploratory research and
+  analysis.
+\newblock \emph{Journal of Computational Chemistry}, 25\penalty0 (13):\penalty0
+  1605--1612, 2004.
+\newblock ISSN 01928651.
+\newblock \doi{10.1002/jcc.20084}.
+
+\bibitem[Henikoff and Henikoff(1992)]{henikoff1992amino}
+S.~Henikoff and Jorja~G Henikoff.
+\newblock Amino acid substitution matrices from protein blocks.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 89\penalty0
+  (22):\penalty0 10915--10919, 1992.
+\newblock ISSN 0027-8424.
+\newblock \doi{10.1073/pnas.89.22.10915}.
+
+\bibitem[Dominguez et~al.(2003)Dominguez, Boelens, and
+  Bonvin]{dominguez2003haddock:}
+Cyril Dominguez, Rolf Boelens, and Alexandre~M.J.J. Bonvin.
+\newblock Haddock: A protein-protein docking approach based on biochemical or
+  biophysical information.
+\newblock \emph{Journal of the American Chemical Society}, 125\penalty0
+  (7):\penalty0 1731--1737, 2003.
+\newblock ISSN 00027863.
+\newblock \doi{10.1021/ja026939x}.
+
+\bibitem[van Zundert et~al.(2016{\natexlab{b}})van Zundert, Rodrigues, Trellet,
+  Schmitz, Kastritis, Karaca, Melquiond, Van~Dijk, De~Vries, and
+  Bonvin]{zundert2016haddock}
+G.~C.P. van Zundert, J.~P.G.L.M. Rodrigues, M.~Trellet, et~al.
+\newblock The haddock2.2 web server: User-friendly integrative modeling of
+  biomolecular complexes.
+\newblock \emph{Journal of Molecular Biology}, 428\penalty0 (4):\penalty0
+  720--725, 2016{\natexlab{b}}.
+\newblock ISSN 10898638.
+\newblock \doi{10.1016/j.jmb.2015.09.014}.
+
+\bibitem[Jain(1900)]{jain1900data}
+Anil~K Jain.
+\newblock Data clustering: 50 years beyond k-means q.
+\newblock 1900.
+\newblock \doi{10.1016/j.patrec.2009.09.011}.
+
+\bibitem[Yang et~al.(2014)Yang, Yan, Roy, Xu, Poisson, and
+  Zhang]{yang2014i-tasser}
+Jianyi Yang, Renxiang Yan, Ambrish Roy, et~al.
+\newblock The i-tasser suite: protein structure and function prediction.
+\newblock \emph{Nature Methods}, 12\penalty0 (1):\penalty0 7--8, 2014.
+\newblock ISSN 1548-7091.
+\newblock \doi{10.1038/nmeth.3213}.
+
+\bibitem[Bienert et~al.(2017)Bienert, Waterhouse, De~Beer, Tauriello, Studer,
+  Bordoli, and Schwede]{bienert2017swiss-model}
+Stefan Bienert, Andrew Waterhouse, Tjaart~A.P. De~Beer, et~al.
+\newblock The swiss-model repository-new features and functionality.
+\newblock \emph{Nucleic Acids Research}, 45:\penalty0 313--319, 2017.
+\newblock ISSN 13624962.
+\newblock \doi{10.1093/nar/gkw1132}.
+
+\bibitem[Akamine et~al.(2003)Akamine, Madhusudan, Wu, Xuong, Ten~Eyck, and
+  Taylor]{akamine2003dynamic}
+Pearl Akamine, Madhusudan, Jian Wu, et~al.
+\newblock Dynamic features of camp-dependent protein kinase revealed by
+  apoenzyme crystal structure.
+\newblock \emph{Journal of Molecular Biology}, 327\penalty0 (1):\penalty0
+  159--171, 2003.
+\newblock ISSN 00222836.
+\newblock \doi{10.1016/s0022-2836(02)01446-8}.
+
+\bibitem[Szklarczyk et~al.(2015)Szklarczyk, Franceschini, Wyder, Forslund,
+  Heller, Huerta-Cepas, Simonovic, Roth, Santos, Tsafou, Kuhn, Bork, Jensen,
+  and Von~Mering]{szklarczyk2015string}
+Damian Szklarczyk, Andrea Franceschini, Stefan Wyder, et~al.
+\newblock String v10: Protein-protein interaction networks, integrated over the
+  tree of life.
+\newblock \emph{Nucleic Acids Research}, 43\penalty0 (1):\penalty0 447---452,
+  2015.
+\newblock ISSN 13624962.
+\newblock \doi{10.1093/nar/gku1003}.
+
+\bibitem[Ruepp et~al.(2008)Ruepp, Brauner, Dunger-Kaltenbach, Frishman,
+  Montrone, Stransky, Waegele, Schmidt, Doudieu, Stümpflen, and
+  Mewes]{ruepp2008corum:}
+Andreas Ruepp, Barbara Brauner, Irmtraud Dunger-Kaltenbach, et~al.
+\newblock Corum: The comprehensive resource of mammalian protein complexes.
+\newblock \emph{Nucleic Acids Research}, 36\penalty0 (1):\penalty0 646--650,
+  2008.
+\newblock ISSN 03051048.
+\newblock \doi{10.1093/nar/gkm936}.
+
+\bibitem[Hoopmann et~al.(2016)Hoopmann, Mendoza, Deutsch, Shteynberg, and
+  Moritz]{hoopmann2016open}
+Michael~R Hoopmann, Luis Mendoza, Eric~W Deutsch, David Shteynberg, and
+  Robert~L Moritz.
+\newblock An open data format for visualization and analysis of cross-linked
+  mass spectrometry results.
+\newblock \emph{Journal of The American Society for Mass Spectrometry}, pages
+  1--7, 2016.
+\newblock ISSN 1336101614358.
+\newblock \doi{10.1007/s13361-016-1435-8}.
+
+\bibitem[Wang(2018)]{xiaojingwang2018pepxmltab:}
+Xiaojing Wang.
+\newblock pepxmltab: Parsing pepxml files and filter based on peptide fdr.
+\newblock 2018.
+\newblock \doi{10.18129/b9.bioc.pepxmltab}.
+
+\end{thebibliography}

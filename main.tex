@@ -1,0 +1,133 @@
+\documentclass[10pt, twoside]{book}
+\usepackage[paperwidth=17cm, paperheight=24cm, headheight=0.6cm, inner=2cm , outer=2cm, top=2.5cm, bottom=2cm]{geometry}  % Changing size of document
+\usepackage[dutch,english]{babel} % The document is in English
+\usepackage[utf8]{inputenc} % UTF8 encoding
+\usepackage[T1]{fontenc} % Font encoding
+\usepackage{fontspec}
+\usepackage{charter} %Font used
+\usepackage{graphicx} % For including images
+\usepackage{ccaption} % For caption on other site
+\usepackage{float} % For including images
+\usepackage{rotating}
+\RequirePackage[misc]{ifsym} % For the \Letter symbol
+\usepackage{longtable} % tables that can span several pages
+\usepackage[bf]{caption} % caption: FIG in bold
+\captionsetup{font=footnotesize}
+\usepackage{fancyhdr} % For the headers
+\usepackage{setspace} % For double spacing
+\usepackage{appendix}
+\usepackage{ccaption}
+\usepackage{lettrine}
+\usepackage{pdfpages}
+\usepackage{sidecap}
+\usepackage{etoolbox}  % <============================ to patch penaltys, prevent refs from breaking over columns and pages
+\newcommand{\numberedchapter}{ % Preparation for numbered chapters
+	\cleardoublepage % To make sure the previous headers are passed
+	\fancyhead[LE]{{\bfseries \leftmark}}% Headers for left pages
+	\fancyhead[RO]{{\bfseries \rightmark}}}% Headers for right pages
+	
+\newcommand{\unnumberedchapter}[1]{ % Preparation for unnumbered chapters
+	\cleardoublepage % To make sure the previous headers are passed
+	\phantomsection % To make sure the table of content links to the right page
+	\addcontentsline{toc}{chapter}{#1} % Also adds the chapter name to the Contents
+	\fancyhead[RO]{{\bfseries #1}} % Headers for left pages
+	\fancyhead[LE]{}}%Headers for right pages
+
+\usepackage{emptypage} % No headers on an empty page
+\usepackage{hyperref} % Adds clickable links at references
+\hypersetup{hidelinks}
+\usepackage{lineno}
+\usepackage{tocloft}
+%% add thumb
+\usepackage[height={2.5cm},distance={3.5mm},topthumbmargin={auto},bottomthumbmargin={auto}]{thumbs}
+\definecolor{lavender}{RGB}{172,189,186}
+\newcommand{\thumbforchapter}{\addthumb{Chapter \thechapter}{\Large{\thechapter}}{white}{gray}}
+
+
+%----------------------------------------------------------------------------------------
+%	Input Styles
+%----------------------------------------------------------------------------------------
+\input{Stylesettings/definitions}
+
+\def\blankpage{%
+      \clearpage%
+      \thispagestyle{empty}%
+      \addtocounter{page}{-1}%
+      \null%
+      \clearpage}
+
+\renewcommand{\thetable}{\arabic{table}}%
+\renewcommand{\thefigure}{\arabic{figure}}%
+
+% supplement numbering for tables and figrues as S1 etc
+\newcommand{\beginsupplement}{%
+	\setcounter{table}{0}
+	\renewcommand{\thetable}{S\arabic{table}}%
+	\setcounter{figure}{0}
+	\renewcommand{\thefigure}{S\arabic{figure}}%
+}
+
+%----------------------------------------------------------------------------------------
+%	Start document
+%----------------------------------------------------------------------------------------
+
+
+\begin{document}
+\setmainfont{Arial}
+
+%----------------------------------------------------------------------------------------
+%   Title PAGE
+%----------------------------------------------------------------------------------------
+\input{TitlePage/content}
+
+%----------------------------------------------------------------------------------------
+%	Setup page numbering
+%----------------------------------------------------------------------------------------
+
+\pagestyle{fancy} % Changes the headers
+\renewcommand{\chaptermark}[1]{\markboth{\large\textbf Chapter \thechapter\;}{}} % Getting the chapter name right
+\renewcommand{\sectionmark}[1]{\markright{\large\textbf Chapter \thechapter\;}} % Getting the section name right
+\fancyhf{}% Clears header and footer
+\fancyfoot[RO,LE]{\large\textbf\thepage} % page number on the outside of headers
+
+
+%----------------------------------------------------------------------------------------
+%	LIST OF CONTENTS/FIGURES/TABLES
+%----------------------------------------------------------------------------------------
+\setlength{\cftbeforetoctitleskip}{0pt}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{0}} %only show chapter titles in TOC
+\tableofcontents % Write out the Table of Contents
+\addtocontents{toc}{\vspace*{4em}} % Add a gap in the Contents, for aesthetics
+%\addtocontents{toc}{\cftpagenumbersoff{chapter}} %no page number for chapter title
+%----------------------------------------------------------------------------------------
+%	THESIS MAIN TEXT - CHAPTERS
+%----------------------------------------------------------------------------------------
+
+\includepdf{Chaptercovers/ch1.pdf} %add Chapter cover on blank page for 1st Chapter
+\mainmatter % Begin numeric (1,2,3...) page numbering
+\doublespacing % Double spacing
+\numberedchapter
+\include{Chapter.1/content}
+\include{Chapter.2/content}
+\include{Chapter.3/content}
+\include{Chapter.4/content}
+\include{Chapter.5/content}
+\include{Chapter.6/content}
+\include{Chapter.7/content}
+\end{document}
+
+
+% optional
+% TODO paragraph titels hetzelfde formatteren (particularly crossid)
+% TODO add graphical abstract for chapter 4 and 5 and 6
+% TODO Change chapter cover for chapter 6 and 7
+% TODO review quote
+
+% mandatory
+% add ISBN
+% Text on cover
+
+
+% Let er ook op, dat wij graag zien, dat naast je naam en de titel, ook het jaartal op de rug van het boekje geprint wordt.
+
+

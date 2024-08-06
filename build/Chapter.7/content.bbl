@@ -1,0 +1,71 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[\textbf{de} \textbf{Graaf} et~al.(2022)\textbf{de} \textbf{Graaf},
+  Hoek, Tamara, and Heck]{degraaf2022perspective}
+\textbf{Sebastiaan}~\textbf{C.}* \textbf{de} \textbf{Graaf}, Max* Hoek, Sem
+  Tamara, and Albert~J.R. Heck.
+\newblock {A perspective toward mass spectrometry-based de novo sequencing of
+  endogenous antibodies}.
+\newblock \emph{mAbs}, 14\penalty0 (1), 2022.
+\newblock ISSN 19420870.
+\newblock \doi{10.1080/19420862.2022.2079449}.
+
+\bibitem[Bondt et~al.(2022)Bondt, Hoek, Dingess, Tamara, \textbf{de}
+  \textbf{Graaf}, Peng, den Boer, Damen, Zwart, Barendregt, van Rijswijck,
+  Grobben, Tejjani, van Rijswijk, V{\"{o}}llmy, Snijder, Fortini, Papi, Volta,
+  Campo, Contoli, van Gils, Spadaro, Rizzo, and Heck]{bondt2022no}
+Albert Bondt, Max Hoek, Kelly Dingess, Sem Tamara, \textbf{Bastiaan}
+  \textbf{de} \textbf{Graaf}, Weiwei Peng, Maurits~A den Boer, Mirjam Damen,
+  Ceri Zwart, Arjan Barendregt, Danique M~H van Rijswijck, Marloes Grobben,
+  Khadija Tejjani, Jacqueline van Rijswijk, Franziska V{\"{o}}llmy, Joost
+  Snijder, Francesca Fortini, Alberto Papi, Carlo~Alberto Volta, Gianluca
+  Campo, Marco Contoli, Marit~J van Gils, Savino Spadaro, Paola Rizzo, and
+  Albert J~R Heck.
+\newblock {Into the Dark Serum Proteome: Personalized Features of IgG1 and IgA1
+  Repertoires in Severe COVID-19 Patients}.
+\newblock \emph{Molecular Cellular Proteomics}, 23\penalty0 (1):\penalty0
+  1535--9476, 2022.
+\newblock \doi{10.1016/j.mcpro.2023.100690}.
+
+\bibitem[Bondt et~al.(2021)Bondt, Hoek, Tamara, \textbf{de} \textbf{Graaf},
+  Peng, Schulte, van Rijswijck, den Boer, Greisch, Varkila, Snijder, Cremer,
+  Bonten, and Heck]{bondt2021human}
+Albert* Bondt, Max* Hoek, Sem* Tamara, \textbf{Bastiaan} \textbf{de}
+  \textbf{Graaf}, Weiwei Peng, Douwe Schulte, Danique~M.H. van Rijswijck,
+  Maurits~A. den Boer, Jean~François Greisch, Meri~R.J. Varkila, Joost
+  Snijder, Olaf~L. Cremer, Marc~J.M. Bonten, and Albert~J.R. Heck.
+\newblock Human plasma igg1 repertoires are simple, unique, and dynamic.
+\newblock \emph{Cell Systems}, 12\penalty0 (12):\penalty0 1131--11435, 2021.
+\newblock ISSN 24054720.
+\newblock \doi{10.1016/j.cels.2021.08.008}.
+
+\bibitem[\textbf{de} \textbf{Graaf} et~al.(2019)\textbf{de} \textbf{Graaf},
+  Klykov, van~den Toorn, and Scheltema]{degraaf2019cross}
+\textbf{Sebastiaan}~\textbf{C.}* \textbf{de} \textbf{Graaf}, Oleg* Klykov, Henk
+  van~den Toorn, and Richard~A. Scheltema.
+\newblock {Cross-ID: Analysis and Visualization of Complex XL–MS-Driven
+  Protein Interaction Networks}.
+\newblock \emph{Journal of Proteome Research}, 18\penalty0 (2):\penalty0
+  642--651, 2019.
+\newblock ISSN 1535-3893.
+\newblock \doi{10.1021/acs.jproteome.8b00725}.
+
+\bibitem[\textbf{de} \textbf{Graaf} et~al.(2024)\textbf{de} \textbf{Graaf},
+  Bondt, van Rijswijck, Juncker, Mulleners, Damen, Hoek, van Keulen, van
+  Goudoever, Heck, and Dingess]{degraaf2024case}
+\textbf{Sebastiaan}~\textbf{C.}* \textbf{de} \textbf{Graaf}, Albert Bondt,
+  Danique M.~H. van Rijswijck, Hannah~G. Juncker, Sien~J. Mulleners, Mirjam
+  J.~A. Damen, Max Hoek, Britt~J. van Keulen, Johannes~B. van Goudoever, Albert
+  J.~R. Heck, and Kelly~A. Dingess.
+\newblock A case series exploring the human milk polyclonal iga1 response to
+  repeated sars-cov-2 vaccinations by lc–ms based fab profiling.
+\newblock \emph{Frontiers in Nutrition}, 10:\penalty0 1305086, 2024.
+\newblock ISSN 2296-861X.
+\newblock \doi{10.3389/fnut.2023.1305086}.
+
+\end{thebibliography}

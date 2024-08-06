@@ -1,0 +1,234 @@
+\begin{thebibliography}{25}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Wolf et~al.(2022)Wolf, Köppert, Becza, Kuerten, Kirchenbaum, and
+  Lehmann]{wolf2022antibody}
+Carla Wolf, Sebastian Köppert, Noémi Becza, et~al.
+\newblock Antibody levels poorly reflect on the frequency of memory b cells
+  generated following sars-cov-2, seasonal influenza, or ebv infection.
+\newblock \emph{Cells}, 11\penalty0 (22), 2022.
+\newblock ISSN 2073-4409.
+\newblock \doi{10.3390/cells11223662}.
+
+\bibitem[Raybould et~al.(2020)Raybould, Marks, Lewis, Shi, Bujotzek, Taddese,
+  and Deane]{raybould2020thera-sabdab:}
+Matthew I~J Raybould, Claire Marks, Alan~P Lewis, et~al.
+\newblock Thera-sabdab: the therapeutic structural antibody database.
+\newblock \emph{Nucleic acids research}, 48\penalty0 (1):\penalty0 383--388,
+  2020.
+\newblock ISSN 1362-4962.
+\newblock \doi{10.1093/nar/gkz827}.
+
+\bibitem[Mullard(2021)]{mullard2021fda}
+Asher Mullard.
+\newblock Fda approves 100th monoclonal antibody product.
+\newblock \emph{Nature reviews. Drug discovery}, 20\penalty0 (7):\penalty0
+  491--495, 2021.
+\newblock ISSN 1474-1784.
+\newblock \doi{10.1038/d41573-021-00079-7}.
+
+\bibitem[Simon(2011)]{simon2011genomic}
+Richard Simon.
+\newblock Genomic biomarkers in predictive medicine. an interim analysis.
+\newblock \emph{EMBO Molecular Medicine}, 3\penalty0 (8):\penalty0 429, 2011.
+\newblock ISSN 17574676.
+\newblock \doi{10.1002/emmm.201100153}.
+
+\bibitem[Cui et~al.(2022)Cui, Cheng, and Zhang]{cui2022high-throughput}
+Miao Cui, Chao Cheng, and Lanjing Zhang.
+\newblock High-throughput proteomics: a methodological mini-review.
+\newblock \emph{Laboratory investigation; a journal of technical methods and
+  pathology}, 102\penalty0 (11):\penalty0 1170--1181, 2022.
+\newblock ISSN 1530-0307.
+\newblock \doi{10.1038/s41374-022-00830-7}.
+
+\bibitem[Vidarsson et~al.(2014)Vidarsson, Dekkers, and
+  Rispens]{vidarsson2014igg}
+Gestur Vidarsson, Gillian Dekkers, and Theo Rispens.
+\newblock Igg subclasses and allotypes: From structure to effector functions.
+\newblock \emph{Frontiers in Immunology}, 5, 2014.
+\newblock ISSN 16643224.
+\newblock \doi{10.3389/fimmu.2014.00520}.
+
+\bibitem[Xu et~al.(2012)Xu, Zan, Pone, Mai, and Casali]{xu2012immunoglobulin}
+Zhenming Xu, Hong Zan, Egest~J. Pone, Thach Mai, and Paolo Casali.
+\newblock Immunoglobulin class switch dna recombination: induction, targeting
+  and beyond.
+\newblock \emph{Nature reviews. Immunology}, 12\penalty0 (7):\penalty0 517,
+  2012.
+\newblock ISSN 14741733.
+\newblock \doi{10.1038/nri3216}.
+
+\bibitem[Guthals et~al.(2017)Guthals, Gan, Murray, Chen, Stinson, Nakamura,
+  Lill, Sandoval, and Bandeira]{guthals2017de}
+Adrian Guthals, Yutian Gan, Laura Murray, et~al.
+\newblock De novo ms/ms sequencing of native human antibodies.
+\newblock \emph{Journal of Proteome Research}, 16\penalty0 (1):\penalty0
+  45--54, 2017.
+\newblock ISSN 1535-3893.
+\newblock \doi{10.1021/acs.jproteome.6b00608}.
+
+\bibitem[Tabb et~al.(2008)Tabb, Ze-Qiang, Martin, Ham, and
+  Chambers]{tabb2008directag:}
+David~L. Tabb, Ma~Ze-Qiang, Daniel~B. Martin, Amy Joan~L. Ham, and Matthew~C.
+  Chambers.
+\newblock Directag: Accurate sequence tags from peptide ms/ms through
+  statistical scoring.
+\newblock \emph{Journal of Proteome Research}, 7\penalty0 (9):\penalty0
+  3838--3846, 2008.
+\newblock ISSN 15353893.
+\newblock \doi{10.1021/pr800154p}.
+
+\bibitem[He et~al.(2018)He, Weisbrod, and Marshall]{he2018protein}
+Lidong He, Chad~R. Weisbrod, and Alan~G. Marshall.
+\newblock Protein de novo sequencing by top-down and middle-down ms/ms:
+  Limitations imposed by mass measurement accuracy and gaps in sequence
+  coverage.
+\newblock \emph{International Journal of Mass Spectrometry}, 427:\penalty0
+  107--113, 2018.
+\newblock ISSN 13873806.
+\newblock \doi{10.1016/j.ijms.2017.11.012}.
+
+\bibitem[Wilm and Mann(1996)]{wilm1996analytical}
+Matthias Wilm and Matthias Mann.
+\newblock Analytical properties of the nanoelectrospray ion source.
+\newblock \emph{Analytical Chemistry}, 68\penalty0 (1):\penalty0 1--8, 1996.
+\newblock ISSN 00032700.
+\newblock \doi{10.1021/ac9509519/asset/images/large/ac9509519f00006.jpeg}.
+
+\bibitem[Gatlin et~al.(1998)Gatlin, Kleemann, Hays, Link, and
+  Yates]{gatlin1998protein}
+Christine~L. Gatlin, Gerd~R. Kleemann, Lara~G. Hays, Andrew~J. Link, and
+  John~R. Yates.
+\newblock Protein identification at the low femtomole level from silver-stained
+  gels using a new fritless electrospray interface for liquid
+  chromatography–microspray and nanospray mass spectrometry.
+\newblock \emph{Analytical Biochemistry}, 263\penalty0 (1):\penalty0 93--101,
+  1998.
+\newblock ISSN 0003-2697.
+\newblock \doi{10.1006/abio.1998.2809}.
+
+\bibitem[Vasilopoulou et~al.(2020)Vasilopoulou, Sulek, Brunner, Meitei,
+  Schweiger-Hufnagel, Meyer, Barsch, Mann, and Meier]{vasilopoulou2020trapped}
+Catherine~G. Vasilopoulou, Karolina Sulek, Andreas-David Brunner, et~al.
+\newblock Trapped ion mobility spectrometry and pasef enable in-depth
+  lipidomics from minimal sample amounts.
+\newblock \emph{Nature Communications}, 11\penalty0 (1):\penalty0 331, 2020.
+\newblock ISSN 2041-1723.
+\newblock \doi{10.1038/s41467-019-14044-x}.
+
+\bibitem[Ridgeway et~al.(2018)Ridgeway, Lubeck, Jordens, Mann, and
+  Park]{ridgeway2018trapped}
+Mark~E. Ridgeway, Markus Lubeck, Jan Jordens, Mattias Mann, and Melvin~A. Park.
+\newblock Trapped ion mobility spectrometry: A short review.
+\newblock \emph{International Journal of Mass Spectrometry}, 425:\penalty0
+  22--35, 2018.
+\newblock ISSN 1387-3806.
+\newblock \doi{10.1016/j.ijms.2018.01.006}.
+
+\bibitem[Graham et~al.(2023)Graham, Lawlor, and
+  Borotto]{graham2023characterizing}
+Katherine~A Graham, Charles~F Lawlor, and Nicholas~B Borotto.
+\newblock Characterizing the top-down sequencing of protein ions prior to
+  mobility separation in a timstof.
+\newblock 2023.
+\newblock \doi{10.26434/chemrxiv-2022-w8s4n-v3}.
+
+\bibitem[Grinfeld et~al.(2017)Grinfeld, Aizikov, Kreutzmann, Damoc, and
+  Makarov]{grinfeld2017phase-constrained}
+Dmitry Grinfeld, Konstantin Aizikov, Arne Kreutzmann, Eugen Damoc, and
+  Alexander Makarov.
+\newblock Phase-constrained spectrum deconvolution for fourier transform mass
+  spectrometry.
+\newblock \emph{Analytical Chemistry}, 89\penalty0 (2):\penalty0 1202--1211,
+  2017.
+\newblock ISSN 15206882.
+\newblock \doi{10.1021/acs.analchem.6b03636}.
+
+\bibitem[Jeong et~al.(2022)Jeong, Babović, Gorshkov, Kim, Jensen, and
+  Kohlbacher]{jeong2022flashida}
+Kyowon Jeong, Maša Babović, Vladimir Gorshkov, et~al.
+\newblock Flashida enables intelligent data acquisition for top-down proteomics
+  to boost proteoform identification counts.
+\newblock \emph{Nature communications}, 13\penalty0 (1), 2022.
+\newblock ISSN 2041-1723.
+\newblock \doi{10.1038/s41467-022-31922-z}.
+
+\bibitem[den Boer et~al.(2020)den Boer, Greisch, Tamara, Bondt, and
+  Heck]{boer2020selectivity}
+Maurits~A. den Boer, Jean-Francois Greisch, Sem Tamara, Albert Bondt, and
+  Albert J.~R. Heck.
+\newblock Selectivity over coverage in de novo sequencing of iggs.
+\newblock \emph{Chemical science}, 11\penalty0 (43):\penalty0 11886--11896,
+  2020.
+\newblock ISSN 2041-6520.
+\newblock \doi{10.1039/d0sc03438j}.
+
+\bibitem[Dupré et~al.(2021)Dupré, Duchateau, Sternke-Hoffmann, Boquoi,
+  Malosse, Fenk, Haas, Buell, Rey, and Chamot-Rooke]{dupré2021de}
+Mathieu Dupré, Magalie Duchateau, Rebecca Sternke-Hoffmann, et~al.
+\newblock De novo sequencing of antibody light chain proteoforms from patients
+  with multiple myeloma.
+\newblock \emph{Analytical Chemistry}, 93\penalty0 (30):\penalty0 10627--10634,
+  2021.
+\newblock ISSN 15206882.
+\newblock \doi{10.1021/acs.analchem.1c01955}.
+
+\bibitem[Brodbelt(2016)]{brodbelt2016ion}
+Jennifer~S. Brodbelt.
+\newblock Ion activation methods for peptides and proteins.
+\newblock \emph{Analytical Chemistry}, 88\penalty0 (1):\penalty0 30--51, 2016.
+\newblock ISSN 15206882.
+\newblock \doi{10.1021/acs.analchem.5b04563}.
+
+\bibitem[Klein et~al.(2021)Klein, heckendorfc, Lukauskas, and
+  mstim]{klein2021mobiusklein/msdeisotope:}
+Joshua Klein, heckendorfc, Saulius Lukauskas, and mstim.
+\newblock mobiusklein/msdeisotope: Release v0.0.33.
+\newblock 2021.
+\newblock \doi{10.5281/zenodo.5759830}.
+
+\bibitem[Schulte et~al.(2022)Schulte, Peng, and
+  Snijder]{schulte2022template-based}
+Douwe Schulte, Weiwei Peng, and Joost Snijder.
+\newblock Template-based assembly of proteomic short reads for de novo antibody
+  sequencing and repertoire profiling.
+\newblock \emph{Analytical chemistry}, 94\penalty0 (29):\penalty0 10391--10399,
+  2022.
+\newblock ISSN 1520-6882.
+\newblock \doi{10.1021/acs.analchem.2c01300}.
+
+\bibitem[Ma et~al.(2003)Ma, Zhang, Hendrie, Liang, Li, Doherty-Kirby, and
+  Lajoie]{ma2003peaks:}
+Bin Ma, Kaizhong Zhang, Christopher Hendrie, et~al.
+\newblock Peaks: powerful software for peptide de novo sequencing by tandem
+  mass spectrometry.
+\newblock \emph{Rapid Communications in Mass Spectrometry}, 17\penalty0
+  (20):\penalty0 2337--2342, 2003.
+\newblock ISSN 0951-4198.
+\newblock \doi{10.1002/rcm.1196}.
+
+\bibitem[Peng et~al.(2021)Peng, Pronker, and Snijder]{peng2021mass}
+Weiwei Peng, Matti~F. Pronker, and Joost Snijder.
+\newblock Mass spectrometry-based de novo sequencing of monoclonal antibodies
+  using multiple proteases and a dual fragmentation scheme.
+\newblock \emph{Journal of Proteome Research}, 20\penalty0 (7):\penalty0
+  3559--3566, 2021.
+\newblock ISSN 1535-3893.
+\newblock \doi{10.1021/acs.jproteome.1c00169}.
+
+\bibitem[Johnston et~al.(2022)Johnston, Yadav, Kirkpatrick, Biggs, Oxley,
+  Kramer, and Samant]{johnston2022solvent}
+Harvey~E. Johnston, Kranthikumar Yadav, Joanna~M. Kirkpatrick, et~al.
+\newblock Solvent precipitation sp3 (sp4) enhances recovery for proteomics
+  sample preparation without magnetic beads.
+\newblock \emph{Analytical Chemistry}, 94\penalty0 (29):\penalty0 10320--10328,
+  2022.
+\newblock ISSN 15206882.
+\newblock \doi{10.1021/acs.analchem.1c04200/supplfile/ac1c04200si002.xlsx}.
+
+\end{thebibliography}

@@ -1,0 +1,1435 @@
+@article{london1902der,
+	author={London, E S},
+	title={Der gegenwärtige Stand der Lehre von den Cytolysinen und die cytolytische Theorie der Immunität},
+	journal={Zentralbl. f. Bakteriol., Parasitenk. u. Infektionskrankh., Abt. II, Bd},
+	volume=32,
+	year=1902,
+}
+waarschuwing: did not find number
+waarschuwing: did not find pages
+waarschuwing: did not find issn
+waarschuwing: did not find doi
+
+@article{lindenmann1984origin,
+	author={Lindenmann, Jean},
+	title={Origin of the terms 'antibody' and 'antigen'},
+	journal={Scandinavian Journal of Immunology},
+	volume=19,
+	number=4,
+	pages={281--285},
+	year=1984,
+	issn={0300-9475},
+	doi={10.1111/j.1365-3083.1984.tb00931.x},
+}
+
+
+@article{marks2020how,
+	author={Marks, Claire and Deane, Charlotte M},
+	title={How repertoire data are changing antibody science.},
+	journal={The Journal of biological chemistry},
+	volume=295,
+	number=29,
+	pages={9823--9837},
+	year=2020,
+	issn={1083-351},
+	doi={10.1074/jbc.rev120.010181},
+}
+waarschuwing: changed issn from {1083-351X},
+
+@article{raybould2020thera-sabdab:,
+	author={Raybould, Matthew I J and Marks, Claire and Lewis, Alan P and Shi, Jiye and Bujotzek, Alexander and Taddese, Bruck and Deane, Charlotte M},
+	title={Thera-SAbDab: the Therapeutic Structural Antibody Database.},
+	journal={Nucleic acids research},
+	volume=48,
+	number=1,
+	pages={383--388},
+	year=2020,
+	issn={1362-4962},
+	doi={10.1093/nar/gkz827},
+}
+waarschuwing: changed number from {D1},
+waarschuwing: changed pages from {D383--D388},
+
+@article{kaplon2021antibodies,
+	author={Kaplon, Hélène and Reichert, Janice M.},
+	title={Antibodies to watch in 2021},
+	journal={mAbs},
+	volume=13,
+	number=1,
+	year=2021,
+	issn=19420870,
+	doi={10.1080/19420862.2020.1860476},
+}
+waarschuwing: did not find pages
+
+@article{singh2018monoclonal,
+	author={Singh, Surjit and Kumar, Nitish K. and Dwiwedi, Pradeep and Charan, Jaykaran and Kaur, Rimplejeet and Sidhu, Preeti and Chugh, Vinay Kumar},
+	title={Monoclonal Antibodies: A Review},
+	journal={Current Clinical Pharmacology},
+	volume=13,
+	number=2,
+	pages={85--99},
+	year=2018,
+	issn=15748847,
+	doi={10.2174/1574884712666170809124728},
+}
+
+
+@article{schroeder2010structure,
+	author={Schroeder, Harry W. and Cavacini, Lisa},
+	title={Structure and function of immunoglobulins},
+	journal={Journal of Allergy and Clinical Immunology},
+	volume=125,
+	number=2,
+	pages={41--52},
+	year=2010,
+	issn=00916749,
+	doi={10.1016/j.jaci.2009.09.046},
+}
+waarschuwing: changed pages from {S41--S52},
+
+@article{bornholdt2016isolation,
+	author={Bornholdt, Zachary A. and Turner, Hannah L. and Murin, Charles D. and Li, Wen and Sok, Devin and Souders, Colby A. and Piper, Ashley E. and Goff, Arthur and Shamblin, Joshua D. and Wollen, Suzanne E. and Sprague, Thomas R. and Fusco, Marnie L. and Pommert, Kathleen B. J. and Cavacini, Lisa A. and Smith, Heidi L. and Klempner, Mark and Reimann, Keith A. and Krauland, Eric and Gerngross, Tillman U. and Wittrup, Karl D. and Saphire, Erica Ollmann and Burton, Dennis R. and Glass, Pamela J. and Ward, Andrew B. and Walker, Laura M.},
+	title={Isolation of potent neutralizing antibodies from a survivor of the 2014 Ebola virus outbreak.},
+	journal={Science},
+	volume=351,
+	number=6277,
+	pages={1078--1083},
+	year=2016,
+	issn={1095-9203},
+	doi={10.1126/science.aad5788},
+}
+
+
+@article{corti2016protective,
+	author={Corti, Davide and Misasi, John and Mulangu, Sabue and Stanley, Daphne A and Kanekiyo, Masaru and Wollen, Suzanne and Ploquin, Aurélie and Doria-Rose, Nicole A and Staupe, Ryan P and Bailey, Michael and Shi, Wei and Choe, Misook and Marcus, Hadar and Thompson, Emily A and Cagigi, Alberto and Silacci, Chiara and Fernandez-Rodriguez, Blanca and Perez, Laurent and Sallusto, Federica and Vanzetta, Fabrizia and Agatic, Gloria and Cameroni, Elisabetta and Kisalu, Neville and Gordon, Ingelise and Ledgerwood, Julie E and Mascola, John R and Graham, Barney S and Muyembe-Tamfun, Jean-Jacques and Trefry, John C and Lanzavecchia, Antonio and Sullivan, Nancy J},
+	title={Protective monotherapy against lethal Ebola virus infection by a potently neutralizing antibody.},
+	journal={Science (New York, N.Y.)},
+	volume=351,
+	number=6279,
+	pages={1339--1342},
+	year=2016,
+	issn={1095-9203},
+	doi={10.1126/science.aad5224},
+}
+
+
+@article{valgardsdottir2021identification,
+	author={Valgardsdottir, Rut and Cattaneo, Irene and Napolitano, Gavino and Raglio, Annibale and Spinelli, Orietta and Salmoiraghi, Silvia and Castilletti, Concetta and Lapa, Daniele and Capobianchi, Maria Rosaria and Farina, Claudio and Golay, Josee},
+	title={Identification of Human SARS-CoV-2 Monoclonal Antibodies from Convalescent Patients Using EBV Immortalization},
+	journal={Antibodies},
+	volume=10,
+	number=3,
+	pages=26,
+	year=2021,
+	issn={2073-4468},
+	doi={10.3390/antib10030026},
+}
+
+
+@article{schroederjr.2006similarity,
+	author={Schroeder Jr., H W},
+	title={Similarity and divergence in the development and expression of the mouse and human antibody repertoires},
+	journal={Dev Comp Immunol},
+	volume=30,
+	number=12,
+	pages={119--135},
+	year=2006,
+	doi={10.1016/j.dci.2005.06.006},
+}
+waarschuwing: changed number from {1-2},
+waarschuwing: did not find issn
+
+@article{briney2019commonality,
+	author={Briney, Bryan and Inderbitzin, Anne and Joyce, Collin and Burton, Dennis R.},
+	title={Commonality despite exceptional diversity in the baseline human antibody repertoire.},
+	journal={Nature},
+	volume=566,
+	number=7744,
+	pages={393--397},
+	year=2019,
+	issn={1476-4687},
+	doi={10.1038/s41586-019-0879-y},
+}
+
+
+@incollection{hom2022exploring,
+	author={Hom, Jennifer R. and Tomar, Deepak and Tipton, Christopher M.},
+	booktitle={Methods in Molecular Biology: Immune Receptors},
+	title={Exploring the Diversity of the B-Cell Receptor Repertoire Through High-Throughput Sequencing},
+	year=2022,
+	pages={231--241},
+	address={Clifton (NJ)},
+}
+waarschuwing: did not find edition
+waarschuwing: did not find isbn
+
+@article{altelaar2013next-generation,
+	author={Altelaar, A. F. Maarten and Munoz, Javier and Heck, Albert J. R.},
+	title={Next-generation proteomics: towards an integrative view of proteome dynamics},
+	journal={Nature Reviews Genetics},
+	volume=14,
+	number=1,
+	pages={35--48},
+	year=2013,
+	issn={1471-0056},
+	doi={10.1038/nrg3356},
+}
+
+
+@article{aebersold2016mass-spectrometric,
+	author={Aebersold, Ruedi and Mann, Matthias},
+	title={Mass-spectrometric exploration of proteome structure and function},
+	journal={Nature},
+	volume=537,
+	number=7620,
+	pages={347--355},
+	year=2016,
+	issn={0028-0836},
+	doi={10.1038/nature19949},
+}
+
+
+@article{sen2017automated,
+	author={Sen, K. Ilker and Tang, Wilfred H and Nayak, Shruti and Kil, Yong J and Bern, Marshall and Ozoglu, Berk and Ueberheide, Beatrix and Davis, Darryl and Becker, Christopher},
+	title={Automated Antibody De Novo Sequencing and Its Utility in Biopharmaceutical Discovery.},
+	journal={Journal of the American Society for Mass Spectrometry},
+	volume=28,
+	number=5,
+	pages={803--810},
+	year=2017,
+	issn={1879-1123},
+	doi={10.1007/s13361-016-1580-0},
+}
+
+
+@article{peng2021mass,
+	author={Peng, Weiwei and Pronker, Matti F. and Snijder, Joost},
+	title={Mass Spectrometry-Based De Novo Sequencing of Monoclonal Antibodies Using Multiple Proteases and a Dual Fragmentation Scheme},
+	journal={Journal of Proteome Research},
+	volume=20,
+	number=7,
+	pages={3559--3566},
+	year=2021,
+	issn={1535-3893},
+	doi={10.1021/acs.jproteome.1c00169},
+}
+
+
+@article{srzentić2020interlaboratory,
+	author={Srzentić, Kristina and Fornelli, Luca and Tsybin, Yury O. and Loo, Joseph A. and Seckler, Henrique and Agar, Jeffrey N. and Anderson, Lissa C. and Bai, Dina L. and Beck, Alain and Brodbelt, Jennifer S. and van der Burgt, Yuri E. M. and Chamot-Rooke, Julia and Chatterjee, Sneha and Chen, Yunqiu and Clarke, David J. and Danis, Paul O. and Diedrich, Jolene K. and D’Ippolito, Robert A. and Dupré, Mathieu and Gasilova, Natalia and Ge, Ying and Goo, Young Ah and Goodlett, David R. and Greer, Sylvester and Haselmann, Kim F. and He, Lidong and Hendrickson, Christopher L. and Hinkle, Joshua D. and Holt, V. Matthew and Hughes, Sam and Hunt, Donald F. and Kelleher, Neil L. and Kozhinov, Anton N. and Lin, Ziqing and Malosse, Christian and Marshall, Alan G. and Menin, Laure and Millikin, Robert J. and Nagornov, Konstantin O. and Nicolardi, Simone and Paša-Tolić, Ljiljana and Pengelley, Stuart and Quebbemann, Neil R. and Resemann, Anja and Sandoval, Wendy and Sarin, Richa and Schmitt, Nicholas D. and Shabanowitz, Jeffrey and Shaw, Jared B. and Shortreed, Michael R. and Smith, Lloyd M. and Sobott, Frank and Suckau, Detlev and Toby, Timothy and Weisbrod, Chad R. and Wildburger, Norelle C. and Yates, John R. and Yoon, Sung Hwan and Young, Nicolas L. and Zhou, Mowei},
+	title={Interlaboratory Study for Characterizing Monoclonal Antibodies by Top-Down and Middle-Down Mass Spectrometry},
+	journal={Journal of the American Society for Mass Spectrometry},
+	volume=31,
+	number=9,
+	pages={1783--1802},
+	year=2020,
+	issn={1044-0305},
+	doi={10.1021/jasms.0c00036},
+}
+
+
+@article{chiu2019antibody,
+	author={Chiu, Mark L. and Goulet, Dennis R. and Teplyakov, Alexey and Gilliland, Gary L.},
+	title={Antibody Structure and Function: The Basis for Engineering Therapeutics.},
+	journal={Antibodies (Basel, Switzerland)},
+	volume=8,
+	number=4,
+	pages=55,
+	year=2019,
+	issn={2073-4468},
+	doi={10.3390/antib8040055},
+}
+
+
+@article{porter1959hydrolysis,
+	author={Porter, R R},
+	title={The hydrolysis of rabbit γ-globulin and antibodies with crystalline papain},
+	journal={Biochemical Journal},
+	volume=73,
+	number=1,
+	pages={119--127},
+	year=1959,
+	issn={0306-3283},
+	doi={10.1042/bj0730119},
+}
+
+
+@article{herr2003insights,
+	author={Herr, Andrew B. and Ballister, Edward R. and Bjorkman, Pamela J.},
+	title={Insights into IgA-mediated immune responses from the crystal structures of human FcalphaRI and its complex with IgA1-Fc.},
+	journal={Nature},
+	volume=423,
+	number=6940,
+	pages={614--20},
+	year=2003,
+	issn={0028-0836},
+	doi={10.1038/nature01685},
+}
+
+
+@incollection{charlesajaneway2001generation,
+	author={Charles A Janeway, Jr and Travers, Paul and Walport, Mark and Shlomchik, Mark J},
+	booktitle={Immunobiology: The Immune System in Health and Disease},
+	title={The generation of diversity in immunoglobulins},
+	year=2001,
+	address={New York (NY)},
+	edition=5,
+	isbn={0-8153-3642-X},
+}
+waarschuwing: did not find pages
+
+@incollection{alberts2002generation,
+	author={Alberts, Bruce and Johnson, Alexander and Lewis, Julian and Raff, Martin and Roberts, Keith and Walter, Peter},
+	booktitle={Molecular Biology of the Cell},
+	title={The Generation of Antibody Diversity},
+	year=2002,
+	address={New York (NY)},
+	edition=4,
+	isbn={0-8153-3218-1},
+}
+waarschuwing: did not find pages
+
+@article{jeske1984junctional,
+	author={Jeske, D J and Jarvis, J and Milstein, C and Capra, J D},
+	title={Junctional diversity is essential to antibody activity.},
+	journal={Journal of immunology},
+	volume=133,
+	number=3,
+	pages={1090--1092},
+	year=1984,
+	issn={0022-1767},
+}
+waarschuwing: did not find doi
+
+@article{aebersold2003mass,
+	author={Aebersold, Ruedi and Mann, Matthias},
+	title={Mass spectrometry-based proteomics},
+	journal={Nature},
+	volume=422,
+	number=6928,
+	pages={198--207},
+	year=2003,
+	issn={0028-0836},
+	doi={10.1038/nature01511},
+}
+
+
+@article{tran2016complete,
+	author={Tran, Ngoc Hieu and Rahman, M Ziaur and He, Lin and Xin, Lei and Shan, Baozhen and Li, Ming},
+	title={Complete De Novo Assembly of Monoclonal Antibody Sequences},
+	journal={Scientific Reports},
+	volume=6,
+	number=1,
+	pages=31730,
+	year=2016,
+	issn={2045-2322},
+	doi={10.1038/srep31730},
+}
+
+
+@article{guthals2012shotgun,
+	author={Guthals, Adrian and Clauser, Karl R and Bandeira, Nuno},
+	title={Shotgun Protein Sequencing with Meta-contig Assembly},
+	journal={Molecular and Cellular Proteomics},
+	volume=11,
+	number=10,
+	pages={1084--1096},
+	year=2012,
+	issn=15359476,
+	doi={10.1074/mcp.m111.015768},
+}
+waarschuwing: changed doi from {10.1074/mcp.M111.015768},
+
+@article{donnelly2019best,
+	author={Donnelly, Daniel P. and Rawlins, Catherine M. and DeHart, Caroline J. and Fornelli, Luca and Schachner, Luis F. and Lin, Ziqing and Lippens, Jennifer L. and Aluri, Krishna C. and Sarin, Richa and Chen, Bifan and Lantz, Carter and Jung, Wonhyeuk and Johnson, Kendall R. and Koller, Antonius and Wolff, Jeremy J. and Campuzano, Iain D.G. and Auclair, Jared R. and Ivanov, Alexander R. and Whitelegge, Julian P. and Paša-Tolić, Ljiljana and Chamot-Rooke, Julia and Danis, Paul O. and Smith, Lloyd M. and Tsybin, Yury O. and Loo, Joseph A. and Ge, Ying and Kelleher, Neil L. and Agar, Jeffrey N.},
+	title={Best practices and benchmarks for intact protein analysis for top-down mass spectrometry},
+	journal={Nature Methods 2019 16:7},
+	volume=16,
+	number=7,
+	pages={587--594},
+	year=2019,
+	issn={1548-7105},
+	doi={10.1038/s41592-019-0457-0},
+}
+
+
+@article{bondt2021human,
+	author={Bondt, Albert and Hoek, Max and Tamara, Sem and de Graaf, Bastiaan and Peng, Weiwei and Schulte, Douwe and van Rijswijck, Danique M.H. and den Boer, Maurits A. and Greisch, Jean François and Varkila, Meri R.J. and Snijder, Joost and Cremer, Olaf L. and Bonten, Marc J.M. and Heck, Albert J.R.},
+	title={Human plasma IgG1 repertoires are simple, unique, and dynamic},
+	journal={Cell Systems},
+	volume=12,
+	number=12,
+	pages={1131--11435},
+	year=2021,
+	issn=24054720,
+	doi={10.1016/j.cels.2021.08.008},
+}
+waarschuwing: changed pages from {1131--1143.e5},
+
+@article{guthals2017de,
+	author={Guthals, Adrian and Gan, Yutian and Murray, Laura and Chen, Yongmei and Stinson, Jeremy and Nakamura, Gerald and Lill, Jennie R. and Sandoval, Wendy and Bandeira, Nuno},
+	title={De Novo MS/MS Sequencing of Native Human Antibodies},
+	journal={Journal of Proteome Research},
+	volume=16,
+	number=1,
+	pages={45--54},
+	year=2017,
+	issn={1535-3893},
+	doi={10.1021/acs.jproteome.6b00608},
+}
+
+
+@article{toby2016progress,
+	author={Toby, Timothy K. and Fornelli, Luca and Kelleher, Neil L.},
+	title={Progress in Top-Down Proteomics and the Analysis of Proteoforms},
+	journal={Annual Review of Analytical Chemistry},
+	volume=9,
+	number=1,
+	pages={499--519},
+	year=2016,
+	issn={1936-1327},
+	doi={10.1146/annurev-anchem-071015-041550},
+}
+
+
+@article{compton2011on,
+	author={Compton, Philip D and Zamdborg, Leonid and Thomas, Paul M and Kelleher, Neil L},
+	title={On the scalability and requirements of whole protein mass spectrometry.},
+	journal={Analytical chemistry},
+	volume=83,
+	number=17,
+	pages={6868--6874},
+	year=2011,
+	issn={1520-6882},
+	doi={10.1021/ac2010795},
+}
+
+
+@article{johansson2008ides:,
+	author={Johansson, Björn P. and Shannon, Oonagh and Björck, Lars},
+	title={IdeS: A Bacterial Proteolytic Enzyme with Therapeutic Potential},
+	journal={PLoS ONE},
+	volume=3,
+	number=2,
+	pages={1692},
+	year=2008,
+	issn={1932-6203},
+	doi={10.1371/journal.pone.0001692},
+}
+waarschuwing: changed pages from {e1692},
+
+@article{fornelli2014middle-down,
+	author={Fornelli, Luca and Ayoub, Daniel and Aizikov, Konstantin and Beck, Alain and Tsybin, Yury O},
+	title={Middle-Down Analysis of Monoclonal Antibodies with Electron Transfer Dissociation Orbitrap Fourier Transform Mass Spectrometry},
+	journal={Analytical Chemistry},
+	volume=86,
+	number=6,
+	pages={3005--3012},
+	year=2014,
+	issn={0003-2700},
+	doi={10.1021/ac4036857},
+}
+
+
+@article{hudziak1989p,
+	author={Hudziak, Robert M and Lewis, Gail D and Winget, Marcy and Fendly, Brian M and Shepard, H Michael and Ullrich, A},
+	title={p185HER2 monoclonal antibody has antiproliferative effects in vitro and sensitizes human breast tumor cells to tumor necrosis factor},
+	journal={Molecular and Cellular Biology},
+	volume=9,
+	number=3,
+	pages={1165--1172},
+	year=1989,
+	issn={0270-7306},
+	doi={10.1128/mcb.9.3.1165-1172.1989},
+}
+
+
+@article{carter1992humanization,
+	author={Carter, Paul and Presta, L. and Gorman, Cornelia M and Ridgway, J B and Henner, Dennis and Wong, W L and Rowland, Ann M and Kotts, CMEC and Carver, Monique E and Shepard, H Michael},
+	title={Humanization of an anti-p185HER2 antibody for human cancer therapy.},
+	journal={Proceedings of the National Academy of Sciences of the United States of America},
+	volume=89,
+	number=10,
+	pages={4285--4289},
+	year=1992,
+	issn={0027-8424},
+	doi={10.1073/pnas.89.10.4285},
+}
+
+
+@article{tsurushita2005design,
+	author={Tsurushita, Naoya and Hinton, Paul R. and Kumar, Shankar},
+	title={Design of humanized antibodies: From anti-Tac to Zenapax},
+	journal={Methods},
+	volume=36,
+	number=1,
+	pages={69--83},
+	year=2005,
+	issn=10462023,
+	doi={10.1016/j.ymeth.2005.01.007},
+}
+
+
+@article{khoja2015pembrolizumab,
+	author={Khoja, Leila and Butler, Marcus O and Kang, S Peter and Ebbinghaus, Scott and Joshua, Anthony M},
+	title={Pembrolizumab},
+	journal={Journal for ImmunoTherapy of Cancer},
+	volume=3,
+	number=1,
+	pages=36,
+	year=2015,
+	issn={2051-1426},
+	doi={10.1186/s40425-015-0078-9},
+}
+
+
+@article{busse2001omalizumab,
+	author={Busse, William and Corren, Jonathan and Lanier, Bobby Quentin and McAlary, Margaret and Fowler-Taylor, Angel and Cioppa, Della Giovanni and van As, Andre and Gupta, Niroo},
+	title={Omalizumab, anti-IgE recombinant humanized monoclonal antibody, for the treatment of severe allergic asthma},
+	journal={Journal of Allergy and Clinical Immunology},
+	volume=108,
+	number=2,
+	pages={184--190},
+	year=2001,
+	issn=00916749,
+	doi={10.1067/mai.2001.117880},
+}
+
+
+@article{presta1993humanization,
+	author={Presta, L G and Lahr, S J and Shields, R L and Porter, J P and Gorman, C M and Fendly, B M and Jardieu, P M},
+	title={Humanization of an antibody directed against IgE.},
+	journal={Journal of immunology},
+	volume=151,
+	number=5,
+	pages={2623--2632},
+	year=1993,
+	issn={0022-1767},
+}
+waarschuwing: did not find doi
+
+@article{lu2020development,
+	author={Lu, Ruei-Min and Hwang, Yu-Chyi and Liu, I-Ju and Lee, Chi-Chiu and Tsai, Han-Zen and Li, Hsin-Jung and Wu, Han-Chung},
+	title={Development of therapeutic antibodies for the treatment of diseases},
+	journal={Journal of Biomedical Science},
+	volume=27,
+	number=1,
+	pages=1,
+	year=2020,
+	issn={1423-0127},
+	doi={10.1186/s12929-019-0592-z},
+}
+
+
+@article{morsa2019multi-enzymatic,
+	author={Morsa, Denis and Baiwir, Dominique and La Rocca, Raphaël and Zimmerman, Tyler A. and Hanozin, Emeline and Grifnée, Elodie and Longuespée, Rémi and Meuwis, Marie-Alice and Smargiasso, Nicolas and Pauw, De Edwin and Mazzucchelli, Gabriel},
+	title={Multi-Enzymatic Limited Digestion: The Next-Generation Sequencing for Proteomics?},
+	journal={Journal of Proteome Research},
+	volume=18,
+	number=6,
+	pages={2501--2513},
+	year=2019,
+	issn={1535-3893},
+	doi={10.1021/acs.jproteome.9b00044},
+}
+
+
+@article{bandeira2008beyond,
+	author={Bandeira, Nuno and Pham, Victoria and Pevzner, Pavel and Arnott, David and Lill, Jennie R},
+	title={Beyond Edman Degradation: Automated de novo protein sequencing of monoclonal antibodies},
+	journal={Nature Biotechnology},
+	volume=26,
+	number=12,
+	pages={1336--1338},
+	year=2008,
+	issn={1087-0156},
+	doi={10.1038/nbt1208-1336},
+}
+
+
+@article{castellana2010template,
+	author={Castellana, Natalie E and Pham, Victoria and Arnott, David and Lill, Jennie R and Bafna, Vineet},
+	title={Template Proteogenomics: Sequencing Whole Proteins Using an Imperfect Database},
+	journal={Molecular and Cellular Proteomics},
+	volume=9,
+	number=6,
+	pages={1260--1270},
+	year=2010,
+	issn=15359476,
+	doi={10.1074/mcp.m900504-mcp200},
+}
+waarschuwing: changed doi from {10.1074/mcp.M900504-MCP200},
+
+@article{savidor2017database-independent,
+	author={Savidor, Alon and Barzilay, Rotem and Elinger, Dalia and Yarden, Yosef and Lindzen, Moshit and Gabashvili, Alexandra and Adiv Tal, Ophir and Levin, Yishai},
+	title={Database-independent Protein Sequencing (DiPS) Enables Full-length de Novo Protein and Antibody Sequence Determination.},
+	journal={Molecular and cellular proteomics : MCP},
+	volume=16,
+	number=6,
+	pages={1151--1161},
+	year=2017,
+	issn={1535-9484},
+	doi={10.1074/mcp.o116.065417},
+}
+waarschuwing: changed doi from {10.1074/mcp.O116.065417},
+
+@article{liu2009automated,
+	author={Liu, Xiaowen and Han, Yonghua and Yuen, Denis and Ma, Bin},
+	title={Automated protein (re)sequencing with MS/MS and a homologous database yields almost full coverage and accuracy},
+	journal={Bioinformatics},
+	volume=25,
+	number=17,
+	pages={2174--2180},
+	year=2009,
+	issn={1460-2059},
+	doi={10.1093/bioinformatics/btp366},
+}
+
+
+@article{he2018protein,
+	author={He, Lidong and Weisbrod, Chad R. and Marshall, Alan G.},
+	title={Protein de novo sequencing by top-down and middle-down MS/MS: Limitations imposed by mass measurement accuracy and gaps in sequence coverage},
+	journal={International Journal of Mass Spectrometry},
+	volume=427,
+	pages={107--113},
+	year=2018,
+	issn=13873806,
+	doi={10.1016/j.ijms.2017.11.012},
+}
+waarschuwing: did not find number
+
+@article{macias2020ion,
+	author={Macias, Luis A. and Santos, Inês C. and Brodbelt, Jennifer S.},
+	title={Ion Activation Methods for Peptides and Proteins},
+	journal={Analytical Chemistry},
+	volume=92,
+	number=1,
+	pages={227--251},
+	year=2020,
+	issn={0003-2700},
+	doi={10.1021/acs.analchem.9b04859},
+}
+
+
+@article{roepstorff1984proposal,
+	author={Roepstorff, P. and Fohlman, J.},
+	title={Proposal for a common nomenclature for sequence ions in mass spectra of peptides.},
+	journal={Biomedical mass spectrometry},
+	volume=11,
+	number=11,
+	pages=601,
+	year=1984,
+	issn={0306-042},
+	doi={10.1002/bms.1200111109},
+}
+waarschuwing: changed issn from {0306-042X},
+
+@article{syka2004peptide,
+	author={Syka, John E. P. and Coon, Joshua J. and Schroeder, Melanie J. and Shabanowitz, Jeffrey and Hunt, Donald F.},
+	title={Peptide and protein sequence analysis by electron transfer dissociation mass spectrometry},
+	journal={Proceedings of the National Academy of Sciences},
+	volume=101,
+	number=26,
+	pages={9528--9533},
+	year=2004,
+	issn={0027-8424},
+	doi={10.1073/pnas.0402700101},
+}
+
+
+@article{zubarev2000electron,
+	author={Zubarev, Roman A. and Horn, David M. and Fridriksson, Einar K. and Kelleher, Neil L. and Kruger, Nathan A. and Lewis, Mark A. and Carpenter, Barry K. and McLafferty, Fred W.},
+	title={Electron Capture Dissociation for Structural Characterization of Multiply Charged Protein Cations},
+	journal={Analytical Chemistry},
+	volume=72,
+	number=3,
+	pages={563--573},
+	year=2000,
+	issn={0003-2700},
+	doi={10.1021/ac990811p},
+}
+
+
+@article{mcluckey1998ion/ion,
+	author={McLuckey, Scott A. and Stephenson, James L.},
+	title={Ion/ion chemistry of high-mass multiply charged ions},
+	journal={Mass Spectrometry Reviews},
+	volume=17,
+	number=6,
+	pages={369--407},
+	year=1998,
+	issn=02777037,
+	doi={10.1002/(sici)1098-2787(1998)17:6<369::aid-mas1>3.0.co;2-j},
+}
+waarschuwing: changed doi from {10.1002/(SICI)1098-2787(1998)17:6{\textless}369::AID-MAS1{\textgreater}3.0.CO;2-J},
+waarschuwing: changed doi from {10.1002/(sici)1098-2787(1998)17:6{\textless}369::aid-mas1{\textgreater}3.0.co;2-j},
+waarschuwing: changed doi from {10.1002/(sici)1098-2787(1998)17:6<369::aid-mas1{\textgreater}3.0.co;2-j},
+
+@article{brodbelt2016ion,
+	author={Brodbelt, Jennifer S.},
+	title={Ion Activation Methods for Peptides and Proteins},
+	journal={Analytical Chemistry},
+	volume=88,
+	number=1,
+	pages={30--51},
+	year=2016,
+	issn=15206882,
+	doi={10.1021/acs.analchem.5b04563},
+}
+
+
+@article{brodbelt2020ultraviolet,
+	author={Brodbelt, Jennifer S. and Morrison, Lindsay J. and Santos, Inês},
+	title={Ultraviolet Photodissociation Mass Spectrometry for Analysis of Biological Molecules},
+	journal={Chemical Reviews},
+	volume=120,
+	number=7,
+	pages={3328--3380},
+	year=2020,
+	issn={0009-2665},
+	doi={10.1021/acs.chemrev.9b00440},
+}
+
+
+@article{xiao2016distinguishing,
+	author={Xiao, Yongsheng and Vecchi, Malgorzata M. and Wen, Dingyi},
+	title={Distinguishing between Leucine and Isoleucine by Integrated LC-MS Analysis Using an Orbitrap Fusion Mass Spectrometer},
+	journal={Analytical Chemistry},
+	volume=88,
+	number=21,
+	pages={10757--10766},
+	year=2016,
+	issn=15206882,
+	doi={10.1021/acs.analchem.6b03409},
+}
+
+
+@article{kjeldsen2003distinguishing,
+	author={Kjeldsen, Frank and Haselmann, Kim F. and Sørensen, Esben S. and Zubarev, Roman A.},
+	title={Distinguishing of Ile/Leu Amino Acid Residues in the PP3 Protein by (Hot) Electron Capture Dissociation in Fourier Transform Ion Cyclotron Resonance Mass Spectrometry},
+	journal={Analytical Chemistry},
+	volume=75,
+	number=6,
+	pages={1267--1274},
+	year=2003,
+	issn={0003-2700},
+	doi={10.1021/ac020422m},
+}
+
+
+@article{horn2000automated,
+	author={Horn, D M and Zubarev, R A and McLafferty, F W},
+	title={Automated de novo sequencing of proteins by tandem high-resolution mass spectrometry},
+	journal={Proceedings of the National Academy of Sciences},
+	volume=97,
+	number=19,
+	pages={10313--10317},
+	year=2000,
+	issn={0027-8424},
+	doi={10.1073/pnas.97.19.10313},
+}
+
+
+@article{guthals2013sequencing-grade,
+	author={Guthals, Adrian and Clauser, Karl R. and Frank, Ari M. and Bandeira, Nuno},
+	title={Sequencing-grade de novo analysis of MS/MS triplets (CID/HCD/ETD) from overlapping peptides},
+	journal={Journal of Proteome Research},
+	volume=12,
+	number=6,
+	pages={2846--2857},
+	year=2013,
+	issn=15353893,
+	doi={10.1021/pr400173d},
+}
+
+
+@article{vyatkina2017de,
+	author={Vyatkina, Kira},
+	title={De Novo Sequencing of Top-Down Tandem Mass Spectra: A Next Step towards Retrieving a Complete Protein Sequence.},
+	journal={Proteomes},
+	volume=5,
+	number=1,
+	pages=6,
+	year=2017,
+	issn={2227-7382},
+	doi={10.3390/proteomes5010006},
+}
+
+
+@article{datta2009spectrum,
+	author={Datta, Ritendra and Bern, Marshall},
+	title={Spectrum Fusion: Using Multiple Mass Spectra for De Novo Peptide Sequencing},
+	journal={Journal of Computational Biology},
+	volume=16,
+	number=8,
+	pages={1169--1182},
+	year=2009,
+	issn={1066-5277},
+	doi={10.1089/cmb.2009.0122},
+}
+
+
+@article{horton2017comprehensive,
+	author={Horton, Andrew P. and Robotham, Scott A. and Cannon, Joe R. and Holden, Dustin D. and Marcotte, Edward M. and Brodbelt, Jennifer S.},
+	title={Comprehensive de Novo Peptide Sequencing from MS/MS Pairs Generated through Complementary Collision Induced Dissociation and 351 nm Ultraviolet Photodissociation},
+	journal={Analytical Chemistry},
+	volume=89,
+	number=6,
+	pages={3747--3753},
+	year=2017,
+	issn={0003-2700},
+	doi={10.1021/acs.analchem.7b00130},
+}
+
+
+@article{bertsch2009de,
+	author={Bertsch, Andreas and Leinenbach, Andreas and Pervukhin, Anton and Lubeck, Markus and Hartmer, Ralf and Baessmann, Carsten and Elnakady, Yasser Abbas and Müller, Rolf and Böcker, Sebastian and Huber, Christian G and Kohlbacher, Oliver},
+	title={De novo peptide sequencing by tandem MS using complementary CID and electron transfer dissociation},
+	journal={Electrophoresis},
+	volume=30,
+	number=21,
+	pages={3736--3747},
+	year=2009,
+	issn=01730835,
+	doi={10.1002/elps.200900332},
+}
+
+
+@article{lefranc2003imgt,
+	author={Lefranc, Marie Paule},
+	title={IMGT, the international ImMunoGeneTics database®},
+	journal={Nucleic Acids Research},
+	volume=31,
+	number=1,
+	pages={307--310},
+	year=2003,
+	issn=03051048,
+	doi={10.1093/nar/gkg085},
+}
+
+
+@article{lefranc2020immunoglobulins,
+	author={Lefranc, Marie-Paule and Lefranc, Gérard},
+	title={Immunoglobulins or Antibodies: IMGT® Bridging Genes, Structures and Functions},
+	journal={Biomedicines},
+	volume=8,
+	number=9,
+	pages=319,
+	year=2020,
+	issn={2227-9059},
+	doi={10.3390/biomedicines8090319},
+}
+
+
+@article{schmelter2017peptides,
+	author={Schmelter, Carsten and Perumal, Natarajan and Funke, Sebastian and Bell, Katharina and Pfeiffer, Norbert and Grus, Franz H},
+	title={Peptides of the variable IgG domain as potential biomarker candidates in primary open-angle glaucoma (POAG)},
+	journal={Human Molecular Genetics},
+	volume=26,
+	number=22,
+	pages={4451--4464},
+	year=2017,
+	issn={0964-6906},
+	doi={10.1093/hmg/ddx332},
+}
+
+
+@article{singh2013cerebrospinal-fluid-derived,
+	author={Singh, Vaibhav and Stoop, Marcel P. and Stingl, Christoph and Luitwieler, Ronald L. and Dekker, Lennard J. and van Duijn, Martijn M. and Kreft, Karim L. and Luider, Theo M. and Hintzen, Rogier Q.},
+	title={Cerebrospinal-fluid-derived Immunoglobulin G of Different Multiple Sclerosis Patients Shares Mutated Sequences in Complementarity Determining Regions},
+	journal={Molecular and Cellular Proteomics},
+	volume=12,
+	number=12,
+	pages={3924--3934},
+	year=2013,
+	issn=15359476,
+	doi={10.1074/mcp.m113.030346},
+}
+waarschuwing: changed doi from {10.1074/mcp.M113.030346},
+
+@article{broodman2012mass,
+	author={Broodman, Ingrid and de Costa, Dominique and Stingl, Christoph and Dekker, Lennard J. M. and VanDuijn, Martijn M. and Lindemans, Jan and van Klaveren, Rob J. and Luider, Theo M.},
+	title={Mass spectrometry analyses of κ and λ fractions result in increased number of complementarity-determining region identifications},
+	journal={Proteomics},
+	volume=12,
+	number=2,
+	pages={183--191},
+	year=2012,
+	issn=16159853,
+	doi={10.1002/pmic.201100244},
+}
+
+
+@article{costa2010sequencing,
+	author={de Costa, Dominique and Broodman, Ingrid and VanDuijn, Martijn M. and Stingl, Christoph and Dekker, Lennard J. M. and Burgers, Peter C. and Hoogsteden, Henk C. and Sillevis Smitt, Peter A. E. and van Klaveren, Rob J. and Luider, Theo M.},
+	title={Sequencing and Quantifying IgG Fragments and Antigen-Binding Regions by Mass Spectrometry},
+	journal={Journal of Proteome Research},
+	volume=9,
+	number=6,
+	pages={2937--2945},
+	year=2010,
+	issn={1535-3893},
+	doi={10.1021/pr901114w},
+}
+
+
+@article{tamara2021high-resolution,
+	author={Tamara, Sem and den Boer, Maurits A. and Heck, Albert J. R.},
+	title={High-Resolution Native Mass Spectrometry.},
+	journal={Chemical reviews},
+	pages={100212},
+	year=2021,
+	issn={1520-6890},
+	doi={10.1021/acs.chemrev.1c00212},
+}
+waarschuwing: did not find volume
+waarschuwing: did not find number
+waarschuwing: changed pages from {acs.chemrev.1c00212},
+
+@article{lössl2014boundaries,
+	author={Lössl, Philip and Snijder, Joost and Heck, Albert J. R.},
+	title={Boundaries of Mass Resolution in Native Mass Spectrometry},
+	journal={Journal of the American Society for Mass Spectrometry},
+	volume=25,
+	number=6,
+	pages={906--917},
+	year=2014,
+	issn={1044-0305},
+	doi={10.1007/s13361-014-0874-3},
+}
+
+
+@article{mao2013top-down,
+	author={Mao, Yuan and Valeja, Santosh G and Rouse, Jason C and Hendrickson, Christopher L and Marshall, Alan G},
+	title={Top-down structural analysis of an intact monoclonal antibody by electron capture dissociation-Fourier transform ion cyclotron resonance-mass spectrometry.},
+	journal={Analytical chemistry},
+	volume=85,
+	number=9,
+	pages={4239--4246},
+	year=2013,
+	issn={1520-6882},
+	doi={10.1021/ac303525n},
+}
+
+
+@article{tsybin2011structural,
+	author={Tsybin, Yury O and Fornelli, Luca and Stoermer, Carsten and Luebeck, Markus and Parra, Julien and Nallet, Sophie and Wurm, Florian M and Hartmer, Ralf},
+	title={Structural Analysis of Intact Monoclonal Antibodies by Electron Transfer Dissociation Mass Spectrometry},
+	journal={Analytical Chemistry},
+	volume=83,
+	number=23,
+	pages={8919--8927},
+	year=2011,
+	issn={0003-2700},
+	doi={10.1021/ac201293m},
+}
+
+
+@article{resemann2016full,
+	author={Resemann, Anja and Jabs, Wolfgang and Wiechmann, Anja and Wagner, Elsa and Colas, Olivier and Evers, Waltraud and Belau, Eckhard and Vorwerg, Lars and Evans, Catherine and Beck, Alain and Suckau, Detlev},
+	title={Full validation of therapeutic antibody sequences by middle-up mass measurements and middle-down protein sequencing},
+	journal={mAbs},
+	volume=8,
+	number=2,
+	pages={318--330},
+	year=2016,
+	issn={1942-0862},
+	doi={10.1080/19420862.2015.1128607},
+}
+
+
+@article{greisch2021generating,
+	author={Greisch, Jean-Francois and den Boer, Maurits A. and Beurskens, Frank and Schuurman, Janine and Tamara, Sem and Bondt, Albert and Heck, Albert J. R.},
+	title={Generating Informative Sequence Tags from Antigen-Binding Regions of Heavily Glycosylated IgA1 Antibodies by Native Top-Down Electron Capture Dissociation},
+	journal={Journal of the American Society for Mass Spectrometry},
+	volume=32,
+	number=6,
+	pages={1326--1335},
+	year=2021,
+	issn={1044-0305},
+	doi={10.1021/jasms.0c00461},
+}
+
+
+@article{boer2020selectivity,
+	author={den Boer, Maurits A. and Greisch, Jean-Francois and Tamara, Sem and Bondt, Albert and Heck, Albert J. R.},
+	title={Selectivity over coverage in de novo sequencing of IgGs.},
+	journal={Chemical science},
+	volume=11,
+	number=43,
+	pages={11886--11896},
+	year=2020,
+	issn={2041-6520},
+	doi={10.1039/d0sc03438j},
+}
+
+
+@article{greisch2021extending,
+	author={Greisch, Jean-Francois and den Boer, Maurits A. and Lai, Szu-Hsueh and Gallagher, Kelly and Bondt, Albert and Commandeur, Jan and Heck, Albert J.R.},
+	title={Extending Native Top-Down Electron Capture Dissociation to MDa Immunoglobulin Complexes Provides Useful Sequence Tags Covering Their Critical Variable Complementarity-Determining Regions},
+	journal={Analytical Chemistry},
+	volume=93,
+	number=48,
+	pages={16068--16075},
+	year=2021,
+	issn={0003-2700},
+	doi={10.1021/acs.analchem.1c03740},
+}
+
+
+@article{spoerry2016identification,
+	author={Spoerry, Christian and Seele, Jana and Valentin-Weigand, Peter and Baums, Christoph G. and von Pawel-Rammingen, Ulrich},
+	title={Identification and Characterization of IgdE, a Novel IgG-degrading Protease of Streptococcus suis with Unique Specificity for Porcine IgG},
+	journal={Journal of Biological Chemistry},
+	volume=291,
+	number=15,
+	pages={7915--7925},
+	year=2016,
+	issn=00219258,
+	doi={10.1074/jbc.m115.711440},
+}
+waarschuwing: changed doi from {10.1074/jbc.M115.711440},
+
+@article{lermyte2019top,
+	author={Lermyte, Frederik and Tsybin, Yury O. and O’Connor, Peter B. and Loo, Joseph A.},
+	title={Top or Middle? Up or Down? Toward a Standard Lexicon for Protein Top-Down and Allied Mass Spectrometry Approaches},
+	journal={Journal of the American Society for Mass Spectrometry},
+	volume=30,
+	number=7,
+	pages={1149--1157},
+	year=2019,
+	issn={1044-0305},
+	doi={10.1007/s13361-019-02201-x},
+}
+
+
+@article{fornelli2012analysis,
+	author={Fornelli, Luca and Damoc, Eugen and Thomas, Paul M. and Kelleher, Neil L. and Aizikov, Konstantin and Denisov, Eduard and Makarov, Alexander and Tsybin, Yury O.},
+	title={Analysis of Intact Monoclonal Antibody IgG1 by Electron Transfer Dissociation Orbitrap FTMS},
+	journal={Molecular and Cellular Proteomics},
+	volume=11,
+	number=12,
+	pages={1758--1767},
+	year=2012,
+	issn=15359476,
+	doi={10.1074/mcp.m112.019620},
+}
+waarschuwing: changed doi from {10.1074/mcp.M112.019620},
+
+@article{fornelli2017top-down,
+	author={Fornelli, Luca and Ayoub, Daniel and Aizikov, Konstantin and Liu, Xiaowen and Damoc, Eugen and Pevzner, Pavel A. and Makarov, Alexander and Beck, Alain and Tsybin, Yury O.},
+	title={Top-down analysis of immunoglobulin G isotypes 1 and 2 with electron transfer dissociation on a high-field Orbitrap mass spectrometer.},
+	journal={Journal of proteomics},
+	volume=159,
+	pages={67--76},
+	year=2017,
+	issn={1876-7737},
+	doi={10.1016/j.jprot.2017.02.013},
+}
+waarschuwing: did not find number
+
+@article{fornelli2018accurate,
+	author={Fornelli, Luca and Srzentić, Kristina and Huguet, Romain and Mullen, Christopher and Sharma, Seema and Zabrouskov, Vlad and Fellers, Ryan T. and Durbin, Kenneth R. and Compton, Philip D. and Kelleher, Neil L.},
+	title={Accurate Sequence Analysis of a Monoclonal Antibody by Top-Down and Middle-Down Orbitrap Mass Spectrometry Applying Multiple Ion Activation Techniques},
+	journal={Analytical Chemistry},
+	volume=90,
+	number=14,
+	pages={8421--8429},
+	year=2018,
+	issn={0003-2700},
+	doi={10.1021/acs.analchem.8b00984},
+}
+
+
+@article{shaw2020direct,
+	author={Shaw, Jared B. and Liu, Weijing and Vasilev, V. Yury and Bracken, Carter C. and Malhan, Neha and Guthals, Adrian and Beckman, Joseph S. and Voinov, Valery G.},
+	title={Direct Determination of Antibody Chain Pairing by Top-down and Middle-down Mass Spectrometry Using Electron Capture Dissociation and Ultraviolet Photodissociation},
+	journal={Analytical chemistry},
+	volume=92,
+	number=1,
+	pages={766--773},
+	year=2020,
+	issn={1520-6882},
+	doi={10.1021/acs.analchem.9b03129},
+}
+waarschuwing: changed doi from {10.1021/ACS.ANALCHEM.9B03129},
+
+@article{shaw2018sequencing,
+	author={Shaw, Jared B. and Malhan, Neha and VasilEv, V. Yury and Lopez, Nathan I. and Makarov, Alexander and Beckman, Joseph S. and Voinov, Valery G.},
+	title={Sequencing Grade Tandem Mass Spectrometry for Top-Down Proteomics Using Hybrid Electron Capture Dissociation Methods in a Benchtop Orbitrap Mass Spectrometer},
+	journal={Analytical chemistry},
+	volume=90,
+	number=18,
+	pages={10819--10827},
+	year=2018,
+	issn={1520-6882},
+	doi={10.1021/acs.analchem.8b01901},
+}
+waarschuwing: changed author from {Shaw, Jared B. and Malhan, Neha and Vasil'Ev, V. Yury and Lopez, Nathan I. and Makarov, Alexander and Beckman, Joseph S. and Voinov, Valery G.},
+waarschuwing: changed doi from {10.1021/ACS.ANALCHEM.8B01901},
+
+@article{shen2017high-resolution,
+	author={Shen, Yufeng and Tolić, Nikola and Piehowski, Paul D and Shukla, Anil K and Kim, Sangtae and Zhao, Rui and Qu, Yi and Robinson, Errol and Smith, Richard D and Paša-Tolić, Ljiljana},
+	title={High-resolution ultrahigh-pressure long column reversed-phase liquid chromatography for top-down proteomics.},
+	journal={Journal of chromatography. A},
+	volume=1498,
+	pages={99--110},
+	year=2017,
+	issn={1873-3778},
+	doi={10.1016/j.chroma.2017.01.008},
+}
+waarschuwing: did not find number
+
+@article{ma2003peaks:,
+	author={Ma, Bin and Zhang, Kaizhong and Hendrie, Christopher and Liang, Chengzhi and Li, Ming and Doherty-Kirby, Amanda and Lajoie, Gilles},
+	title={PEAKS: powerful software for peptide de novo sequencing by tandem mass spectrometry},
+	journal={Rapid Communications in Mass Spectrometry},
+	volume=17,
+	number=20,
+	pages={2337--2342},
+	year=2003,
+	issn={0951-4198},
+	doi={10.1002/rcm.1196},
+}
+
+
+@article{vyatkina2015de,
+	author={Vyatkina, Kira and Wu, Si and Dekker, Lennard J. M. and VanDuijn, Martijn M. and Liu, Xiaowen and Tolić, Nikola and Dvorkin, Mikhail and Alexandrova, Sonya and Luider, Theo M. and Paša-Tolić, Ljiljana and Pevzner, Pavel A.},
+	title={De Novo Sequencing of Peptides from Top-Down Tandem Mass Spectra},
+	journal={Journal of Proteome Research},
+	volume=14,
+	number=11,
+	pages={4450--4462},
+	year=2015,
+	issn={1535-3893},
+	doi={10.1021/pr501244v},
+}
+
+
+@article{liu2014de,
+	author={Liu, Xiaowen and Dekker, Lennard J M and Wu, Si and Vanduijn, Martijn M and Luider, Theo M and Tolić, Nikola and Kou, Qiang and Dvorkin, Mikhail and Alexandrova, Sonya and Vyatkina, Kira and Paša-Tolić, Ljiljana and Pevzner, Pavel A},
+	title={De Novo Protein Sequencing by Combining Top-Down and Bottom-Up Tandem Mass Spectra},
+	journal={Journal of Proteome Research},
+	volume=13,
+	number=7,
+	pages={3241--3248},
+	year=2014,
+	issn={1535-3893},
+	doi={10.1021/pr401300m},
+}
+
+
+@article{lavinder2015next-generation,
+	author={Lavinder, Jason J. and Horton, Andrew P. and Georgiou, George and Ippolito, Gregory C.},
+	title={Next-generation sequencing and protein mass spectrometry for the comprehensive analysis of human cellular and serum antibody repertoires.},
+	journal={Current opinion in chemical biology},
+	volume=24,
+	pages={112--20},
+	year=2015,
+	issn={1879-0402},
+	doi={10.1016/j.cbpa.2014.11.007},
+}
+waarschuwing: did not find number
+
+@article{lavinder2014identification,
+	author={Lavinder, Jason J. and Wine, Yariv and Giesecke, Claudia and Ippolito, Gregory C. and Horton, Andrew P. and Lungu, Oana I. and Hoi, Kam Hon and DeKosky, Brandon J. and Murrin, Ellen M. and Wirth, Megan M. and Ellington, Andrew D. and Dörner, Thomas and Marcotte, Edward M. and Boutz, Daniel R. and Georgiou, George},
+	title={Identification and characterization of the constituent human serum antibodies elicited by vaccination},
+	journal={Proceedings of the National Academy of Sciences},
+	volume=111,
+	number=6,
+	pages={2259--2264},
+	year=2014,
+	issn={0027-8424},
+	doi={10.1073/pnas.1317793111},
+}
+
+
+@article{lee2016molecular-level,
+	author={Lee, Jiwon and Boutz, Daniel R. and Chromikova, Veronika and Joyce, M. Gordon and Vollmers, Christopher and Leung, Kwanyee and Horton, Andrew P. and DeKosky, Brandon J. and Lee, Chang Han and Lavinder, Jason J. and Murrin, Ellen M. and Chrysostomou, Constantine and Hoi, Kam Hon and Tsybovsky, Yaroslav and Thomas, V. Paul and Druz, Aliaksandr and Zhang, Baoshan and Zhang, Yi and Wang, Lingshu and Kong, Wing Pui and Park, Daechan and Popova, Lyubov I. and Dekker, Cornelia L. and Davis, Mark M. and Carter, Chalise E. and Ross, Ted M. and Ellington, Andrew D. and Wilson, Patrick C. and Marcotte, Edward M. and Mascola, John R. and Ippolito, Gregory C. and Krammer, Florian and Quake, Stephen R. and Kwong, Peter D. and Georgiou, George},
+	title={Molecular-level analysis of the serum antibody repertoire in young adults before and after seasonal influenza vaccination},
+	journal={Nature Medicine},
+	volume=22,
+	number=12,
+	pages={1456--1464},
+	year=2016,
+	issn={1546170},
+	doi={10.1038/nm.4224},
+}
+waarschuwing: changed issn from {1546170X},
+
+@article{lee2019persistent,
+	author={Lee, Jiwon and Paparoditis, Philipp and Horton, Andrew P. and Frühwirth, Alexander and McDaniel, Jonathan R. and Jung, Jiwon and Boutz, Daniel R. and Hussein, Dania A. and Tanno, Yuri and Pappas, Leontios and Ippolito, Gregory C. and Corti, Davide and Lanzavecchia, Antonio and Georgiou, George},
+	title={Persistent Antibody Clonotypes Dominate the Serum Response to Influenza over Multiple Years and Repeated Vaccinations},
+	journal={Cell Host and Microbe},
+	volume=25,
+	number=3,
+	pages={367--3765},
+	year=2019,
+	issn=19313128,
+	doi={10.1016/j.chom.2019.01.010},
+}
+waarschuwing: changed pages from {367--376.e5},
+
+@article{bonissone2020serum,
+	author={Bonissone, Stefano R. and Lima, Thiago and Harris, Katherine and Davison, Laura and Avanzino, Brian and Trinklein, Nathan and Castellana, Natalie and Patel, Anand},
+	title={Serum proteomics expands on high-affinity antibodies in immunized rabbits than deep B-cell repertoire sequencing alone},
+	journal={bioRxiv},
+	pages=833871,
+	year=2020,
+	issn={2692-8205},
+	doi={10.1101/833871},
+}
+waarschuwing: did not find volume
+waarschuwing: did not find number
+
+@article{gilchuk2021proteo-genomic,
+	author={Gilchuk, Pavlo and Guthals, Adrian and Bonissone, Stefano R. and Shaw, Jared B. and Ilinykh, Philipp A. and Huang, Kai and Bombardi, Robin G. and Liang, Jenny and Grinyo, Ariadna and Davidson, Edgar and Chen, Elaine C. and Gunn, Bronwyn M. and Alter, Galit and Saphire, Erica Ollmann and Doranz, Benjamin J. and Bukreyev, Alexander and Zeitlin, Larry and Castellana, Natalie and Crowe, James E.},
+	title={Proteo-Genomic Analysis Identifies Two Major Sites of Vulnerability on Ebolavirus Glycoprotein for Neutralizing Antibodies in Convalescent Human Plasma},
+	journal={Frontiers in Immunology},
+	volume=12,
+	pages=706757,
+	year=2021,
+	issn={1664-3224},
+	doi={10.3389/fimmu.2021.706757},
+}
+waarschuwing: did not find number
+
+@article{cha2017antibody,
+	author={Cha, Seong Won and Bonissone, Stefano and Na, Seungjin and Pevzner, Pavel A. and Bafna, Vineet},
+	title={The Antibody Repertoire of Colorectal Cancer},
+	journal={Molecular and Cellular Proteomics},
+	volume=16,
+	number=12,
+	pages={2111--2124},
+	year=2017,
+	issn=15359476,
+	doi={10.1074/mcp.ra117.000397},
+}
+
+
+@article{safonova2015igrepertoireconstructor:,
+	author={Safonova, Yana and Bonissone, Stefano and Kurpilyansky, Eugene and Starostina, Ekaterina and Lapidus, Alla and Stinson, Jeremy and DePalatis, Laura and Sandoval, Wendy and Lill, Jennie and Pevzner, Pavel A.},
+	title={IgRepertoireConstructor: a novel algorithm for antibody repertoire construction and immunoproteogenomics analysis},
+	journal={Bioinformatics},
+	volume=31,
+	number=12,
+	pages={53--61},
+	year=2015,
+	issn={1367-4803},
+	doi={10.1093/bioinformatics/btv238},
+}
+waarschuwing: changed pages from {i53--i61},
+
+@article{bonissone2016immunoglobulin,
+	author={Bonissone, Stefano R. and Pevzner, Pavel A.},
+	title={Immunoglobulin Classification Using the Colored Antibody Graph},
+	journal={Journal of Computational Biology},
+	volume=23,
+	number=6,
+	pages={483--494},
+	year=2016,
+	issn={1066-5277},
+	doi={10.1089/cmb.2016.0010},
+}
+
+
+@article{he2017analysis,
+	author={He, Lidong and Anderson, Lissa C. and Barnidge, David R. and Murray, David L. and Hendrickson, Christopher L. and Marshall, Alan G.},
+	title={Analysis of Monoclonal Antibodies in Human Serum as a Model for Clinical Monoclonal Gammopathy by Use of 21 Tesla FT-ICR Top-Down and Middle-Down MS/MS},
+	journal={Journal of the American Society for Mass Spectrometry},
+	volume=28,
+	number=5,
+	pages={827--838},
+	year=2017,
+	issn={1044-0305},
+	doi={10.1007/s13361-017-1602-6},
+}
+
+
+@article{he2019classification,
+	author={He, Lidong and Anderson, Lissa C. and Barnidge, David R. and Murray, David L. and Dasari, Surendra and Dispenzieri, Angela and Hendrickson, Christopher L. and Marshall, Alan G.},
+	title={Classification of Plasma Cell Disorders by 21 Tesla Fourier Transform Ion Cyclotron Resonance Top-Down and Middle-Down MS/MS Analysis of Monoclonal Immunoglobulin Light Chains in Human Serum},
+	journal={Analytical Chemistry},
+	volume=91,
+	number=5,
+	pages={3263--3269},
+	year=2019,
+	issn={0003-2700},
+	doi={10.1021/acs.analchem.8b03294},
+}
+
+
+@article{mills2015detecting,
+	author={Mills, John R. and Barnidge, David R. and Murray, David L.},
+	title={Detecting monoclonal immunoglobulins in human serum using mass spectrometry},
+	journal={Methods},
+	volume=81,
+	pages={56--65},
+	year=2015,
+	issn=10462023,
+	doi={10.1016/j.ymeth.2015.04.020},
+}
+waarschuwing: did not find number
+
+@article{sharpley2019novel,
+	author={Sharpley, Faye A. and Manwani, Richa and Mahmood, Shameem and Sachchithanantham, Sajitha and Lachmann, Helen J. and Gillmore, Julian D. and Whelan, Carol J. and Fontana, Marianna and Hawkins, Philip N. and Wechalekar, Ashutosh D.},
+	title={A novel mass spectrometry method to identify the serum monoclonal light chain component in systemic light chain amyloidosis},
+	journal={Blood Cancer Journal},
+	volume=9,
+	number=2,
+	pages=16,
+	year=2019,
+	issn={2044-5385},
+	doi={10.1038/s41408-019-0180-1},
+}
+
+
+@article{dupré2021de,
+	author={Dupré, Mathieu and Duchateau, Magalie and Sternke-Hoffmann, Rebecca and Boquoi, Amelie and Malosse, Christian and Fenk, Roland and Haas, Rainer and Buell, Alexander K. and Rey, Martial and Chamot-Rooke, Julia},
+	title={De Novo Sequencing of Antibody Light Chain Proteoforms from Patients with Multiple Myeloma},
+	journal={Analytical Chemistry},
+	volume=93,
+	number=30,
+	pages={10627--10634},
+	year=2021,
+	issn=15206882,
+	doi={10.1021/acs.analchem.1c01955},
+}
+
+
+@article{wang2019top-down,
+	author={Wang, Zhe and Liu, Xiaowen and Muther, Jennifer and James, Judith A. and Smith, Kenneth and Wu, Si},
+	title={Top-down Mass Spectrometry Analysis of Human Serum Autoantibody Antigen-Binding Fragments.},
+	journal={Scientific reports},
+	volume=9,
+	number=1,
+	pages=2345,
+	year=2019,
+	issn={2045-2322},
+	doi={10.1038/s41598-018-38380-y},
+}
+
+
+@article{melani2022next-generation,
+	author={Melani, Rafael D. and Des Soye, Benjamin J. and Kafader, Jared O. and Forte, Eleonora and Hollas, Michael and Blagojevic, Voislav and Negrão, Fernanda and McGee, John P. and Drown, Bryon and Lloyd-Jones, Cameron and Seckler, Henrique S. and Camarillo, Jeannie M. and Compton, Philip D. and LeDuc, Richard D. and Early, Bryan and Fellers, Ryan T. and Cho, Byoung Kyu and Mattamana, Basil Baby and Goo, Young Ah and Thomas, Paul M. and Ash, Michelle K. and Bhimalli, Pavan P. and Al-Harthi, Lena and Sha, Beverly E. and Schneider, Jeffrey R. and Kelleher, Neil L.},
+	title={Next-Generation Serology by Mass Spectrometry: Readout of the SARS-CoV-2 Antibody Repertoire},
+	journal={Journal of Proteome Research},
+	volume=21,
+	number=1,
+	pages={274--288},
+	year=2022,
+	issn=15353907,
+	doi={10.1021/acs.jproteome.1c00882},
+}
+
+
+@article{kafader2020multiplexed,
+	author={Kafader, Jared O. and Melani, Rafael D. and Durbin, Kenneth R. and Ikwuagwu, Bon and Early, Bryan P. and Fellers, Ryan T. and Beu, Steven C. and Zabrouskov, Vlad and Makarov, Alexander A. and Maze, Joshua T. and Shinholt, Deven L. and Yip, Ping F. and Tullman-Ercek, Danielle and Senko, Michael W. and Compton, Philip D. and Kelleher, Neil L.},
+	title={Multiplexed mass spectrometry of individual ions improves measurement of proteoforms and their complexes.},
+	journal={Nature methods},
+	volume=17,
+	number=4,
+	pages={391--394},
+	year=2020,
+	issn={1548-7105},
+	doi={10.1038/s41592-020-0764-5},
+}
+
+
+@article{kitaura2017different,
+	author={Kitaura, Kazutaka and Yamashita, Hiroshi and Ayabe, Hitomi and Shini, Tadasu and Matsutani, Takaji and Suzuki, Ryuji},
+	title={Different Somatic Hypermutation Levels among Antibody Subclasses Disclosed by a New Next-Generation Sequencing-Based Antibody Repertoire Analysis.},
+	journal={Frontiers in immunology},
+	volume=8,
+	number={May},
+	pages=389,
+	year=2017,
+	issn={1664-3224},
+	doi={10.3389/fimmu.2017.00389},
+}
+waarschuwing: fatal: changed number from {May},
+
+@article{bondt2021direct,
+	author={Bondt, Albert and Dingess, Kelly A. and Hoek, Max and van Rijswijck, Danique M. H. and Heck, Albert J. R.},
+	title={A Direct MS-Based Approach to Profile Human Milk Secretory Immunoglobulin A (IgA1) Reveals Donor-Specific Clonal Repertoires With High Longitudinal Stability},
+	journal={Frontiers in Immunology},
+	volume=12,
+	pages=5190,
+	year=2021,
+	issn={1664-3224},
+	doi={10.3389/fimmu.2021.789748},
+}
+waarschuwing: did not find number
+
+@article{haan2020monitoring,
+	author={de Haan, Noortje and Falck, David and Wuhrer, Manfred},
+	title={Monitoring of immunoglobulin N- and O-glycosylation in health and disease},
+	journal={Glycobiology},
+	volume=30,
+	number=4,
+	pages={226--240},
+	year=2020,
+	issn={1460-2423},
+	doi={10.1093/glycob/cwz048},
+}
+
+
+@article{yan2018structure,
+	author={Yan, Qingrong and Huang, Maggie and Lewis, Michael J. and Hu, Ping},
+	title={Structure Based Prediction of Asparagine Deamidation Propensity in Monoclonal Antibodies},
+	journal={mAbs},
+	volume=10,
+	number=6,
+	pages={901--912},
+	year=2018,
+	issn={1942-0862},
+	doi={10.1080/19420862.2018.1478646},
+}
+
+
+@article{beyer2018microheterogeneity,
+	author={Beyer, Beate and Schuster, Manfred and Jungbauer, Alois and Lingg, Nico},
+	title={Microheterogeneity of Recombinant Antibodies: Analytics and Functional Impact},
+	journal={Biotechnology Journal},
+	volume=13,
+	number=1,
+	pages=1700476,
+	year=2018,
+	issn=18606768,
+	doi={10.1002/biot.201700476},
+}
+
+
+@incollection{aristotle1908metaphysics,
+	author={Aristotle},
+	booktitle={Metaphysics},
+	title={Metaphysics},
+	year=1908,
+	pages={1045810},
+	address={Oxford (UK)},
+}
+waarschuwing: changed pages from {1045a.8–10},
+waarschuwing: did not find edition
+waarschuwing: did not find isbn
+
+@misc{georgiou2014promise,
+  abstract  = {Efforts to determine the antibody repertoire encoded by B cells in the blood or lymphoid organs using high-throughput DNA sequencing technologies have been advancing at an extremely rapid pace and are transforming our understanding of humoral immune responses. Information gained from high-throughput DNA sequencing of immunoglobulin genes (Ig-seq) can be applied to detect B-cell malignancies with high sensitivity, to discover antibodies specific for antigens of interest, to guide vaccine development and to understand autoimmunity. Rapid progress in the development of experimental protocols and informatics analysis tools is helping to reduce sequencing artifacts, to achieve more precise quantification of clonal diversity and to extract the most pertinent biological information. That said, broader application of Ig-seq, especially in clinical settings, will require the development of a standardized experimental design framework that will enable the sharing and meta-analysis of sequencing data generated by different laboratories. {\textcopyright} 2014 Nature America, Inc. All rights reserved.},
+  author    = {Georgiou, George and Ippolito, Gregory C. and Beausang, John and Busse, Christian E. and Wardemann, Hedda and Quake, Stephen R.},
+  booktitle = {Nature Biotechnology},
+  doi       = {10.1038/nbt.2782},
+  file      = {:C\backslash:/Users/3765563/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Georgiou et al. - 2014 - The promise and challenge of high-throughput sequencing of the antibody repertoire(2).pdf:pdf},
+  issn      = {10870156},
+  keywords  = {Antibody isolation and purification,Applied immunology,B cells,Immunogenetics},
+  month     = {feb},
+  number    = {2},
+  pages     = {158--168},
+  pmid      = {24441474},
+  publisher = {Nature Publishing Group},
+  title     = {{The promise and challenge of high-throughput sequencing of the antibody repertoire}},
+  url       = {https://www.nature.com/articles/nbt.2782},
+  volume    = {32},
+  year      = {2014}
+}
+
+

@@ -1,0 +1,354 @@
+\begin{thebibliography}{35}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Briney et~al.(2019)Briney, Inderbitzin, Joyce, and
+  Burton]{briney2019commonality}
+Bryan Briney, Anne Inderbitzin, Collin Joyce, and Dennis~R. Burton.
+\newblock Commonality despite exceptional diversity in the baseline human
+  antibody repertoire.
+\newblock \emph{Nature}, 566\penalty0 (7744):\penalty0 393--397, 2019.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/s41586-019-0879-y}.
+
+\bibitem[Schroeder(2006)]{schroeder2006similarity}
+Harry~W. Schroeder.
+\newblock Similarity and divergence in the development and expression of the
+  mouse and human antibody repertoires.
+\newblock \emph{Developmental and Comparative Immunology}, 30\penalty0
+  (12):\penalty0 119--135, 2006.
+\newblock ISSN 0145305.
+\newblock \doi{10.1016/j.dci.2005.06.006}.
+
+\bibitem[Bondt et~al.(2021{\natexlab{a}})Bondt, Hoek, Tamara, de~Graaf, Peng,
+  Schulte, van Rijswijck, den Boer, Greisch, Varkila, Snijder, Cremer, Bonten,
+  and Heck]{bondt2021human}
+Albert Bondt, Max Hoek, Sem Tamara, et~al.
+\newblock Human plasma igg1 repertoires are simple, unique, and dynamic.
+\newblock \emph{Cell Systems}, 12\penalty0 (12):\penalty0 1131--11435,
+  2021{\natexlab{a}}.
+\newblock ISSN 24054720.
+\newblock \doi{10.1016/j.cels.2021.08.008}.
+
+\bibitem[Bondt et~al.(2021{\natexlab{b}})Bondt, Dingess, Hoek, van Rijswijck,
+  and Heck]{bondt2021direct}
+Albert Bondt, Kelly~A. Dingess, Max Hoek, Danique M.~H. van Rijswijck, and
+  Albert J.~R. Heck.
+\newblock A direct ms-based approach to profile human milk secretory
+  immunoglobulin a (iga1) reveals donor-specific clonal repertoires with high
+  longitudinal stability.
+\newblock \emph{Frontiers in Immunology}, 12:\penalty0 5190,
+  2021{\natexlab{b}}.
+\newblock ISSN 1664-3224.
+\newblock \doi{10.3389/fimmu.2021.789748}.
+
+\bibitem[Dingess et~al.(2023)Dingess, Hoek, van Rijswijk, Tamara, den Boer,
+  Veth, Damen, Barendregt, Romijn, Juncker, van Keulen, Vidarsson, van
+  Goudoever, Bondt, and Heck]{dingess2023identification}
+Kelly~A. Dingess, Max Hoek, Danique~M.H. van Rijswijk, et~al.
+\newblock Identification of common and distinct origins of human serum and
+  breastmilk iga1 by mass spectrometry-based clonal profiling.
+\newblock \emph{Cellular and molecular immunology}, 20\penalty0 (1), 2023.
+\newblock ISSN 2042-0226.
+\newblock \doi{10.1038/s41423-022-00954-2}.
+
+\bibitem[Dong et~al.(2020)Dong, Chi, Hai, Sun, Zhang, Xie, and
+  Chen]{dong2020antibodies}
+Yunzhu Dong, Xiangyang Chi, Huang Hai, et~al.
+\newblock Antibodies in the breast milk of a maternal woman with covid-19.
+\newblock \emph{Emerging microbes and infections}, 9\penalty0 (1):\penalty0
+  1467--1469, 2020.
+\newblock ISSN 2222-1751.
+\newblock \doi{10.1080/22221751.2020.1780952}.
+
+\bibitem[Fox et~al.(2020)Fox, Marino, Amanat, Krammer, Hahn-Holbrook,
+  Zolla-Pazner, and Powell]{fox2020robust}
+Alisa Fox, Jessica Marino, Fatima Amanat, et~al.
+\newblock Robust and specific secretory iga against sars-cov-2 detected in
+  human milk.
+\newblock \emph{iScience}, 23\penalty0 (11), 2020.
+\newblock ISSN 2589-0042.
+\newblock \doi{10.1016/j.isci.2020.101735}.
+
+\bibitem[Pace et~al.(2021)Pace, Williams, Järvinen, Belfort, Pace, Lackey,
+  Gogel, Nguyen-Contant, Kanagaiah, Fitzgerald, Ferri, Young, Rosen-Carole,
+  Diaz, Meehan, Caffé, Sangster, Topham, McGuire, Seppo, and
+  McGuire]{pace2021characterization}
+Ryan~M. Pace, Janet~E. Williams, Kirsi~M. Järvinen, et~al.
+\newblock Characterization of sars-cov-2 rna, antibodies, and neutralizing
+  capacity in milk produced by women with covid-19.
+\newblock \emph{mBio}, 12\penalty0 (1):\penalty0 1--11, 2021.
+\newblock ISSN 2150-7511.
+\newblock \doi{10.1128/mbio.03192-20}.
+
+\bibitem[van Keulen et~al.(2021)van Keulen, Romijn, Bondt, Dingess, Kontopodi,
+  van~der Straten, Den~Boer, Burger, Poniman, Bosch, Brouwer, de~Groot, Hoek,
+  Li, Pajkrt, Sanders, Schoonderwoerd, Tamara, Timmermans, Vidarsson,
+  Stittelaar, Rispens, Hettinga, van Gils, Heck, and van
+  Goudoever]{keulen2021human}
+Britt~J. van Keulen, Michelle Romijn, Albert Bondt, et~al.
+\newblock Human milk from previously covid-19-infected mothers: The effect of
+  pasteurization on specific antibodies and neutralization capacity.
+\newblock \emph{Nutrients}, 13\penalty0 (5), 2021.
+\newblock ISSN 2072-6643.
+\newblock \doi{10.3390/nu13051645}.
+
+\bibitem[Bode et~al.(2022)Bode, Bertrand, Najera, Furst, Honerkamp-Smith,
+  Shandling, Chambers, Camerini, and Campo]{bode2022characterization}
+Lars Bode, Kerri Bertrand, Julia~A. Najera, et~al.
+\newblock Characterization of sars-cov-2 antibodies in human milk from 21 women
+  with confirmed covid-19 infection.
+\newblock \emph{Pediatric research}, 2022.
+\newblock ISSN 1530-0447.
+\newblock \doi{10.1038/s41390-022-02360-w}.
+
+\bibitem[Lebrão et~al.(2020)Lebrão, Cruz, Silva, Dutra, Cristiani,
+  Affonso~Fonseca, and Suano-Souza]{lebrão2020early}
+Cibele~Wolf Lebrão, Manuela~Navarro Cruz, da~Mariliza~Henrique Silva, et~al.
+\newblock Early identification of iga anti-sarscov-2 in milk of mother with
+  covid-19 infection.
+\newblock \emph{Journal of human lactation : official journal of International
+  Lactation Consultant Association}, 36\penalty0 (4):\penalty0 609--613, 2020.
+\newblock ISSN 1552-5732.
+\newblock \doi{10.1177/0890334420960433}.
+
+\bibitem[Juncker et~al.(2021{\natexlab{a}})Juncker, Romijn, Loth, Caniels,
+  de~Groot, Pajkrt, van Gils, van Goudoever, and van Keulen]{juncker2021human}
+Hannah~G. Juncker, M.~Romijn, Veerle~N. Loth, et~al.
+\newblock Human milk antibodies against sars-cov-2: A longitudinal follow-up
+  study.
+\newblock \emph{Journal of human lactation : official journal of International
+  Lactation Consultant Association}, 37\penalty0 (3):\penalty0 485--491,
+  2021{\natexlab{a}}.
+\newblock ISSN 1552-5732.
+\newblock \doi{10.1177/08903344211030171}.
+
+\bibitem[Kumar et~al.(2022)Kumar, Meena, Yadav, and Kumar]{kumar2022sars-cov-}
+Jogender Kumar, Jitendra Meena, Arushi Yadav, and Praveen Kumar.
+\newblock Sars-cov-2 detection in human milk: a systematic review.
+\newblock \emph{The journal of maternal-fetal and neonatal medicine : the
+  official journal of the European Association of Perinatal Medicine, the
+  Federation of Asia and Oceania Perinatal Societies, the International Society
+  of Perinatal Obstetricians}, 35\penalty0 (25), 2022.
+\newblock ISSN 1476-4954.
+\newblock \doi{10.1080/14767058.2021.1882984}.
+
+\bibitem[Krogstad et~al.(2021)Krogstad, Contreras, Ng, Tobin, Chambers,
+  Bertrand, Bode, and Aldrovandi]{krogstad2021no}
+Paul Krogstad, Deisy Contreras, Hwee Ng, et~al.
+\newblock No evidence of infectious sars-cov-2 in human milk: Analysis of a
+  cohort of 110 lactating women.
+\newblock \emph{medRxiv : the preprint server for health sciences}, 2021.
+\newblock \doi{10.1101/2021.04.05.21254897}.
+
+\bibitem[Chambers et~al.(2020)Chambers, Krogstad, Bertrand, Contreras, Tobin,
+  Bode, and Aldrovandi]{chambers2020evaluation}
+Christina Chambers, Paul Krogstad, Kerri Bertrand, et~al.
+\newblock Evaluation for sars-cov-2 in breast milk from 18 infected women.
+\newblock \emph{JAMA}, 324\penalty0 (13):\penalty0 1347--1348, 2020.
+\newblock ISSN 1538-3598.
+\newblock \doi{10.1001/jama.2020.15580}.
+
+\bibitem[Organization(2020)]{organization2020breastfeeding}
+World~Health Organization.
+\newblock Breastfeeding and covid-19: scientific brief, 23 june 2020.
+\newblock Technical report, 2020.
+
+\bibitem[Juncker et~al.(2021{\natexlab{b}})Juncker, Mulleners, van Gils, Bijl,
+  de~Groot, Pajkrt, Korosi, van Goudoever, and van
+  Keulen]{juncker2021comparison}
+Hannah~G. Juncker, Sien~J. Mulleners, Marit~J. van Gils, et~al.
+\newblock Comparison of sars-cov-2-specific antibodies in human milk after
+  mrna-based covid-19 vaccination and infection.
+\newblock \emph{Vaccines}, 9\penalty0 (12), 2021{\natexlab{b}}.
+\newblock ISSN 2076-393.
+\newblock \doi{10.3390/vaccines9121475}.
+
+\bibitem[Zilver et~al.(2023)Zilver, de~Groot, Grobben, Remmelzwaal, Burgers,
+  Nunez~Velasco, Juncker, van Keulen, van Goudoever, de~Leeuw, van Gils,
+  Ris-Stalpers, and van Leeuwen]{zilver2023vaccination}
+S.J.M. Zilver, C.J.M. de~Groot, M.~Grobben, et~al.
+\newblock Vaccination from the early second trimester onwards gives a robust
+  sars-cov-2 antibody response throughout pregnancy and provides antibodies for
+  the neonate.
+\newblock \emph{International journal of infectious diseases : IJID : official
+  publication of the International Society for Infectious Diseases}, 130, 2023.
+\newblock ISSN 1878-3511.
+\newblock \doi{10.1016/j.ijid.2023.02.022}.
+
+\bibitem[Fu et~al.(2022)Fu, Sivajohan, McClymont, Albert, Elwood, Ogilvie, and
+  Money]{fu2022systematic}
+Winnie Fu, Brintha Sivajohan, Elisabeth McClymont, et~al.
+\newblock Systematic review of the safety, immunogenicity, and effectiveness of
+  covid-19 vaccines in pregnant and lactating individuals and their infants.
+\newblock \emph{International journal of gynaecology and obstetrics: the
+  official organ of the International Federation of Gynaecology and
+  Obstetrics}, 156\penalty0 (3):\penalty0 406--417, 2022.
+\newblock ISSN 1879-3479.
+\newblock \doi{10.1002/ijgo.14008}.
+
+\bibitem[Jamieson and Rasmussen(2022)]{jamieson2022update}
+Denise~J. Jamieson and Sonja~A. Rasmussen.
+\newblock An update on covid-19 and pregnancy.
+\newblock \emph{American journal of obstetrics and gynecology}, 226\penalty0
+  (2):\penalty0 177--186, 2022.
+\newblock ISSN 1097-6868.
+\newblock \doi{10.1016/j.ajog.2021.08.054}.
+
+\bibitem[Shimabukuro et~al.(2021)Shimabukuro, Kim, Myers, Moro, Oduyebo,
+  Panagiotakopoulos, Marquez, Olson, Liu, Chang, Ellington, Burkel, Smoots,
+  Green, Licata, Zhang, Alimchandani, Mba-Jonas, Martin, Gee, and
+  Meaney-Delman]{shimabukuro2021preliminary}
+Tom~T. Shimabukuro, Shin~Y. Kim, Tanya~R. Myers, et~al.
+\newblock Preliminary findings of mrna covid-19 vaccine safety in pregnant
+  persons.
+\newblock \emph{The New England journal of medicine}, 384\penalty0
+  (24):\penalty0 2273--2282, 2021.
+\newblock ISSN 1533-4406.
+\newblock \doi{10.1056/nejmoa2104983}.
+
+\bibitem[Falsaperla et~al.(2021)Falsaperla, Leone, Familiari, and
+  Ruggieri]{falsaperla2021covid-}
+Raffaele Falsaperla, Guido Leone, Maria Familiari, and Martino Ruggieri.
+\newblock Covid-19 vaccination in pregnant and lactating women: a systematic
+  review.
+\newblock \emph{Expert review of vaccines}, 20\penalty0 (12):\penalty0
+  1619--1628, 2021.
+\newblock ISSN 1744-8395.
+\newblock \doi{10.1080/14760584.2021.1986390}.
+
+\bibitem[Simon et~al.(2015)Simon, Hollander, and McMichael]{simon2015evolution}
+A.~Katharina Simon, Georg~A. Hollander, and Andrew McMichael.
+\newblock Evolution of the immune system in humans from infancy to old age.
+\newblock \emph{Proceedings of the Royal Society B: Biological Sciences},
+  282\penalty0 (1821), 2015.
+\newblock ISSN 14712954.
+\newblock \doi{10.1098/rspb.2014.3085}.
+
+\bibitem[Czosnykowska-ukacka et~al.(2020)Czosnykowska-ukacka, Lis-Kuberka,
+  Królak-Olejnik, and Orczyk-Pawiowicz]{czosnykowska-łukacka2020changes}
+Matylda Czosnykowska-ukacka, Jolanta Lis-Kuberka, Barbara Królak-Olejnik, and
+  Magdalena Orczyk-Pawiowicz.
+\newblock Changes in human milk immunoglobulin profile during prolonged
+  lactation.
+\newblock \emph{Frontiers in Pediatrics}, 8:\penalty0 428, 2020.
+\newblock ISSN 22962360.
+\newblock \doi{10.3389/fped.2020.00428}.
+
+\bibitem[Lönnerdal et~al.(2017)Lönnerdal, Erdmann, Thakkar, Sauser, and
+  Destaillats]{lönnerdal2017longitudinal}
+Bo~Lönnerdal, Peter Erdmann, Sagar~K. Thakkar, Julien Sauser, and Frédéric
+  Destaillats.
+\newblock Longitudinal evolution of true protein, amino acids and bioactive
+  proteins in breast milk: a developmental perspective.
+\newblock \emph{The Journal of nutritional biochemistry}, 41:\penalty0 1--11,
+  2017.
+\newblock ISSN 1873-4847.
+\newblock \doi{10.1016/j.jnutbio.2016.06.001}.
+
+\bibitem[van Rijswijck et~al.(2022)van Rijswijck, Bondt, Hoek, van~der Straten,
+  Caniels, Poniman, Eggink, Reusken, de~Bree, Sanders, van Gils, and
+  Heck]{rijswijck2022discriminating}
+Danique~M.H. van Rijswijck, Albert Bondt, Max Hoek, et~al.
+\newblock Discriminating cross-reactivity in polyclonal igg1 responses against
+  sars-cov-2 variants of concern.
+\newblock \emph{Nature Communications 2022 13:1}, 13\penalty0 (1):\penalty0
+  1--10, 2022.
+\newblock ISSN 2041-1723.
+\newblock \doi{10.1038/s41467-022-33899-1}.
+
+\bibitem[Wolf et~al.(2022)Wolf, Köppert, Becza, Kuerten, Kirchenbaum, and
+  Lehmann]{wolf2022antibody}
+Carla Wolf, Sebastian Köppert, Noémi Becza, et~al.
+\newblock Antibody levels poorly reflect on the frequency of memory b cells
+  generated following sars-cov-2, seasonal influenza, or ebv infection.
+\newblock \emph{Cells}, 11\penalty0 (22), 2022.
+\newblock ISSN 2073-4409.
+\newblock \doi{10.3390/cells11223662}.
+
+\bibitem[Juncker et~al.(2022)Juncker, Mulleners, Ruhé, Coenen, Bakker, van
+  Doesburg, Harinck, Rood, Bouhuijs, Oomen, de~Groot, Pajkrt, Korosi, van
+  Goudoever, van Gils, and van Keulen]{juncker2022comparing}
+Hannah~G. Juncker, Sien~J. Mulleners, Eliza~J.M. Ruhé, et~al.
+\newblock Comparing the human milk antibody response after vaccination with
+  four covid-19 vaccines: A prospective, longitudinal cohort study in the
+  netherlands.
+\newblock \emph{EClinicalMedicine}, 47, 2022.
+\newblock ISSN 2589-5370.
+\newblock \doi{10.1016/j.eclinm.2022.101393}.
+
+\bibitem[Charles A~Janeway et~al.(2001)Charles A~Janeway, Travers, Walport, and
+  Shlomchik]{charlesajaneway2001immunological}
+Jr~Charles A~Janeway, Paul Travers, Mark Walport, and Mark~J Shlomchik.
+\newblock Immunological memory.
+\newblock In \emph{Immunobiology: The Immune System in Health and Disease}. New
+  York, 5 edition, 2001.
+
+\bibitem[Hwang et~al.(2020)Hwang, Lim, Yu, Kong, Sefik, Xu, Harman, Kim, Lee,
+  Li, and Flavell]{hwang2020cryo-em}
+Soo~Seok Hwang, Jaechul Lim, Zhibin Yu, et~al.
+\newblock Cryo-em structure of the 2019-ncov spike in the prefusion
+  conformation.
+\newblock \emph{Science (New York, N.Y.)}, 367\penalty0 (6483):\penalty0
+  1255--1260, 2020.
+\newblock ISSN 1095-9203.
+\newblock \doi{10.1126/science.abb2507}.
+
+\bibitem[Yu et~al.(2023)Yu, Orr, Chan, James, Penfold, Kim, Inzhelevskaya,
+  Mockridge, Cox, Essex, Tews, Glennie, and Cragg]{yu2023reducing}
+Xiaojie Yu, Christian~M. Orr, H.~T.~Claude Chan, et~al.
+\newblock Reducing affinity as a strategy to boost immunomodulatory antibody
+  agonism.
+\newblock \emph{Nature}, 2023.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/s41586-022-05673-2}.
+
+\bibitem[McKinney(2010)]{mckinney2010data}
+Wes McKinney.
+\newblock Data structures for statistical computing in python.
+\newblock \emph{Proceedings of the 9th Python in Science Conference}, pages
+  56--61, 2010.
+\newblock \doi{10.25080/majora-92bf1922-00a}.
+
+\bibitem[Van Der~Walt et~al.(2011)Van Der~Walt, Colbert, and
+  Varoquaux]{walt2011numpy}
+Stéfan Van Der~Walt, S.~Chris Colbert, and Gaël Varoquaux.
+\newblock The numpy array: A structure for efficient numerical computation.
+\newblock \emph{Computing in Science and Engineering}, 13\penalty0
+  (2):\penalty0 22--30, 2011.
+\newblock ISSN 15219615.
+\newblock \doi{10.1109/mcse.2011.37}.
+
+\bibitem[Virtanen et~al.(2020)Virtanen, Gommers, Oliphant, Haberland, Reddy,
+  Cournapeau, Burovski, Peterson, Weckesser, Bright, van~der Walt, Brett,
+  Wilson, Millman, Mayorov, Nelson, Jones, Kern, Larson, Carey, Polat, Feng,
+  Moore, VanderPlas, Laxalde, Perktold, Cimrman, Henriksen, Quintero, Harris,
+  Archibald, Ribeiro, Pedregosa, van Mulbregt, Vijaykumar, Bardelli, Rothberg,
+  Hilboll, Kloeckner, Scopatz, Lee, Rokem, Woods, Fulton, Masson, Häggström,
+  Fitzgerald, Nicholson, Hagen, Pasechnik, Olivetti, Martin, Wieser, Silva,
+  Lenders, Wilhelm, Young, Price, Ingold, Allen, Lee, Audren, Probst, Dietrich,
+  Silterra, Webber, Slavi, Nothman, Buchner, Kulick, Schönberger,
+  de~Miranda~Cardoso, Reimer, Harrington, Rodríguez, Nunez-Iglesias,
+  Kuczynski, Tritz, Thoma, Newville, Kümmerer, Bolingbroke, Tartre, Pak,
+  Smith, Nowaczyk, Shebanov, Pavlyk, Brodtkorb, Lee, McGibbon, Feldbauer,
+  Lewis, Tygier, Sievert, Vigna, Peterson, More, Pudlik, Oshima, Pingel,
+  Robitaille, Spura, Jones, Cera, Leslie, Zito, Krauss, Upadhyay, Halchenko,
+  and Vázquez-Baeza]{virtanen2020scipy}
+Pauli Virtanen, Ralf Gommers, Travis~E. Oliphant, et~al.
+\newblock Scipy 1.0: fundamental algorithms for scientific computing in python.
+\newblock \emph{Nature Methods}, 17\penalty0 (3):\penalty0 261--272, 2020.
+\newblock ISSN 15487105.
+\newblock \doi{10.1038/s41592-019-0686-2}.
+
+\bibitem[Hunter(2007)]{hunter2007matplotlib:}
+John~D. Hunter.
+\newblock Matplotlib: A 2d graphics environment.
+\newblock \emph{Computing in Science and Engineering}, 9\penalty0 (3):\penalty0
+  90--95, 2007.
+\newblock ISSN 15219615.
+\newblock \doi{10.1109/mcse.2007.55}.
+
+\end{thebibliography}

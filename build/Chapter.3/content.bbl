@@ -1,0 +1,582 @@
+\begin{thebibliography}{57}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Schroeder(2006)]{schroeder2006similarity}
+Harry~W. Schroeder.
+\newblock Similarity and divergence in the development and expression of the
+  mouse and human antibody repertoires.
+\newblock \emph{Developmental and Comparative Immunology}, 30\penalty0
+  (12):\penalty0 119--135, 2006.
+\newblock ISSN 0145305.
+\newblock \doi{10.1016/j.dci.2005.06.006}.
+
+\bibitem[Apostoaei and Trabalka(2012)]{apostoaei2012review}
+A~Iulian Apostoaei and John~R Trabalka.
+\newblock Review, synthesis, and application of information on the human
+  lymphatic system to radiation dosimetry for chronic lymphocytic leukemia
+  final report.
+\newblock 2012.
+
+\bibitem[Briney et~al.(2019)Briney, Inderbitzin, Joyce, and
+  Burton]{briney2019commonality}
+Bryan Briney, Anne Inderbitzin, Collin Joyce, and Dennis~R. Burton.
+\newblock Commonality despite exceptional diversity in the baseline human
+  antibody repertoire.
+\newblock \emph{Nature}, 566\penalty0 (7744):\penalty0 393--397, 2019.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/s41586-019-0879-y}.
+
+\bibitem[Soto et~al.(2019)Soto, Bombardi, Branchizio, Kose, Matta, Sevy,
+  Sinkovits, Gilchuk, Finn, and Crowe]{soto2019high}
+Cinque Soto, Robin~G. Bombardi, Andre Branchizio, et~al.
+\newblock High frequency of shared clonotypes in human b cell receptor
+  repertoires.
+\newblock \emph{Nature}, 566\penalty0 (7744):\penalty0 398--402, 2019.
+\newblock ISSN 14764687.
+\newblock \doi{10.1038/s41586-019-0934-8}.
+
+\bibitem[Corti et~al.(2016)Corti, Misasi, Mulangu, Stanley, Kanekiyo, Wollen,
+  Ploquin, Doria-Rose, Staupe, Bailey, Shi, Choe, Marcus, Thompson, Cagigi,
+  Silacci, Fernandez-Rodriguez, Perez, Sallusto, Vanzetta, Agatic, Cameroni,
+  Kisalu, Gordon, Ledgerwood, Mascola, Graham, Muyembe-Tamfun, Trefry,
+  Lanzavecchia, and Sullivan]{corti2016protective}
+Davide Corti, John Misasi, Sabue Mulangu, et~al.
+\newblock Protective monotherapy against lethal ebola virus infection by a
+  potently neutralizing antibody.
+\newblock \emph{Science (New York, N.Y.)}, 351\penalty0 (6279):\penalty0
+  1339--1342, 2016.
+\newblock ISSN 1095-9203.
+\newblock \doi{10.1126/science.aad5224}.
+
+\bibitem[Dyer(2019)]{dyer2019two}
+Owen Dyer.
+\newblock Two ebola treatments halve deaths in trial in drc outbreak.
+\newblock \emph{BMJ (Clinical research ed.)}, 366:\penalty0 5140, 2019.
+\newblock ISSN 17561833.
+\newblock \doi{10.1136/bmj.l5140}.
+
+\bibitem[Mulangu et~al.(2019)Mulangu, Dodd, Davey, Tshiani~Mbaya, Proschan,
+  Mukadi, Lusakibanza~Manzo, Nzolo, Tshomba~Oloma, Ibanda, Ali, Coulibaly,
+  Levine, Grais, Diaz, Lane, Muyembe-Tamfum, and the PALM
+  Writing~Group]{mulangu2019randomized}
+Sabue Mulangu, Lori~E. Dodd, Richard~T. Davey, et~al.
+\newblock A randomized, controlled trial of ebola virus disease therapeutics.
+\newblock \emph{New England Journal of Medicine}, 381\penalty0 (24):\penalty0
+  2293--2303, 2019.
+\newblock ISSN 0028-4793.
+\newblock \doi{10.1056/nejmoa1910993}.
+
+\bibitem[Jones et~al.(2021)Jones, Brown-Augsburger, Corbett, Westendorf,
+  Davies, Cujec, Wiethoff, Blackbourne, Heinz, Foster, Higgs, Balasubramaniam,
+  Wang, Zhang, Yang, Bidshahri, Kraft, Hwang, entelis, Jepson, Goya, Smith,
+  Collins, Hinshaw, Tycho, Pellacani, Xiang, Muthuraman, Sobhanifar, Piper,
+  Triana, Hendle, Pustilnik, Adams, Berens, Baric, Martinez, Cross, Geisbert,
+  Borisevich, Abiona, Belli, de~Vries, Mohamed, Dittmann, Samanovic, Mulligan,
+  Goldsmith, Hsieh, Johnson, Wrapp, McLellan, Barnhart, Graham, Mascola,
+  Hansen, and Falconer]{jones2021neutralizing}
+Bryan~E. Jones, Patricia~L. Brown-Augsburger, Kizzmekia~S. Corbett, et~al.
+\newblock The neutralizing antibody, ly-cov555, protects against sars-cov-2
+  infection in nonhuman primates.
+\newblock \emph{Science Translational Medicine}, 13\penalty0 (593), 2021.
+\newblock ISSN 19466242.
+\newblock \doi{10.1126/scitranslmed.abf1906}.
+
+\bibitem[Georgiou et~al.(2014)Georgiou, Ippolito, Beausang, Busse, Wardemann,
+  and Quake]{georgiou2014promise}
+George Georgiou, Gregory~C. Ippolito, John Beausang, et~al.
+\newblock The promise and challenge of high-throughput sequencing of the
+  antibody repertoire.
+\newblock \emph{Nature Biotechnology}, 32\penalty0 (2):\penalty0 158--168,
+  2014.
+\newblock ISSN 10870156.
+\newblock \doi{10.1038/nbt.2782}.
+
+\bibitem[Vollmers et~al.(2013)Vollmers, Sit, Weinstein, Dekker, and
+  Quake]{vollmers2013genetic}
+Christopher Vollmers, V.~Rene Sit, Joshua~A. Weinstein, Cornelia~L. Dekker, and
+  Stephen~R. Quake.
+\newblock Genetic measurement of memory b-cell recall using antibody repertoire
+  sequencing.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 110\penalty0 (33):\penalty0 13463--13468, 2013.
+\newblock ISSN 00278424.
+\newblock \doi{10.1073/pnas.1312146110}.
+
+\bibitem[Cassidy and Nordby(1975)]{cassidy1975human}
+James~T. Cassidy and Gordon~L. Nordby.
+\newblock Human serum immunoglobulin concentrations: Prevalence of
+  immunoglobulin deficiencies.
+\newblock \emph{The Journal of Allergy and Clinical Immunology}, 55\penalty0
+  (1):\penalty0 35--48, 1975.
+\newblock ISSN 00916749.
+\newblock \doi{10.1016/s0091-6749(75)80006-6}.
+
+\bibitem[Gonzalez-Quintela et~al.(2008)Gonzalez-Quintela, Alende, Gude, Campos,
+  Rey, Meijide, Fernandez-Merino, and Vidal]{gonzalez-quintela2008serum}
+A.~Gonzalez-Quintela, R.~Alende, F.~Gude, et~al.
+\newblock Serum levels of immunoglobulins (igg, iga, igm) in a general adult
+  population and their relationship with alcohol consumption, smoking and
+  common metabolic abnormalities.
+\newblock \emph{Clinical and Experimental Immunology}, 151\penalty0
+  (1):\penalty0 42--50, 2008.
+\newblock ISSN 00099104.
+\newblock \doi{10.1111/j.1365-2249.2007.03545.x}.
+
+\bibitem[Van Der~Giessen et~al.(1975)Van Der~Giessen, Rossouw, Algra-Van~Veen,
+  Loghem, Zegers, and Sander]{giessen1975quantification}
+Marijke Van Der~Giessen, Emmerentia Rossouw, Tineke Algra-Van~Veen, et~al.
+\newblock Quantification of igg subclasses in sera of normal adults and healthy
+  children between 4 and 12 years of age.
+\newblock \emph{Clin. exp. Immunol}, 21:\penalty0 501--509, 1975.
+
+\bibitem[Chen et~al.(2017)Chen, Zheng, Hammers, Ellebrecht, Mukherjee, Tang,
+  Lin, Yuan, Pan, Langenhan, Komorowski, Siegel, Payne, and
+  Stanley]{chen2017proteomic}
+Jing Chen, Qi~Zheng, Christoph~M. Hammers, et~al.
+\newblock Proteomic analysis of pemphigus autoantibodies indicates a larger,
+  more diverse, and more dynamic repertoire than determined by b cell genetics.
+\newblock \emph{Cell Reports}, 18\penalty0 (1):\penalty0 237--247, 2017.
+\newblock ISSN 22111247.
+\newblock \doi{10.1016/j.celrep.2016.12.013}.
+
+\bibitem[Lavinder et~al.(2014)Lavinder, Wine, Giesecke, Ippolito, Horton,
+  Lungu, Hoi, DeKosky, Murrin, Wirth, Ellington, Dörner, Marcotte, Boutz, and
+  Georgiou]{lavinder2014identification}
+Jason~J. Lavinder, Yariv Wine, Claudia Giesecke, et~al.
+\newblock Identification and characterization of the constituent human serum
+  antibodies elicited by vaccination.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 111\penalty0
+  (6):\penalty0 2259--2264, 2014.
+\newblock ISSN 0027-8424.
+\newblock \doi{10.1073/pnas.1317793111}.
+
+\bibitem[Lee et~al.(2016)Lee, Boutz, Chromikova, Joyce, Vollmers, Leung,
+  Horton, DeKosky, Lee, Lavinder, Murrin, Chrysostomou, Hoi, Tsybovsky, Thomas,
+  Druz, Zhang, Zhang, Wang, Kong, Park, Popova, Dekker, Davis, Carter, Ross,
+  Ellington, Wilson, Marcotte, Mascola, Ippolito, Krammer, Quake, Kwong, and
+  Georgiou]{lee2016molecular-level}
+Jiwon Lee, Daniel~R. Boutz, Veronika Chromikova, et~al.
+\newblock Molecular-level analysis of the serum antibody repertoire in young
+  adults before and after seasonal influenza vaccination.
+\newblock \emph{Nature Medicine}, 22\penalty0 (12):\penalty0 1456--1464, 2016.
+\newblock ISSN 1546170.
+\newblock \doi{10.1038/nm.4224}.
+
+\bibitem[Lee et~al.(2019)Lee, Paparoditis, Horton, Frühwirth, McDaniel, Jung,
+  Boutz, Hussein, Tanno, Pappas, Ippolito, Corti, Lanzavecchia, and
+  Georgiou]{lee2019persistent}
+Jiwon Lee, Philipp Paparoditis, Andrew~P. Horton, et~al.
+\newblock Persistent antibody clonotypes dominate the serum response to
+  influenza over multiple years and repeated vaccinations.
+\newblock \emph{Cell Host and Microbe}, 25\penalty0 (3):\penalty0 367--3765,
+  2019.
+\newblock ISSN 19313128.
+\newblock \doi{10.1016/j.chom.2019.01.010}.
+
+\bibitem[Wine et~al.(2013)Wine, Boutz, Lavinder, Miklos, Hughes, Hoi, Jung,
+  Horton, Murrin, Ellington, Marcotte, and Georgiou]{wine2013molecular}
+Yariv Wine, Daniel~R. Boutz, Jason~J. Lavinder, et~al.
+\newblock Molecular deconvolution of the monoclonal antibodies that comprise
+  the polyclonal serum response.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 110\penalty0 (8):\penalty0 2993--2998, 2013.
+\newblock ISSN 00278424.
+\newblock \doi{10.1073/pnas.1213737110}.
+
+\bibitem[Barnidge et~al.(2014{\natexlab{a}})Barnidge, Dasari, Ramirez-Alvarado,
+  Fontan, Willrich, Tschumper, Jelinek, Snyder, Dispenzieri, Katzmann, and
+  Murray]{barnidge2014phenotyping}
+David~R. Barnidge, Surendra Dasari, Marina Ramirez-Alvarado, et~al.
+\newblock Phenotyping polyclonal kappa and lambda light chain molecular mass
+  distributions in patient serum using mass spectrometry.
+\newblock \emph{Journal of Proteome Research}, 13\penalty0 (11):\penalty0
+  5198--5205, 2014{\natexlab{a}}.
+\newblock ISSN 15353907.
+\newblock \doi{10.1021/pr5005967}.
+
+\bibitem[Barnidge et~al.(2014{\natexlab{b}})Barnidge, Dasari, Botz, Murray,
+  Snyder, Katzmann, Dispenzieri, and Murray]{barnidge2014using}
+David~R. Barnidge, Surendra Dasari, Chad~M. Botz, et~al.
+\newblock Using mass spectrometry to monitor monoclonal immunoglobulins in
+  patients with a monoclonal gammopathy.
+\newblock \emph{Journal of Proteome Research}, 13\penalty0 (3):\penalty0
+  1419--1427, 2014{\natexlab{b}}.
+\newblock ISSN 15353893.
+\newblock \doi{10.1021/pr400985k}.
+
+\bibitem[He et~al.(2019)He, Anderson, Barnidge, Murray, Dasari, Dispenzieri,
+  Hendrickson, and Marshall]{he2019classification}
+Lidong He, Lissa~C. Anderson, David~R. Barnidge, et~al.
+\newblock Classification of plasma cell disorders by 21 tesla fourier transform
+  ion cyclotron resonance top-down and middle-down ms/ms analysis of monoclonal
+  immunoglobulin light chains in human serum.
+\newblock \emph{Analytical Chemistry}, 91\penalty0 (5):\penalty0 3263--3269,
+  2019.
+\newblock ISSN 0003-2700.
+\newblock \doi{10.1021/acs.analchem.8b03294}.
+
+\bibitem[He et~al.(2017)He, Anderson, Barnidge, Murray, Hendrickson, and
+  Marshall]{he2017analysis}
+Lidong He, Lissa~C. Anderson, David~R. Barnidge, et~al.
+\newblock Analysis of monoclonal antibodies in human serum as a model for
+  clinical monoclonal gammopathy by use of 21 tesla ft-icr top-down and
+  middle-down ms/ms.
+\newblock \emph{Journal of the American Society for Mass Spectrometry},
+  28\penalty0 (5):\penalty0 827--838, 2017.
+\newblock ISSN 1044-0305.
+\newblock \doi{10.1007/s13361-017-1602-6}.
+
+\bibitem[Mills et~al.(2015)Mills, Barnidge, and Murray]{mills2015detecting}
+John~R. Mills, David~R. Barnidge, and David~L. Murray.
+\newblock Detecting monoclonal immunoglobulins in human serum using mass
+  spectrometry.
+\newblock \emph{Methods}, 81:\penalty0 56--65, 2015.
+\newblock ISSN 10462023.
+\newblock \doi{10.1016/j.ymeth.2015.04.020}.
+
+\bibitem[Sharpley et~al.(2019)Sharpley, Manwani, Mahmood, Sachchithanantham,
+  Lachmann, Gillmore, Whelan, Fontana, Hawkins, and
+  Wechalekar]{sharpley2019novel}
+Faye~A. Sharpley, Richa Manwani, Shameem Mahmood, et~al.
+\newblock A novel mass spectrometry method to identify the serum monoclonal
+  light chain component in systemic light chain amyloidosis.
+\newblock \emph{Blood Cancer Journal}, 9\penalty0 (2):\penalty0 16, 2019.
+\newblock ISSN 2044-5385.
+\newblock \doi{10.1038/s41408-019-0180-1}.
+
+\bibitem[Wang et~al.(2019)Wang, Liu, Muther, James, Smith, and
+  Wu]{wang2019top-down}
+Zhe Wang, Xiaowen Liu, Jennifer Muther, et~al.
+\newblock Top-down mass spectrometry analysis of human serum autoantibody
+  antigen-binding fragments.
+\newblock \emph{Scientific reports}, 9\penalty0 (1):\penalty0 2345, 2019.
+\newblock ISSN 2045-2322.
+\newblock \doi{10.1038/s41598-018-38380-y}.
+
+\bibitem[Spoerry et~al.(2016)Spoerry, Hessle, Lewis, Paton, Woof, and Von
+  Pawel-Rammingen]{spoerry2016novel}
+Christian Spoerry, Pontus Hessle, Melanie~J. Lewis, et~al.
+\newblock Novel igg-degrading enzymes of the igde protease family link
+  substrate specificity to host tropism of streptococcus species.
+\newblock \emph{PLoS ONE}, 11\penalty0 (10), 2016.
+\newblock ISSN 19326203.
+\newblock \doi{10.1371/journal.pone.0164809}.
+
+\bibitem[Lefranc et~al.(1999)Lefranc, Giudicelli, Ginestoux, Bodmer, Müller,
+  Bontrop, Lemaitre, Malik, Barbié, and Chaume]{lefranc1999imgt}
+Marie~Paule Lefranc, Véronique Giudicelli, Chantal Ginestoux, et~al.
+\newblock Imgt, the international immunogenetics database.
+\newblock \emph{Nucleic Acids Research}, 27\penalty0 (1):\penalty0 209--212,
+  1999.
+\newblock ISSN 03051048.
+\newblock \doi{10.1093/nar/27.1.209}.
+
+\bibitem[Bondt et~al.(2016)Bondt, Wuhrer, Kuijper, Hazes, and
+  Dolhain]{bondt2016fab}
+Albert Bondt, Manfred Wuhrer, T.~Martijn Kuijper, Johanna~M.W. Hazes, and
+  Radboud~J.E.M. Dolhain.
+\newblock Fab glycosylation of immunoglobulin g does not associate with
+  improvement of rheumatoid arthritis during pregnancy.
+\newblock \emph{Arthritis Research and Therapy}, 18\penalty0 (1), 2016.
+\newblock ISSN 14786362.
+\newblock \doi{10.1186/s13075-016-1172-1}.
+
+\bibitem[Hafkenscheid et~al.(2017)Hafkenscheid, Bondt, Scherer, Huizinga,
+  Wuhrer, Toes, and Rombouts]{hafkenscheid2017structural}
+Lise Hafkenscheid, Albert Bondt, Hans~U. Scherer, et~al.
+\newblock Structural analysis of variable domain glycosylation of
+  anti-citrullinated protein antibodies in rheumatoid arthritis reveals the
+  presence of highly sialylated glycans.
+\newblock \emph{Molecular and Cellular Proteomics}, 16\penalty0 (2):\penalty0
+  278--287, 2017.
+\newblock ISSN 15359484.
+\newblock \doi{10.1074/mcp.m116.062919}.
+
+\bibitem[Guthals et~al.(2017)Guthals, Gan, Murray, Chen, Stinson, Nakamura,
+  Lill, Sandoval, and Bandeira]{guthals2017de}
+Adrian Guthals, Yutian Gan, Laura Murray, et~al.
+\newblock De novo ms/ms sequencing of native human antibodies.
+\newblock \emph{Journal of Proteome Research}, 16\penalty0 (1):\penalty0
+  45--54, 2017.
+\newblock ISSN 1535-3893.
+\newblock \doi{10.1021/acs.jproteome.6b00608}.
+
+\bibitem[Sen et~al.(2017)Sen, Tang, Nayak, Kil, Bern, Ozoglu, Ueberheide,
+  Davis, and Becker]{sen2017automated}
+K.~Ilker Sen, Wilfred~H Tang, Shruti Nayak, et~al.
+\newblock Automated antibody de novo sequencing and its utility in
+  biopharmaceutical discovery.
+\newblock \emph{Journal of the American Society for Mass Spectrometry},
+  28\penalty0 (5):\penalty0 803--810, 2017.
+\newblock ISSN 1879-1123.
+\newblock \doi{10.1007/s13361-016-1580-0}.
+
+\bibitem[Tran et~al.(2016)Tran, Rahman, He, Xin, Shan, and
+  Li]{tran2016complete}
+Ngoc~Hieu Tran, M~Ziaur Rahman, Lin He, et~al.
+\newblock Complete de novo assembly of monoclonal antibody sequences.
+\newblock \emph{Scientific Reports}, 6\penalty0 (1):\penalty0 31730, 2016.
+\newblock ISSN 2045-2322.
+\newblock \doi{10.1038/srep31730}.
+
+\bibitem[den Boer et~al.(2020)den Boer, Greisch, Tamara, Bondt, and
+  Heck]{boer2020selectivity}
+Maurits~A. den Boer, Jean-Francois Greisch, Sem Tamara, Albert Bondt, and
+  Albert J.~R. Heck.
+\newblock Selectivity over coverage in de novo sequencing of iggs.
+\newblock \emph{Chemical science}, 11\penalty0 (43):\penalty0 11886--11896,
+  2020.
+\newblock ISSN 2041-6520.
+\newblock \doi{10.1039/d0sc03438j}.
+
+\bibitem[Fornelli et~al.(2017)Fornelli, Ayoub, Aizikov, Liu, Damoc, Pevzner,
+  Makarov, Beck, and Tsybin]{fornelli2017top-down}
+Luca Fornelli, Daniel Ayoub, Konstantin Aizikov, et~al.
+\newblock Top-down analysis of immunoglobulin g isotypes 1 and 2 with electron
+  transfer dissociation on a high-field orbitrap mass spectrometer.
+\newblock \emph{Journal of proteomics}, 159:\penalty0 67--76, 2017.
+\newblock ISSN 1876-7737.
+\newblock \doi{10.1016/j.jprot.2017.02.013}.
+
+\bibitem[Shaw et~al.(2020)Shaw, Liu, Vasilev, Bracken, Malhan, Guthals,
+  Beckman, and Voinov]{shaw2020direct}
+Jared~B. Shaw, Weijing Liu, V.~Yury Vasilev, et~al.
+\newblock Direct determination of antibody chain pairing by top-down and
+  middle-down mass spectrometry using electron capture dissociation and
+  ultraviolet photodissociation.
+\newblock \emph{Analytical chemistry}, 92\penalty0 (1):\penalty0 766--773,
+  2020.
+\newblock ISSN 1520-6882.
+\newblock \doi{10.1021/acs.analchem.9b03129}.
+
+\bibitem[Peng et~al.(2021)Peng, Pronker, and Snijder]{peng2021mass}
+Weiwei Peng, Matti~F. Pronker, and Joost Snijder.
+\newblock Mass spectrometry-based de novo sequencing of monoclonal antibodies
+  using multiple proteases and a dual fragmentation scheme.
+\newblock \emph{Journal of Proteome Research}, 20\penalty0 (7):\penalty0
+  3559--3566, 2021.
+\newblock ISSN 1535-3893.
+\newblock \doi{10.1021/acs.jproteome.1c00169}.
+
+\bibitem[Kitaura et~al.(2017)Kitaura, Yamashita, Ayabe, Shini, Matsutani, and
+  Suzuki]{kitaura2017different}
+Kazutaka Kitaura, Hiroshi Yamashita, Hitomi Ayabe, et~al.
+\newblock Different somatic hypermutation levels among antibody subclasses
+  disclosed by a new next-generation sequencing-based antibody repertoire
+  analysis.
+\newblock \emph{Frontiers in immunology}, 8\penalty0 (May):\penalty0 389, 2017.
+\newblock ISSN 1664-3224.
+\newblock \doi{10.3389/fimmu.2017.00389}.
+
+\bibitem[Williams et~al.(2017)Williams, Ofek, Schätzle, McDaniel, Lu, Nicely,
+  Wu, Lougheed, Bradley, Louder, McKee, Bailer, O’Dell, Georgiev, Seaman,
+  Parks, Marshall, Anasti, Yang, Nie, Tumba, Wiehe, Wagh, Korber, Kepler,
+  Munir~Alam, Morris, Kamanga, Cohen, Bonsignori, Xia, Montefiori, Kelsoe, Gao,
+  Mascola, Anthony~Moody, Saunders, Liao, Tomaras, Georgiou, and
+  Haynes]{williams2017potent}
+La~Tonya~D. Williams, Gilad Ofek, Sebastian Schätzle, et~al.
+\newblock Potent and broad hiv-neutralizing antibodies in memory b cells and
+  plasma.
+\newblock \emph{Science Immunology}, 2\penalty0 (7), 2017.
+\newblock ISSN 24709468.
+\newblock \doi{10.1126/sciimmunol.aal2200}.
+
+\bibitem[Morell et~al.(1970)Morell, Terry, and Waldmann]{morell1970metabolic}
+A.~Morell, W.~D. Terry, and T.~A. Waldmann.
+\newblock Metabolic properties of igg subclasses in man.
+\newblock \emph{The Journal of clinical investigation}, 49\penalty0
+  (4):\penalty0 673--680, 1970.
+\newblock ISSN 00219738.
+\newblock \doi{10.1172/jci106279}.
+
+\bibitem[Melamed et~al.(2018)Melamed, Borte, Trawnicek, Kobayashi, Kobayashi,
+  Knutsen, Gupta, Smits, Pituch-Noworolska, Strach, Pulka, Ochs, and
+  Moy]{melamed2018pharmacokinetics}
+Isaac~R. Melamed, Michael Borte, Laurenz Trawnicek, et~al.
+\newblock Pharmacokinetics of a novel human intravenous immunoglobulin 10% in
+  patients with primary immunodeficiency diseases: Analysis of a phase iii,
+  multicentre, prospective, open-label study.
+\newblock \emph{European Journal of Pharmaceutical Sciences}, 118:\penalty0
+  80--86, 2018.
+\newblock ISSN 18790720.
+\newblock \doi{10.1016/j.ejps.2018.03.007}.
+
+\bibitem[Bernasconi et~al.(2002)Bernasconi, Traggiai, and
+  Lanzavecchia]{bernasconi2002maintenance}
+Nadia~L. Bernasconi, Elisabetta Traggiai, and Antonio Lanzavecchia.
+\newblock Maintenance of serological memory by polyclonal activation of human
+  memory b cells.
+\newblock \emph{Science}, 298\penalty0 (5601):\penalty0 2199--2202, 2002.
+\newblock ISSN 00368075.
+\newblock \doi{10.1126/science.1076071}.
+
+\bibitem[Manz et~al.(1997)Manz, Thiel, and Radbruch]{manz1997lifetime}
+Rudolf~A. Manz, Andreas Thiel, and Andreas Radbruch.
+\newblock Lifetime of plasma cells in the bone marrow [3].
+\newblock \emph{Nature}, 388\penalty0 (6638):\penalty0 133--134, 1997.
+\newblock ISSN 00280836.
+\newblock \doi{10.1038/40540}.
+
+\bibitem[Slifka et~al.(1998)Slifka, Antia, Whitmire, and
+  Ahmed]{slifka1998humoral}
+Mark~K. Slifka, Rustom Antia, Jason~K. Whitmire, and Rafi Ahmed.
+\newblock Humoral immunity due to long-lived plasma cells.
+\newblock \emph{Immunity}, 8\penalty0 (3):\penalty0 363--372, 1998.
+\newblock ISSN 10747613.
+\newblock \doi{10.1016/s1074-7613(00)80541-5}.
+
+\bibitem[Tebani et~al.(2020)Tebani, Gummesson, Zhong, Koistinen, Lakshmikanth,
+  Olsson, Boulund, Neiman, Stenlund, Hellström, Karlsson, Arif,
+  Dodig-Crnković, Mardinoglu, Lee, Zhang, Chen, Olin, Mikes, Danielsson, von
+  Feilitzen, Jansson, Angerås, Huss, Kjellqvist, Odeberg, Edfors, Tremaroli,
+  Forsström, Schwenk, Nilsson, Moritz, Bäckhed, Engstrand, Brodin,
+  Bergström, Uhlen, and Fagerberg]{tebani2020integration}
+Abdellah Tebani, Anders Gummesson, Wen Zhong, et~al.
+\newblock Integration of molecular profiles in a longitudinal wellness
+  profiling cohort.
+\newblock \emph{Nature Communications}, 11\penalty0 (1), 2020.
+\newblock ISSN 20411723.
+\newblock \doi{10.1038/s41467-020-18148-7}.
+
+\bibitem[Klouwenberg et~al.(2013)Klouwenberg, Ong, Bos, De~Beer, Van~Hooijdonk,
+  Huson, Straat, Van~Vught, Wieske, Horn, Schultz, Van Der~Poll, Bonten, and
+  Cremer]{klouwenberg2013interobserver}
+Peter~M.C.Klein Klouwenberg, David~S.Y. Ong, Lieuwe~D.J. Bos, et~al.
+\newblock Interobserver agreement of centers for disease control and prevention
+  criteria for classifying infections in critically ill patients.
+\newblock \emph{Critical Care Medicine}, 41\penalty0 (10):\penalty0 2373--2378,
+  2013.
+\newblock ISSN 00903493.
+\newblock \doi{10.1097/ccm.0b013e3182923712}.
+
+\bibitem[Singer et~al.(2016)Singer, Deutschman, Seymour, Shankar-Hari, Annane,
+  Bauer, Bellomo, Bernard, Chiche, Coopersmith, Hotchkiss, Levy, Marshall,
+  Martin, Opal, Rubenfeld, Poll, Vincent, and Angus]{singer2016third}
+Mervyn Singer, Clifford~S. Deutschman, Christopherwarren Seymour, et~al.
+\newblock The third international consensus definitions for sepsis and septic
+  shock (sepsis-3).
+\newblock \emph{JAMA - Journal of the American Medical Association},
+  315\penalty0 (8):\penalty0 801--810, 2016.
+\newblock ISSN 15383598.
+\newblock \doi{10.1001/jama.2016.0287}.
+
+\bibitem[Bondt et~al.(2014)Bondt, Rombouts, Selman, Hensbergen, Reiding, Hazes,
+  Dolhain, and Wuhrer]{bondt2014immunoglobulin}
+Albert Bondt, Yoann Rombouts, Maurice~H.J. Selman, et~al.
+\newblock Immunoglobulin g (igg) fab glycosylation analysis using a new mass
+  spectrometric high-throughput profiling method reveals pregnancy-associated
+  changes.
+\newblock \emph{Molecular and Cellular Proteomics}, 13\penalty0 (11):\penalty0
+  3029--3039, 2014.
+\newblock ISSN 15359484.
+\newblock \doi{10.1074/mcp.m114.039537}.
+
+\bibitem[Amez~Martín et~al.(2021)Amez~Martín, Wuhrer, and
+  Falck]{amezmartín2021serum}
+Manuela Amez~Martín, Manfred Wuhrer, and David Falck.
+\newblock Serum and plasma immunoglobulin g fc n-glycosylation is stable during
+  storage.
+\newblock \emph{Journal of Proteome Research}, 20\penalty0 (5):\penalty0
+  2935--2941, 2021.
+\newblock ISSN 15353907.
+\newblock \doi{10.1021/acs.jproteome.1c00148}.
+
+\bibitem[Van De~Waterbeemd et~al.(2018)Van De~Waterbeemd, Tamara, Fort, Damoc,
+  Franc, Bieri, Itten, Makarov, Ban, and Heck]{waterbeemd2018dissecting}
+Michiel Van De~Waterbeemd, Sem Tamara, Kyle~L. Fort, et~al.
+\newblock Dissecting ribosomal particles throughout the kingdoms of life using
+  advanced hybrid mass spectrometry methods.
+\newblock \emph{Nature Communications}, 9\penalty0 (1), 2018.
+\newblock ISSN 20411723.
+\newblock \doi{10.1038/s41467-018-04853-x}.
+
+\bibitem[McKinney(2010)]{mckinney2010data}
+Wes McKinney.
+\newblock Data structures for statistical computing in python.
+\newblock \emph{Proceedings of the 9th Python in Science Conference}, pages
+  56--61, 2010.
+\newblock \doi{10.25080/majora-92bf1922-00a}.
+
+\bibitem[Van Der~Walt et~al.(2011)Van Der~Walt, Colbert, and
+  Varoquaux]{walt2011numpy}
+Stéfan Van Der~Walt, S.~Chris Colbert, and Gaël Varoquaux.
+\newblock The numpy array: A structure for efficient numerical computation.
+\newblock \emph{Computing in Science and Engineering}, 13\penalty0
+  (2):\penalty0 22--30, 2011.
+\newblock ISSN 15219615.
+\newblock \doi{10.1109/mcse.2011.37}.
+
+\bibitem[Virtanen et~al.(2020)Virtanen, Gommers, Oliphant, Haberland, Reddy,
+  Cournapeau, Burovski, Peterson, Weckesser, Bright, van~der Walt, Brett,
+  Wilson, Millman, Mayorov, Nelson, Jones, Kern, Larson, Carey, Polat, Feng,
+  Moore, VanderPlas, Laxalde, Perktold, Cimrman, Henriksen, Quintero, Harris,
+  Archibald, Ribeiro, Pedregosa, van Mulbregt, Vijaykumar, Bardelli, Rothberg,
+  Hilboll, Kloeckner, Scopatz, Lee, Rokem, Woods, Fulton, Masson, Häggström,
+  Fitzgerald, Nicholson, Hagen, Pasechnik, Olivetti, Martin, Wieser, Silva,
+  Lenders, Wilhelm, Young, Price, Ingold, Allen, Lee, Audren, Probst, Dietrich,
+  Silterra, Webber, Slavi, Nothman, Buchner, Kulick, Schönberger,
+  de~Miranda~Cardoso, Reimer, Harrington, Rodríguez, Nunez-Iglesias,
+  Kuczynski, Tritz, Thoma, Newville, Kümmerer, Bolingbroke, Tartre, Pak,
+  Smith, Nowaczyk, Shebanov, Pavlyk, Brodtkorb, Lee, McGibbon, Feldbauer,
+  Lewis, Tygier, Sievert, Vigna, Peterson, More, Pudlik, Oshima, Pingel,
+  Robitaille, Spura, Jones, Cera, Leslie, Zito, Krauss, Upadhyay, Halchenko,
+  and Vázquez-Baeza]{virtanen2020scipy}
+Pauli Virtanen, Ralf Gommers, Travis~E. Oliphant, et~al.
+\newblock Scipy 1.0: fundamental algorithms for scientific computing in python.
+\newblock \emph{Nature Methods}, 17\penalty0 (3):\penalty0 261--272, 2020.
+\newblock ISSN 15487105.
+\newblock \doi{10.1038/s41592-019-0686-2}.
+
+\bibitem[Hunter(2007)]{hunter2007matplotlib:}
+John~D. Hunter.
+\newblock Matplotlib: A 2d graphics environment.
+\newblock \emph{Computing in Science and Engineering}, 9\penalty0 (3):\penalty0
+  90--95, 2007.
+\newblock ISSN 15219615.
+\newblock \doi{10.1109/mcse.2007.55}.
+
+\bibitem[Zabrouskov et~al.(2005)Zabrouskov, Senko, Du, Leduc, and
+  Kelleher]{zabrouskov2005new}
+Vlad Zabrouskov, Michael~W. Senko, Yi~Du, Richard~D. Leduc, and Neil~L.
+  Kelleher.
+\newblock New and automated msn approaches for top-down identification of
+  modified proteins.
+\newblock \emph{Journal of the American Society for Mass Spectrometry},
+  16\penalty0 (12):\penalty0 2027--2038, 2005.
+\newblock ISSN 10440305.
+\newblock \doi{10.1016/j.jasms.2005.08.004}.
+
+\bibitem[Smith and Waterman(1981)]{smith1981identification}
+T.~F. Smith and M.~S. Waterman.
+\newblock Identification of common molecular subsequences.
+\newblock \emph{Journal of Molecular Biology}, 147\penalty0 (1):\penalty0
+  195--197, 1981.
+\newblock ISSN 00222836.
+\newblock \doi{10.1016/0022-2836(81)90087-5}.
+
+\bibitem[Tabb et~al.(2008)Tabb, Ze-Qiang, Martin, Ham, and
+  Chambers]{tabb2008directag:}
+David~L. Tabb, Ma~Ze-Qiang, Daniel~B. Martin, Amy Joan~L. Ham, and Matthew~C.
+  Chambers.
+\newblock Directag: Accurate sequence tags from peptide ms/ms through
+  statistical scoring.
+\newblock \emph{Journal of Proteome Research}, 7\penalty0 (9):\penalty0
+  3838--3846, 2008.
+\newblock ISSN 15353893.
+\newblock \doi{10.1021/pr800154p}.
+
+\bibitem[Swindells et~al.(2017)Swindells, Porter, Couch, Hurst, Abhinandan,
+  Nielsen, Macindoe, Hetherington, and Martin]{swindells2017abysis:}
+Mark~B. Swindells, Craig~T. Porter, Matthew Couch, et~al.
+\newblock abysis: Integrated antibody sequence and structure—management,
+  analysis, and prediction.
+\newblock \emph{Journal of Molecular Biology}, 429\penalty0 (3):\penalty0
+  356--364, 2017.
+\newblock ISSN 10898638.
+\newblock \doi{10.1016/j.jmb.2016.08.019}.
+
+\end{thebibliography}

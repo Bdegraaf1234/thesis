@@ -1,0 +1,192 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Modular antibody \emph  {de novo} sequence analysis using multi-tier LC-MS/MS data}{150}{appendix.5}\protected@file@percent }
+\newlabel{ch-5}{{5}{151}{References}{appendix.5}{}}
+\citation{schroeder2010structure}
+\citation{kaplon2021antibodies,marks2020how,raybould2020thera-sabdab:}
+\citation{bornholdt2016isolation,corti2016protective,valgardsdottir2021identification}
+\citation{schroederjr.2006similarity,briney2019commonality}
+\citation{hom2022exploring}
+\citation{altelaar2013next-generation,aebersold2016mass-spectrometric}
+\citation{sen2017automated,peng2021mass,srzentić2020interlaboratory}
+\citation{aebersold2003mass}
+\citation{sen2017automated,tran2016complete,guthals2012shotgun}
+\citation{charlesajaneway2001generation,alberts2002generation}
+\citation{graaf2022perspective}
+\citation{sen2017automated,tran2016complete,schulte2022template-based,castellana2010template}
+\citation{lefranc2003imgt,lefranc2020immunoglobulins}
+\citation{sen2017automated}
+\citation{peng2021mass}
+\citation{toby2016progress}
+\citation{johansson2008ides:}
+\citation{bondt2021human,dupré2021de,schulte2022template-based}
+\citation{schulte2022template-based}
+\citation{lefranc1997unique}
+\newlabel{thumbs.5}{{5}{153}{References}{section*.77}{}}
+\@writefile{tmb}{\thumbcontents{Chapter 5}{\Large  {5}}{white}{gray}{153}{thumbs.5}{0}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Introduction}{153}{section.5.1}\protected@file@percent }
+\citation{dupré2021de,melani2019direct}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Results}{156}{section.5.2}\protected@file@percent }
+\citation{bondt2021direct,bondt2021human}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces \textbf  {Modular sequencing can be used to limit the search space.} ~~a) Schematic of data-integration workflow. The approach consists of three stages in which increasingly large sequence segments are sequenced and then used as input for the next stage. Initially, only the framework regions (FRs) are sequenced. Then the FR candidates are converted into extended FR-CDR-FR candidates (\emph  {i.e.}, CDRs with adjacent FRs). Finally, the FR-CDR-FRs are recombined into full chain candidates. Each stage follows a flow starting with sequence candidate generation based on input data (“Generate”). These candidates are scored using multiple data streams (“Integrate”), then the best candidates are selected using these scores (“Evaluate”). ~~b) Size of the search space throughout the workflow. The approximate number of candidates is shown in the modular approach (pink) versus processing the whole sequence at once (teal). By first sequencing smaller segments, the search space can be kept relatively small. The segment candidate pool is expanded at the start of the stage and reduced after scoring. This ensures we never consider more than $\sim $10\textsuperscript  {3} segment candidates at the same time, keeping computational cost in balance .\relax }}{157}{figure.caption.78}\protected@file@percent }
+\newlabel{fig:fig5.1}{{1}{157}{\textbf {Modular sequencing can be used to limit the search space.} ~~a) Schematic of data-integration workflow. The approach consists of three stages in which increasingly large sequence segments are sequenced and then used as input for the next stage. Initially, only the framework regions (FRs) are sequenced. Then the FR candidates are converted into extended FR-CDR-FR candidates (\emph {i.e.}, CDRs with adjacent FRs). Finally, the FR-CDR-FRs are recombined into full chain candidates. Each stage follows a flow starting with sequence candidate generation based on input data (“Generate”). These candidates are scored using multiple data streams (“Integrate”), then the best candidates are selected using these scores (“Evaluate”). ~~b) Size of the search space throughout the workflow. The approximate number of candidates is shown in the modular approach (pink) versus processing the whole sequence at once (teal). By first sequencing smaller segments, the search space can be kept relatively small. The segment candidate pool is expanded at the start of the stage and reduced after scoring. This ensures we never consider more than $\sim $10\textsuperscript {3} segment candidates at the same time, keeping computational cost in balance .\relax }{figure.caption.78}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.1}Target mass determination and sample characterization by using MD-MS}{157}{subsection.5.2.1}\protected@file@percent }
+\newlabel{ch:mass-determ}{{5.2.1}{157}{Target mass determination and sample characterization by using MD-MS}{subsection.5.2.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces \textbf  {Increasing complexity leads to an increase in ambiguity in mass determination in middle-down proteomics of antibodies.} LC-trace (top panel), zero-charge deconvoluted mass spectrum (middle panel), and averaged MS2 spectrum (bottom panel). ~~a) Pure Trastuzumab with clear signals for the light chain and the Fd chain. ~~b) Mixture of Trastuzumab and two other monoclonal antibodies. ~~c) Polyclonal sample from plasma. The contributions of the target and paired chains diminish relatively when the background becomes more complex.\relax }}{158}{figure.caption.79}\protected@file@percent }
+\newlabel{fig:fig5.2}{{2}{158}{\textbf {Increasing complexity leads to an increase in ambiguity in mass determination in middle-down proteomics of antibodies.} LC-trace (top panel), zero-charge deconvoluted mass spectrum (middle panel), and averaged MS2 spectrum (bottom panel). ~~a) Pure Trastuzumab with clear signals for the light chain and the Fd chain. ~~b) Mixture of Trastuzumab and two other monoclonal antibodies. ~~c) Polyclonal sample from plasma. The contributions of the target and paired chains diminish relatively when the background becomes more complex.\relax }{figure.caption.79}{}}
+\citation{ma2003peaks:}
+\citation{schulte2022template-based}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.2}Using multi-enzyme shotgun proteomics data for \emph  {de novo} sequencing}{159}{subsection.5.2.2}\protected@file@percent }
+\newlabel{ch:bu-ms}{{5.2.2}{159}{Using multi-enzyme shotgun proteomics data for \emph {de novo} sequencing}{subsection.5.2.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces \textbf  {Sequencing higher complexity samples lead to a loss of fidelity in sequencing when using only shotgun proteomics data.} Sequencing results for the monoclonal (panel a-b) and mixture of 3 mAbs (panel c-d) samples are shown. Each sample was submitted to Stitch twice: as a \emph  {template selection} run (light blue, panel a and c) and a \emph  {definitive} run (dark blue, panel b and d). Each panel shows residue candidates as letters and depth of coverage as bars. The monoclonal sample had no coverage below the cut-off (pink highlight), very few erroneous residue candidates (grey residues), ambiguity, or errors in the consensus sequence (marked with “\emph  {x}”). The mixture of 3 mAbs sample had substantially more stretches of sequence with low coverage (pink bars), resulting in more ambiguity, erroneous candidates, and errors.\relax }}{160}{figure.caption.80}\protected@file@percent }
+\newlabel{fig:fig5.3}{{3}{160}{\textbf {Sequencing higher complexity samples lead to a loss of fidelity in sequencing when using only shotgun proteomics data.} Sequencing results for the monoclonal (panel a-b) and mixture of 3 mAbs (panel c-d) samples are shown. Each sample was submitted to Stitch twice: as a \emph {template selection} run (light blue, panel a and c) and a \emph {definitive} run (dark blue, panel b and d). Each panel shows residue candidates as letters and depth of coverage as bars. The monoclonal sample had no coverage below the cut-off (pink highlight), very few erroneous residue candidates (grey residues), ambiguity, or errors in the consensus sequence (marked with “\emph {x}”). The mixture of 3 mAbs sample had substantially more stretches of sequence with low coverage (pink bars), resulting in more ambiguity, erroneous candidates, and errors.\relax }{figure.caption.80}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.3}Integrating multiple evidence streams}{161}{subsection.5.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Performance on recombinant samples}{161}{section*.81}\protected@file@percent }
+\newlabel{ch:fr}{{5.2.3}{161}{Framework region sequencing}{section*.82}{}}
+\@writefile{toc}{\contentsline {paragraph}{Framework region sequencing}{161}{section*.82}\protected@file@percent }
+\newlabel{ch:cdr}{{5.2.3}{163}{Complementarity determining region sequencing}{section*.83}{}}
+\@writefile{toc}{\contentsline {paragraph}{Complementarity determining region sequencing}{163}{section*.83}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Full chain sequencing}{164}{section*.84}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Performance on the complex polyclonal samples}{165}{section*.85}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces \textbf  {Sequencing an abundant IgA1 heavy chain in a polyclonal sample converges on a single sequence prediction.} The sequencing process of the target chain in the polyclonal sample is shown. Residue candidates per position are shown in sequence logos, with rejected residue candidates in grey. Below the sequence logos the number of candidates at the start and end of the stage is shown. ~~a) The selected germline template, IGHV3-33*06, is shown along with the deviations from the final sequence. ~~b) In the FR sequencing stage, we reduced all FR candidate pools to 4 candidates or less despite starting with large pools of FR3 and FR4 candidates. ~~c) During the CDR sequencing stage, we converged on a single CDR1 and CDR2 candidate, thereby also rejecting the remaining incorrect FR1 and FR3 candidates. The only remaining ambiguity was in between two isobaric CDR3 sequences. ~~d) Recombining the remaining FR candidates into chain sequences yielded 975 chain candidates. Two of these contained the previously selected CDRs. These two candidates were isobaric, had highly similar Shotgun-scores and fully overlapping fragment coverage. ~~e) middle-down fragment coverage for the final sequence (constant region not shown).\relax }}{166}{figure.caption.86}\protected@file@percent }
+\newlabel{fig:fig5.4}{{4}{166}{\textbf {Sequencing an abundant IgA1 heavy chain in a polyclonal sample converges on a single sequence prediction.} The sequencing process of the target chain in the polyclonal sample is shown. Residue candidates per position are shown in sequence logos, with rejected residue candidates in grey. Below the sequence logos the number of candidates at the start and end of the stage is shown. ~~a) The selected germline template, IGHV3-33*06, is shown along with the deviations from the final sequence. ~~b) In the FR sequencing stage, we reduced all FR candidate pools to 4 candidates or less despite starting with large pools of FR3 and FR4 candidates. ~~c) During the CDR sequencing stage, we converged on a single CDR1 and CDR2 candidate, thereby also rejecting the remaining incorrect FR1 and FR3 candidates. The only remaining ambiguity was in between two isobaric CDR3 sequences. ~~d) Recombining the remaining FR candidates into chain sequences yielded 975 chain candidates. Two of these contained the previously selected CDRs. These two candidates were isobaric, had highly similar Shotgun-scores and fully overlapping fragment coverage. ~~e) middle-down fragment coverage for the final sequence (constant region not shown).\relax }{figure.caption.86}{}}
+\citation{schulte2022template-based}
+\citation{bondt2021human,bondt2021direct}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}Discussion}{168}{section.5.3}\protected@file@percent }
+\citation{bondt2021human}
+\@writefile{toc}{\contentsline {section}{\numberline {5.4}Materials and Methods}{169}{section.5.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.1}Immunoglobulin capture and Fab generation}{169}{subsection.5.4.1}\protected@file@percent }
+\newlabel{ch:ig-capt}{{5.4.1}{169}{Immunoglobulin capture and Fab generation}{subsection.5.4.1}{}}
+\@writefile{toc}{\contentsline {subsubsection}{Recombinant IgG1 sample preparation}{169}{section*.87}\protected@file@percent }
+\citation{bondt2021direct}
+\citation{bondt2021human}
+\@writefile{toc}{\contentsline {subsubsection}{Serum IgA1 sample preparation}{170}{section*.88}\protected@file@percent }
+\citation{bondt2021human}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.2}Bottom-up \emph  {de novo} sequencing}{171}{subsection.5.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Sample preparation}{171}{section*.89}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{LC-MS/MS}{171}{section*.90}\protected@file@percent }
+\citation{lefranc1997unique}
+\@writefile{toc}{\contentsline {subsubsection}{Data analysis}{172}{section*.91}\protected@file@percent }
+\citation{schulte2022template-based}
+\@writefile{toc}{\contentsline {subsubsection}{Germline database preparation}{173}{section*.92}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.3}Middle-down \emph  {de novo} sequencing}{173}{subsection.5.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{LC-MS/MS}{173}{section*.93}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{Data analysis}{174}{section*.94}\protected@file@percent }
+\citation{olsen2004improved}
+\@writefile{toc}{\contentsline {subsubsection}{Contig scoring and refinement using middle-down data}{175}{section*.95}\protected@file@percent }
+\citation{perez-riverol2022pride}
+\@writefile{toc}{\contentsline {section}{\numberline {5.5}Acknowledgements}{176}{section.5.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.5.1}Data availability}{176}{subsection.5.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.5.2}Author contributions}{176}{subsection.5.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.A}Supplementary material}{177}{section.d.5.A}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {S1}{\ignorespaces  \textbf  {Overview of input data.} Middle-down: The MS1 section shows the retention time window over which MS1 scans were averaged before deconvolution to obtain the target precursor mass, the selected mass, and the deviation of that selected mass from the known target mass. The MS2 section shows the retention time window over which MS2 scans were averaged before deconvolution to obtain the fragment masses, how many scans were averaged to achieve, and how many fragment masses were obtained. Bottom-up: The bottom-up section of the table shows the number of raw files that were used as input, which proteases were used for digestion and the number of peptides that resulted from \emph  {de novo} peptide sequencing using PEAKS. \relax }}{177}{table.caption.96}\protected@file@percent }
+\newlabel{tab:tabs5.1}{{S1}{177}{\textbf {Overview of input data.} Middle-down: The MS1 section shows the retention time window over which MS1 scans were averaged before deconvolution to obtain the target precursor mass, the selected mass, and the deviation of that selected mass from the known target mass. The MS2 section shows the retention time window over which MS2 scans were averaged before deconvolution to obtain the fragment masses, how many scans were averaged to achieve, and how many fragment masses were obtained. Bottom-up: The bottom-up section of the table shows the number of raw files that were used as input, which proteases were used for digestion and the number of peptides that resulted from \emph {de novo} peptide sequencing using PEAKS. \relax }{table.caption.96}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {S2}{\ignorespaces  \textbf  {Number of segment candidates throughout the workflow.} The table shows the number of segment candidates at the start and end of each stage. For the mix and polyclonal FR sequencing stage, a middle column is included which displays the number of candidates after a “first pass” filtering, for example excluding candidates that do not have highly conserved residues (Cys23 and Cys104 specifically), or candidates with highly unlikely terminal mass offsets. \relax }}{177}{table.caption.99}\protected@file@percent }
+\newlabel{tab:tabs5.2}{{S2}{177}{\textbf {Number of segment candidates throughout the workflow.} The table shows the number of segment candidates at the start and end of each stage. For the mix and polyclonal FR sequencing stage, a middle column is included which displays the number of candidates after a “first pass” filtering, for example excluding candidates that do not have highly conserved residues (Cys23 and Cys104 specifically), or candidates with highly unlikely terminal mass offsets. \relax }{table.caption.99}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {S1}{\ignorespaces \textbf  {Framework region candidate generation.} Candidate FR sequences for each framework region are generated from residue frequency tables from three sources: The definitive Stitch run, the template selection Stitch run and the IMGT (from highest to lowest priority respectively). Residue candidates are selected based on their relative frequency. For each position, residue candidates from the next frequency table are only taken if the depth of coverage in the current table is lower than the depth of coverage at the highly conserved Cys104. After residue candidates have been selected for all positions, all permutations of these candidates are taken for each FR to yield sequence candidates for these FRs.\relax }}{178}{figure.caption.97}\protected@file@percent }
+\newlabel{fig:figs5.1}{{S1}{178}{\textbf {Framework region candidate generation.} Candidate FR sequences for each framework region are generated from residue frequency tables from three sources: The definitive Stitch run, the template selection Stitch run and the IMGT (from highest to lowest priority respectively). Residue candidates are selected based on their relative frequency. For each position, residue candidates from the next frequency table are only taken if the depth of coverage in the current table is lower than the depth of coverage at the highly conserved Cys104. After residue candidates have been selected for all positions, all permutations of these candidates are taken for each FR to yield sequence candidates for these FRs.\relax }{figure.caption.97}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {S2}{\ignorespaces \textbf  {Schematic of the sliding window fragment matching algorithm.} The sliding window fragment matching algorithm finds the optimum mass offset for an imperfect subsequence for a given fragmentation spectrum (FR2 in the figure). Theoretical fragments are generated at an approximate offset and shifted by a predefined increment (default: 0.01 Da) throughout a predefined range (default: starting position plus and minus 190 Da). This enables error-tolerant scoring of subsequences and determination of the prefix- and suffix- (N- and C-terminal) masses. \relax }}{179}{figure.caption.98}\protected@file@percent }
+\newlabel{fig:figs5.2}{{S2}{179}{\textbf {Schematic of the sliding window fragment matching algorithm.} The sliding window fragment matching algorithm finds the optimum mass offset for an imperfect subsequence for a given fragmentation spectrum (FR2 in the figure). Theoretical fragments are generated at an approximate offset and shifted by a predefined increment (default: 0.01 Da) throughout a predefined range (default: starting position plus and minus 190 Da). This enables error-tolerant scoring of subsequences and determination of the prefix- and suffix- (N- and C-terminal) masses. \relax }{figure.caption.98}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {S3}{\ignorespaces  Figure legend on next page. \relax }}{180}{figure.caption.100}\protected@file@percent }
+\newlabel{fig:figs5.3}{{S3}{180}{Figure legend on next page. \relax }{figure.caption.100}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {S3}{\ignorespaces \textbf  {BU- and MD- based scoring and germline-based selection criteria enable effective segment candidate selection throughout the workflow.} Score distributions (MD-score (x axis) and Shotgun-score (y axis)) for all considered segment candidates are shown. Each column depicts segment candidates for a sample. Each graph represents segment candidate scores for a target segment. Each dot in the graphs represents a rejected candidate, whereas stars indicate selected candidates. A yellow outline highlights the correct candidate. The correct candidate was selected in all stages (except for the CDR3 and chain for the polyclonal sample, where it was not present.) However, ambiguity could not be fully resolved everywhere. A legend with the consecutive selection criteria is shown at the top of the figure. Grey: Input candidate. Red: First pass criteria met (default criterium: Has conserved Cys23 or Cys104). Blue: Preliminary selection criterium met (default criterium: MD-score was <5 removed from the maximum in the pool). Green: Selected for the next stage (default criterium: Top Shotgun-score). Any additional/alternative criteria are shown in the graph itself (e.g., for the mix FR4 candidate pool, the first pass filtering criterium included the presence of Trp118). The number of candidates satisfying each criterium is given at the top of each graph. E.g., for the monoclonal, 8 FR1 candidates were considered in total. Of these 8, only 4 had the highly conserved Cys23. Of these 4, only 2 were considered top candidates based on their MD-score. A single candidate was finally selected for the next stage.\relax }}{181}{figure.caption.101}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {S3}{\ignorespaces  \textbf  {Different scores calculated throughout the workflow.} The Template- and Germline- score are not used in the manuscript. The local BU-score is only used for internal ranking before CDR rescoring as the CDR-candidate are too short for the Shotgun-score. \relax }}{182}{table.caption.102}\protected@file@percent }
+\newlabel{tab:tabs5.3}{{S3}{182}{\textbf {Different scores calculated throughout the workflow.} The Template- and Germline- score are not used in the manuscript. The local BU-score is only used for internal ranking before CDR rescoring as the CDR-candidate are too short for the Shotgun-score. \relax }{table.caption.102}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {S4}{\ignorespaces \textbf  {CDR candidate generation.} Candidate CDR sequences are generated by joining a pair of adjacent FR candidates (e.g. a FR1 candidate and a FR2 candidate) using overhanging reads from both FRs. ~~a) Reads containing the 3 CDR flanking residues are taken for the left (e.g. FR1) and right FR (e.g. FR2). ~~b) The N-terminal overhanging reads (left\_overhangs) are then combined with the C-terminal overhanging reads (right\_overhangs), generating all possible combinations. ~~c) The mass of the CDR is calculated using the FR candidates and the \emph  {sliding window score} (\textbf  {\autoref {fig:figs5.2}}) and used to filter the CDR candidates, retaining only those matching the target mass within a 5 Da tolerance.\relax }}{183}{figure.caption.103}\protected@file@percent }
+\newlabel{fig:figs5.4}{{S4}{183}{\textbf {CDR candidate generation.} Candidate CDR sequences are generated by joining a pair of adjacent FR candidates (e.g. a FR1 candidate and a FR2 candidate) using overhanging reads from both FRs. ~~a) Reads containing the 3 CDR flanking residues are taken for the left (e.g. FR1) and right FR (e.g. FR2). ~~b) The N-terminal overhanging reads (left\_overhangs) are then combined with the C-terminal overhanging reads (right\_overhangs), generating all possible combinations. ~~c) The mass of the CDR is calculated using the FR candidates and the \emph {sliding window score} (\textbf {\autoref {fig:figs5.2}}) and used to filter the CDR candidates, retaining only those matching the target mass within a 5 Da tolerance.\relax }{figure.caption.103}{}}
+\bibstyle{Stylesettings/pnas}
+\bibdata{chapmerge}
+\bibcite{schroeder2010structure}{{1}{2010}{{Schroeder and Cavacini}}{{}}}
+\bibcite{kaplon2021antibodies}{{2}{2021}{{Kaplon and Reichert}}{{}}}
+\bibcite{marks2020how}{{3}{2020}{{Marks and Deane}}{{}}}
+\bibcite{raybould2020thera-sabdab:}{{4}{2020}{{Raybould et~al.}}{{Raybould, Marks, Lewis, Shi, Bujotzek, Taddese, and Deane}}}
+\bibcite{bornholdt2016isolation}{{5}{2016}{{Bornholdt et~al.}}{{Bornholdt, Turner, Murin, Li, Sok, Souders, Piper, Goff, Shamblin, Wollen, Sprague, Fusco, Pommert, Cavacini, Smith, Klempner, Reimann, Krauland, Gerngross, Wittrup, Saphire, Burton, Glass, Ward, and Walker}}}
+\bibcite{corti2016protective}{{6}{2016}{{Corti et~al.}}{{Corti, Misasi, Mulangu, Stanley, Kanekiyo, Wollen, Ploquin, Doria-Rose, Staupe, Bailey, Shi, Choe, Marcus, Thompson, Cagigi, Silacci, Fernandez-Rodriguez, Perez, Sallusto, Vanzetta, Agatic, Cameroni, Kisalu, Gordon, Ledgerwood, Mascola, Graham, Muyembe-Tamfun, Trefry, Lanzavecchia, and Sullivan}}}
+\bibcite{valgardsdottir2021identification}{{7}{2021}{{Valgardsdottir et~al.}}{{Valgardsdottir, Cattaneo, Napolitano, Raglio, Spinelli, Salmoiraghi, Castilletti, Lapa, Capobianchi, Farina, and Golay}}}
+\bibcite{schroederjr.2006similarity}{{8}{2006}{{Schroeder~Jr.}}{{}}}
+\bibcite{briney2019commonality}{{9}{2019}{{Briney et~al.}}{{Briney, Inderbitzin, Joyce, and Burton}}}
+\bibcite{hom2022exploring}{{10}{2022}{{Hom et~al.}}{{Hom, Tomar, and Tipton}}}
+\bibcite{altelaar2013next-generation}{{11}{2013}{{Altelaar et~al.}}{{Altelaar, Munoz, and Heck}}}
+\bibcite{aebersold2016mass-spectrometric}{{12}{2016}{{Aebersold and Mann}}{{}}}
+\bibcite{sen2017automated}{{13}{2017}{{Sen et~al.}}{{Sen, Tang, Nayak, Kil, Bern, Ozoglu, Ueberheide, Davis, and Becker}}}
+\bibcite{peng2021mass}{{14}{2021}{{Peng et~al.}}{{Peng, Pronker, and Snijder}}}
+\bibcite{srzentić2020interlaboratory}{{15}{2020}{{Srzentić et~al.}}{{Srzentić, Fornelli, Tsybin, Loo, Seckler, Agar, Anderson, Bai, Beck, Brodbelt, van~der Burgt, Chamot-Rooke, Chatterjee, Chen, Clarke, Danis, Diedrich, D’Ippolito, Dupré, Gasilova, Ge, Goo, Goodlett, Greer, Haselmann, He, Hendrickson, Hinkle, Holt, Hughes, Hunt, Kelleher, Kozhinov, Lin, Malosse, Marshall, Menin, Millikin, Nagornov, Nicolardi, Paša-Tolić, Pengelley, Quebbemann, Resemann, Sandoval, Sarin, Schmitt, Shabanowitz, Shaw, Shortreed, Smith, Sobott, Suckau, Toby, Weisbrod, Wildburger, Yates, Yoon, Young, and Zhou}}}
+\bibcite{aebersold2003mass}{{16}{2003}{{Aebersold and Mann}}{{}}}
+\bibcite{tran2016complete}{{17}{2016}{{Tran et~al.}}{{Tran, Rahman, He, Xin, Shan, and Li}}}
+\bibcite{guthals2012shotgun}{{18}{2012}{{Guthals et~al.}}{{Guthals, Clauser, and Bandeira}}}
+\bibcite{charlesajaneway2001generation}{{19}{2001}{{Charles A~Janeway et~al.}}{{Charles A~Janeway, Travers, Walport, and Shlomchik}}}
+\bibcite{alberts2002generation}{{20}{2002}{{Alberts et~al.}}{{Alberts, Johnson, Lewis, Raff, Roberts, and Walter}}}
+\bibcite{graaf2022perspective}{{21}{2022}{{de~Graaf et~al.}}{{de~Graaf, Hoek, Tamara, and Heck}}}
+\bibcite{schulte2022template-based}{{22}{2022}{{Schulte et~al.}}{{Schulte, Peng, and Snijder}}}
+\bibcite{castellana2010template}{{23}{2010}{{Castellana et~al.}}{{Castellana, Pham, Arnott, Lill, and Bafna}}}
+\bibcite{lefranc2003imgt}{{24}{2003}{{Lefranc}}{{}}}
+\bibcite{lefranc2020immunoglobulins}{{25}{2020}{{Lefranc and Lefranc}}{{}}}
+\bibcite{toby2016progress}{{26}{2016}{{Toby et~al.}}{{Toby, Fornelli, and Kelleher}}}
+\bibcite{johansson2008ides:}{{27}{2008}{{Johansson et~al.}}{{Johansson, Shannon, and Björck}}}
+\bibcite{bondt2021human}{{28}{2021{}}{{Bondt et~al.}}{{Bondt, Hoek, Tamara, de~Graaf, Peng, Schulte, van Rijswijck, den Boer, Greisch, Varkila, Snijder, Cremer, Bonten, and Heck}}}
+\bibcite{dupré2021de}{{29}{2021}{{Dupré et~al.}}{{Dupré, Duchateau, Sternke-Hoffmann, Boquoi, Malosse, Fenk, Haas, Buell, Rey, and Chamot-Rooke}}}
+\bibcite{lefranc1997unique}{{30}{1997}{{Lefranc}}{{}}}
+\bibcite{melani2019direct}{{31}{2019}{{Melani et~al.}}{{Melani, Srzentić, Gerbasi, McGee, Huguet, Fornelli, and Kelleher}}}
+\bibcite{bondt2021direct}{{32}{2021{}}{{Bondt et~al.}}{{Bondt, Dingess, Hoek, van Rijswijck, and Heck}}}
+\bibcite{ma2003peaks:}{{33}{2003}{{Ma et~al.}}{{Ma, Zhang, Hendrie, Liang, Li, Doherty-Kirby, and Lajoie}}}
+\bibcite{olsen2004improved}{{34}{2004}{{Olsen and Mann}}{{}}}
+\bibcite{perez-riverol2022pride}{{35}{2022}{{Perez-Riverol et~al.}}{{Perez-Riverol, Bai, Bandla, García-Seisdedos, Hewapathirana, Kamatchinathan, Kundu, Prakash, Frericks-Zipper, Eisenacher, Walzer, Wang, Brazma, and Vizcaíno}}}
+\@setckpt{Chapter.5/content}{
+\setcounter{page}{186}
+\setcounter{equation}{0}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{5}
+\setcounter{section}{1}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{4}
+\setcounter{table}{3}
+\setcounter{newflo@tctr}{4}
+\setcounter{float@type}{4}
+\setcounter{r@tfl@t}{0}
+\setcounter{ifsymcnt}{0}
+\setcounter{LT@tables}{0}
+\setcounter{LT@chunks}{0}
+\setcounter{caption@flags}{2}
+\setcounter{continuedfloat}{0}
+\setcounter{@pps}{4}
+\setcounter{@ppsavesec}{0}
+\setcounter{@ppsaveapp}{0}
+\setcounter{DefaultLines}{2}
+\setcounter{DefaultDepth}{0}
+\setcounter{L@lines}{3}
+\setcounter{L@depth}{0}
+\setcounter{AM@survey}{0}
+\setcounter{SC@C}{0}
+\setcounter{section@level}{1}
+\setcounter{Item}{0}
+\setcounter{Hfootnote}{0}
+\setcounter{Hy@AnnotLevel}{0}
+\setcounter{bookmark@seq@number}{5}
+\setcounter{linenumber}{1}
+\setcounter{LN@truepage}{193}
+\setcounter{lofdepth}{1}
+\setcounter{lotdepth}{1}
+\setcounter{CurrentPage}{194}
+\setcounter{pagesLTS.pagenr}{223}
+\setcounter{pagesLTS.current.local.0}{1}
+\setcounter{pagesLTS.pnc.0}{0}
+\setcounter{NAT@ctr}{35}
+\setcounter{pagesLTS.roman.1.local.cnt}{8}
+\setcounter{pagesLTS.arabic.1.local.cnt}{215}
+\setcounter{pagesLTS.pnc.roman}{1}
+\setcounter{pagesLTS.double.roman}{8}
+\setcounter{pagesLTS.current.local.roman}{9}
+\setcounter{pagesLTS.roman.1.local.count}{8}
+\setcounter{pagesLTS.pnc.arabic}{1}
+\setcounter{pagesLTS.double.arabic}{1}
+\setcounter{pagesLTS.current.local.arabic}{186}
+}

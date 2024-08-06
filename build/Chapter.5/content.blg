@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: content.aux
+The style file: Stylesettings/pnas.bst
+Database file #1: chapmerge.bib
+Warning--empty publisher in hom2022exploring
+Warning--empty publisher in charlesajaneway2001generation
+Warning--empty publisher in alberts2002generation
+Warning--empty journal in olsen2004improved
+You've used 35 entries,
+            2473 wiz_defined-function locations,
+            818 strings with 15281 characters,
+and the built_in function-call counts, 17552 in all, are:
+= -- 1471
+> -- 1313
+< -- 11
++ -- 527
+- -- 379
+* -- 1638
+:= -- 2972
+add.period$ -- 171
+call.type$ -- 35
+change.case$ -- 72
+chr.to.int$ -- 34
+cite$ -- 39
+duplicate$ -- 648
+empty$ -- 1244
+format.name$ -- 428
+if$ -- 3590
+int.to.chr$ -- 2
+int.to.str$ -- 36
+missing$ -- 35
+newline$ -- 246
+num.names$ -- 105
+pop$ -- 202
+preamble$ -- 1
+purify$ -- 35
+quote$ -- 0
+skip$ -- 478
+stack$ -- 0
+substring$ -- 796
+swap$ -- 80
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 245
+warning$ -- 4
+while$ -- 124
+width$ -- 0
+write$ -- 590
+(There were 4 warnings)

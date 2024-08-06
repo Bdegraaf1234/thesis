@@ -1,0 +1,299 @@
+@article{wolf2022antibody,
+  author    = {Wolf, Carla and Köppert, Sebastian and Becza, Noémi and Kuerten, Stefanie and Kirchenbaum, Greg A. and Lehmann, V. Paul},
+  title     = {Antibody Levels Poorly Reflect on the Frequency of Memory B Cells Generated following SARS-CoV-2, Seasonal Influenza, or EBV Infection},
+  journal   = {Cells},
+  volume    = 11,
+  number    = 22,
+  year      = 2022,
+  issn      = {2073-4409},
+  doi       = {10.3390/cells11223662},
+}
+waarschuwing: did not find pages
+waarschuwing: changed doi from  {10.3390/CELLS11223662},
+
+@article{raybould2020thera-sabdab:,
+  author    = {Raybould, Matthew I J and Marks, Claire and Lewis, Alan P and Shi, Jiye and Bujotzek, Alexander and Taddese, Bruck and Deane, Charlotte M},
+  title     = {Thera-SAbDab: the Therapeutic Structural Antibody Database},
+  journal   = {Nucleic Acids Research},
+  volume    = 48,
+  number    = 1,
+  pages     = {383--388},
+  year      = 2020,
+  issn      = {0305-1048},
+  doi       = {10.1093/nar/gkz827},
+}
+waarschuwing: changed number from  {D1},
+waarschuwing: changed pages from  {D383--D388},
+
+@article{mullard2021fda,
+  author    = {Mullard, Asher},
+  title     = {FDA approves 100th monoclonal antibody product.},
+  journal   = {Nature reviews. Drug discovery},
+  volume    = 20,
+  number    = 7,
+  pages     = {491--495},
+  year      = 2021,
+  issn      = {1474-1784},
+  doi       = {10.1038/d41573-021-00079-7},
+}
+
+
+@article{simon2011genomic,
+  author    = {Simon, Richard},
+  title     = {Genomic biomarkers in predictive medicine. An interim analysis},
+  journal   = {EMBO Molecular Medicine},
+  volume    = 3,
+  number    = 8,
+  pages     = 429,
+  year      = 2011,
+  issn      = 17574676,
+  doi       = {10.1002/emmm.201100153},
+}
+waarschuwing: changed doi from  {10.1002/EMMM.201100153},
+
+@article{cui2022high-throughput,
+  author    = {Cui, Miao and Cheng, Chao and Zhang, Lanjing},
+  title     = {High-throughput proteomics: a methodological mini-review.},
+  journal   = {Laboratory investigation; a journal of technical methods and pathology},
+  volume    = 102,
+  number    = 11,
+  pages     = {1170--1181},
+  year      = 2022,
+  issn      = {1530-0307},
+  doi       = {10.1038/s41374-022-00830-7},
+}
+
+
+@article{guthals2017de,
+  author  = {Guthals, Adrian and Gan, Yutian and Murray, Laura and Chen, Yongmei and Stinson, Jeremy and Nakamura, Gerald and Lill, Jennie R and Sandoval, Wendy and Bandeira, Nuno},
+  title   = {De Novo MS/MS Sequencing of Native Human Antibodies},
+  journal = {Journal of Proteome Research},
+  volume  = 16,
+  number  = 1,
+  pages   = {45--54},
+  year    = 2017,
+  issn    = {1535-3893},
+  doi     = {10.1021/acs.jproteome.6b00608},
+}
+
+
+@article{tabb2008directag:,
+  author  = {Tabb, David L. and Ze-Qiang, Ma and Martin, Daniel B. and Ham, Amy Joan L. and Chambers, Matthew C.},
+  title   = {DirecTag: Accurate sequence tags from peptide MS/MS through statistical scoring},
+  journal = {Journal of Proteome Research},
+  volume  = 7,
+  number  = 9,
+  pages   = {3838--3846},
+  year    = 2008,
+  issn    = 15353893,
+  doi     = {10.1021/pr800154p},
+}
+waarschuwing: changed doi from  {10.1021/PR800154P},
+
+@article{he2018protein,
+  author  = {He, Lidong and Weisbrod, Chad R and Marshall, Alan G},
+  title   = {Protein de novo sequencing by top-down and middle-down MS/MS: Limitations imposed by mass measurement accuracy and gaps in sequence coverage},
+  journal = {International Journal of Mass Spectrometry},
+  volume  = 427,
+  pages   = {107--113},
+  year    = 2018,
+  issn    = 13873806,
+  doi     = {10.1016/j.ijms.2017.11.012},
+}
+waarschuwing: did not find number
+
+@article{wilm1996analytical,
+  author    = {Wilm, Matthias and Mann, Matthias},
+  title     = {Analytical properties of the nanoelectrospray ion source},
+  journal   = {Analytical Chemistry},
+  volume    = 68,
+  number    = 1,
+  pages     = {1--8},
+  year      = 1996,
+  issn      = 00032700,
+  doi       = {10.1021/ac9509519/asset/images/large/ac9509519f00006.jpeg},
+}
+waarschuwing: changed doi from  {10.1021/AC9509519/ASSET/IMAGES/LARGE/AC9509519F00006.JPEG},
+
+@article{gatlin1998protein,
+  author    = {Gatlin, Christine L. and Kleemann, Gerd R. and Hays, Lara G. and Link, Andrew J. and Yates, John R.},
+  title     = {Protein Identification at the Low Femtomole Level from Silver-Stained Gels Using a New Fritless Electrospray Interface for Liquid Chromatography–Microspray and Nanospray Mass Spectrometry},
+  journal   = {Analytical Biochemistry},
+  volume    = 263,
+  number    = 1,
+  pages     = {93--101},
+  year      = 1998,
+  issn      = {0003-2697},
+  doi       = {10.1006/abio.1998.2809},
+}
+waarschuwing: changed doi from  {10.1006/ABIO.1998.2809},
+
+@article{vasilopoulou2020trapped,
+  author    = {Vasilopoulou, Catherine G. and Sulek, Karolina and Brunner, Andreas-David and Meitei, Ningombam Sanjib and Schweiger-Hufnagel, Ulrike and Meyer, Sven W. and Barsch, Aiko and Mann, Matthias and Meier, Florian},
+  title     = {Trapped ion mobility spectrometry and PASEF enable in-depth lipidomics from minimal sample amounts},
+  journal   = {Nature Communications},
+  volume    = 11,
+  number    = 1,
+  pages     = 331,
+  year      = 2020,
+  issn      = {2041-1723},
+  doi       = {10.1038/s41467-019-14044-x},
+}
+
+
+@article{ridgeway2018trapped,
+  author    = {Ridgeway, Mark E. and Lubeck, Markus and Jordens, Jan and Mann, Mattias and Park, Melvin A.},
+  title     = {Trapped ion mobility spectrometry: A short review},
+  journal   = {International Journal of Mass Spectrometry},
+  volume    = 425,
+  pages     = {22--35},
+  year      = 2018,
+  issn      = {1387-3806},
+  doi       = {10.1016/j.ijms.2018.01.006},
+}
+waarschuwing: did not find number
+waarschuwing: changed doi from  {10.1016/J.IJMS.2018.01.006},
+
+@article{graham2023characterizing,
+  author = {Graham, Katherine A and Lawlor, Charles F and Borotto, Nicholas B},
+  title  = {Characterizing the Top-down Sequencing of Protein Ions Prior to Mobility Separation in a timsTOF},
+  year   = 2023,
+  doi    = {10.26434/chemrxiv-2022-w8s4n-v3},
+}
+waarschuwing: did not find journal
+waarschuwing: did not find volume
+waarschuwing: did not find number
+waarschuwing: did not find pages
+waarschuwing: did not find issn
+waarschuwing: changed doi from  {10.26434/CHEMRXIV-2022-W8S4N-V3},
+
+@article{grinfeld2017phase-constrained,
+  author    = {Grinfeld, Dmitry and Aizikov, Konstantin and Kreutzmann, Arne and Damoc, Eugen and Makarov, Alexander},
+  title     = {Phase-constrained spectrum deconvolution for fourier transform mass spectrometry},
+  journal   = {Analytical Chemistry},
+  volume    = 89,
+  number    = 2,
+  pages     = {1202--1211},
+  year      = 2017,
+  issn      = 15206882,
+  doi       = {10.1021/acs.analchem.6b03636},
+}
+waarschuwing: changed doi from  {10.1021/ACS.ANALCHEM.6B03636},
+
+@article{jeong2022flashida,
+  author    = {Jeong, Kyowon and Babović, Maša and Gorshkov, Vladimir and Kim, Jihyung and Jensen, Ole N. and Kohlbacher, Oliver},
+  title     = {FLASHIda enables intelligent data acquisition for top-down proteomics to boost proteoform identification counts},
+  journal   = {Nature communications},
+  volume    = 13,
+  number    = 1,
+  year      = 2022,
+  issn      = {2041-1723},
+  doi       = {10.1038/s41467-022-31922-z},
+}
+waarschuwing: did not find pages
+waarschuwing: changed doi from  {10.1038/S41467-022-31922-Z},
+
+@article{boer2020selectivity,
+  author    = {Den Boer, Maurits A. and Greisch, Jean Francois and Tamara, Sem and Bondt, Albert and Heck, Albert J.R.},
+  title     = {Selectivity over coverage in de novo sequencing of IgGs},
+  journal   = {Chemical Science},
+  volume    = 11,
+  number    = 43,
+  pages     = {11886--11896},
+  year      = 2020,
+  issn      = 20416539,
+  doi       = {10.1039/d0sc03438j},
+}
+waarschuwing: changed doi from  {10.1039/D0SC03438J},
+
+@article{dupré2021de,
+  author    = {Dupré, Mathieu and Duchateau, Magalie and Sternke-Hoffmann, Rebecca and Boquoi, Amelie and Malosse, Christian and Fenk, Roland and Haas, Rainer and Buell, Alexander K. and Rey, Martial and Chamot-Rooke, Julia},
+  title     = {De Novo Sequencing of Antibody Light Chain Proteoforms from Patients with Multiple Myeloma},
+  journal   = {Analytical Chemistry},
+  volume    = 93,
+  number    = 30,
+  pages     = {10627--10634},
+  year      = 2021,
+  issn      = 15206882,
+  doi       = {10.1021/acs.analchem.1c01955/supplfile/ac1c01955si003.txt},
+}
+waarschuwing: changed doi from  {10.1021/ACS.ANALCHEM.1C01955/SUPPLFILE/AC1C01955SI003.TXT},
+
+@article{brodbelt2016ion,
+  author  = {Brodbelt, Jennifer S.},
+  title   = {Ion Activation Methods for Peptides and Proteins},
+  journal = {Analytical Chemistry},
+  volume  = 88,
+  number  = 1,
+  pages   = {30--51},
+  year    = 2016,
+  issn    = 15206882,
+  doi     = {10.1021/acs.analchem.5b04563},
+}
+
+
+@article{klein2021mobiusklein/msdeisotope:,
+  author = {Klein, Joshua and heckendorfc and Lukauskas, Saulius and mstim},
+  title  = {mobiusklein/msdeisotope: Release v0.0.33},
+  year   = 2021,
+  doi    = {10.5281/zenodo.5759830},
+}
+waarschuwing: did not find journal
+waarschuwing: did not find volume
+waarschuwing: did not find number
+waarschuwing: did not find pages
+waarschuwing: did not find issn
+waarschuwing: changed doi from  {10.5281/ZENODO.5759830},
+
+@article{schulte2022template-based,
+  author    = {Schulte, Douwe and Peng, Weiwei and Snijder, Joost},
+  title     = {Template-Based Assembly of Proteomic Short Reads For De Novo Antibody Sequencing and Repertoire Profiling},
+  journal   = {Analytical chemistry},
+  volume    = 94,
+  number    = 29,
+  pages     = {10391--10399},
+  year      = 2022,
+  issn      = {1520-6882},
+  doi       = {10.1021/acs.analchem.2c01300},
+}
+waarschuwing: changed doi from  {10.1021/ACS.ANALCHEM.2C01300},
+
+@article{ma2003peaks:,
+  author    = {Ma, Bin and Zhang, Kaizhong and Hendrie, Christopher and Liang, Chengzhi and Li, Ming and Doherty-Kirby, Amanda and Lajoie, Gilles},
+  title     = {PEAKS: powerful software for peptidede novo sequencing by tandem mass spectrometry},
+  journal   = {Rapid Communications in Mass Spectrometry},
+  volume    = 17,
+  number    = 20,
+  pages     = {2337--2342},
+  year      = 2003,
+  issn      = {0951-4198},
+  doi       = {10.1002/rcm.1196},
+}
+
+
+@article{peng2021mass,
+  author    = {Peng, Weiwei and Pronker, Matti F. and Snijder, Joost},
+  title     = {Mass Spectrometry-BasedDe NovoSequencing of Monoclonal Antibodies Using Multiple Proteases and a Dual Fragmentation Scheme},
+  journal   = {Journal of Proteome Research},
+  volume    = 20,
+  number    = 7,
+  pages     = {3559--3566},
+  year      = 2021,
+  issn      = 15353907,
+  doi       = {10.1021/acs.jproteome.1c00169},
+}
+waarschuwing: changed doi from  {10.1021/ACS.JPROTEOME.1C00169},
+
+@article{johnston2022solvent,
+  author    = {Johnston, Harvey E. and Yadav, Kranthikumar and Kirkpatrick, Joanna M. and Biggs, George S. and Oxley, David and Kramer, Holger B. and Samant, Rahul S.},
+  title     = {Solvent Precipitation SP3 (SP4) Enhances Recovery for Proteomics Sample Preparation without Magnetic Beads},
+  journal   = {Analytical Chemistry},
+  volume    = 94,
+  number    = 29,
+  pages     = {10320--10328},
+  year      = 2022,
+  issn      = 15206882,
+  doi       = {10.1021/acs.analchem.1c04200/supplfile/ac1c04200si002.xlsx},
+}
+waarschuwing: changed doi from  {10.1021/ACS.ANALCHEM.1C04200/SUPPLFILE/AC1C04200SI002.XLSX},
+

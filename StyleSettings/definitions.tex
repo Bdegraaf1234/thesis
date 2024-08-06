@@ -1,0 +1,143 @@
+%----------------------------------------------------------------------------------------
+%	VALUES FOR THE THESIS
+%----------------------------------------------------------------------------------------
+
+\newcommand{\name}{Sebastiaan Constantijn de Graaf} % Author name
+\newcommand{\thesistitle}{Computational Approaches for Mass Spectrometry-based Characterization of Antibody Repertoires} % Title of the thesis
+\newcommand{\thesissubtitle}{Computational Approaches for Mass Spectrometry-based Characterization of Antibody Repertoires} % Title of the thesis
+\newcommand{\submissiondate}{April, 2023} % Submission date "Month, year"
+\newcommand{\Promotor}{Albert J. R. Heck} % Supervisor name
+\newcommand{\CoPromotor}{Richard A. Scheltema} % Co-Supervisor name, comment this line if there is none
+
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY STYLE (pick the style you want)
+%----------------------------------------------------------------------------------------
+\usepackage{chapterbib}
+\usepackage[sectionbib,numbers,sort&compress,merge,round]{natbib} % for bibliography - Square brackets, citing references with numbers, citations sorted by appearance in the text and compressed (as in [4-7])
+\usepackage{multicol}
+
+\bibliographystyle{Stylesettings/pnas} % You may use a different style adapted to your field
+\renewcommand{\bibpreamble}{\begin{multicols}{2}}
+		\renewcommand{\bibpostamble}{\end{multicols}}
+\setlength{\bibsep}{0.0pt}
+\setlength{\itemsep}{0pt}
+\renewcommand{\bibsection}{} % Remove header
+\renewcommand\bibfont{\normalfont\fontsize{6}{8}\selectfont} % set font to be sans serif
+
+%----------------------------------------------------------------------------------------
+%   Page settings
+%----------------------------------------------------------------------------------------
+
+%% Abstract and keywords
+\newenvironment{abstract101}{%
+	\begin{minipage}[t]{1cm}\bf%
+		\center
+		\begin{sideways}{\Large{\textbf{Abstract}}}\end{sideways}
+		\vline
+	\end{minipage}
+	\begin{minipage}[b]{12cm}\it
+		}{%
+	\end{minipage}
+	\normalsize\rm
+	\mbox{}\par
+	\mbox{}\par
+	\mbox{}\par
+}
+
+%%Abstract that fits set page layout
+\newenvironment{abstract102}{%
+	\newpage
+	\begin{minipage}[b]{0.5cm}\bf%
+		\hspace*{-0.6cm}
+		\begin{sideways}{\Large{\textbf{Abstract}}}\end{sideways}
+		\vline
+	\end{minipage}
+	\begin{minipage}[t]{11.8977267833cm}\it
+		\vspace*{-1.9cm}
+		}{%
+	\end{minipage}
+	\normalsize\rm
+	\newpage
+}
+
+%%Picture chapter
+\newcommand*\cleartoleftpage{%  
+	\clearpage  \ifodd\value{page}\hbox{}\newpage\fi
+}
+\newcommand*{\picturechapter}[2]{%
+	\cleartoleftpage
+	\refstepcounter{chapter}%
+	\includepdf[pages=1,
+		pagecommand={%
+				\thispagestyle{empty}%
+				\addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}#1}%
+				\chaptermark{#1}%
+			}%
+	]{#2}%
+	{\thispagestyle{empty}\Large\textbf{#1}}%
+}
+\newcommand*{\picturechapterlong}[3]{%
+	\cleartoleftpage
+	\refstepcounter{chapter}%
+	\includepdf[pages=1,
+		pagecommand={%
+				\thispagestyle{empty}%
+				\addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}#1}%
+				\chaptermark{#1}%
+			}%
+	]{#3}%
+	{\thispagestyle{empty}\Large\textbf{#2}}%
+}
+\newcommand*{\picturechapterr}[1]{%
+	\refstepcounter{chapter}%
+	\addcontentsline{toc}{chapter}{\protect\numberline{\thechapter}#1}%
+	\chaptermark{#1}%
+	{\thispagestyle{empty}\Large\textbf{#1}}%
+}
+
+%%no paragraph indentation
+\setlength{\parindent}{0cm}
+
+%% Lowercase Text start
+\def\PARstart#1#2{\begingroup\def\par{\endgraf\endgroup\lineskiplimit=0pt}
+\setbox2=\hbox{\lowercase{#2}}\newdimen\tmpht \tmpht \ht2
+\advance\tmpht by \baselineskip\font\hhuge=cmr10 at \tmpht
+\setbox1=\hbox{{\hhuge #1}}
+\count7=\tmpht \count8=\ht1\divide\count8 by 1000 \divide\count7 by\count8
+\tmpht=.001\tmpht\multiply\tmpht by \count7\font\hhuge=cmr10 at \tmpht
+\setbox1=\hbox{{\hhuge #1}} \noindent \hangindent1.05\wd1
+\hangafter=-2 {\hskip-\hangindent \lower1\ht1\hbox{\raise1.0\ht2\copy1}%
+\kern-0\wd1}\copy2\lineskiplimit=-1000pt}
+\endinput
+
+%% Figure caption style
+\DeclareCaptionFormat{smallformat}{\normalfont\sffamily\fontsize{7}{9}\selectfont#1#2#3}
+\DeclareCaptionFormat{largeformat}{\normalfont\sffamily\fontsize{9}{12}\selectfont#1#2#3}
+\captionsetup*{format=smallformat}
+
+%----------------------------------------------------------------------------------------
+%	YOUR PACKAGES (be careful of package interaction)
+%----------------------------------------------------------------------------------------
+
+\usepackage{amsthm,amsmath,amssymb,amsfonts,bbm}% Math symbols
+
+%----------------------------------------------------------------------------------------
+%	YOUR DEFINITIONS AND COMMANDS
+%----------------------------------------------------------------------------------------
+
+% New Commands
+\newcommand{\bea}{\begin{eqnarray}} % Shortcut for equation arrays
+		\newcommand{\eea}{\end{eqnarray}}
+\newcommand{\e}[1]{\times 10^{#1}}  % Powers of 10 notation
+
+% Defining a theorem box for Criteria
+\newtheorem{critere}{Criterion}
+\newcommand{\crit}[2]{
+	\begin{center}
+		\fbox{ \begin{minipage}[c]{0.9 \textwidth}
+				\begin{critere}
+					\textbf{\textup{ #1}} --- #2
+				\end{critere}
+			\end{minipage}  } \end{center}
+}

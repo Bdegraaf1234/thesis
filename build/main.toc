@@ -1,0 +1,155 @@
+\babel@toc {english}{}\relax 
+\setcounter {tocdepth}{0}
+\vspace *{4em}
+\gdef \the@ipfilectr {@-1}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Prelude - The importance of antibodies}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Nomenclature, structure, and diversity of antibodies}{3}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Modalities of MS-based antibody analysis}{5}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}The emerging role of mass spectrometry in antibody discovery}{7}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}MS-based sequencing of monoclonal antibodies}{9}{subsection.1.2.1}%
+\contentsline {subsubsection}{Shotgun, bottom-up strategies used for sequencing of highly purified mAbs}{9}{section*.4}%
+\contentsline {subsubsection}{Benefits of complementary peptide fragmentation techniques}{11}{section*.6}%
+\contentsline {subsubsection}{Homology-aided \emph {de novo} sequencing of antibodies}{14}{section*.8}%
+\contentsline {subsubsection}{Protein-centric MS approaches}{15}{section*.9}%
+\contentsline {subsubsection}{Dedicated software solutions for MS-based antibody sequencing}{18}{section*.11}%
+\contentsline {subsubsection}{Combining peptide- and protein-centric MS approaches for antibody sequencing}{19}{section*.12}%
+\contentsline {subsection}{\numberline {1.2.2}Hybrid and multi-omics approaches for studying antibody repertoires}{20}{subsection.1.2.2}%
+\contentsline {subsubsection}{Ig-seq}{21}{section*.13}%
+\contentsline {subsubsection}{Alternative proteogenomics approaches}{22}{section*.15}%
+\contentsline {subsection}{\numberline {1.2.3}Protein-centric sequencing of endogenous antibodies}{23}{subsection.1.2.3}%
+\contentsline {subsubsection}{Antigen-specific capture}{24}{section*.16}%
+\contentsline {subsubsection}{Antibody profiling and sequencing in polyclonal mixtures}{25}{section*.17}%
+\contentsline {subsection}{\numberline {1.2.4}Additional benefits of studying antibodies at the protein level}{27}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Thesis overview}{28}{section.1.3}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-2}
+\contentsline {chapter}{\numberline {2}Cross-ID: Analysis and visualization of complex XL−MS-driven protein interaction networks}{38}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{41}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Materials and Methods}{44}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}DSSO Protein-Protein Crosslinking}{44}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Fractionation of Crosslinked Peptides}{45}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}LC-MS/MS Analysis}{45}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}TMT Experiments}{46}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Software and Data Availability}{48}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Results and Discussion}{48}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Data Import}{48}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Basic Protein Visualization}{50}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Graph Visualization Options}{52}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Mapping Detected Crosslinks to Existing Structures}{53}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Quantitation}{55}{subsection.2.3.5}%
+\contentsline {section}{\numberline {2.4}Conclusions}{59}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Acknowledgements}{61}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Author contributions}{61}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.A}Supplementary material}{62}{section.a.2.A}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-3}
+\contentsline {chapter}{\numberline {3}Human plasma IgG1 repertoires are simple, unique, and dynamic}{68}{appendix.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{71}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Results}{75}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Mass-spectrometry-based Fab profiling of the human plasma repertoire}{75}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Plasma IgG1 repertoires are dominated by a few clones}{76}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Plasma IgG1 repertoires are unique for each donor}{79}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Longitudinal quantitative monitoring of single IgG1 clones}{80}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Full \emph {de novo} sequencing of an individual plasma IgG1 clone}{81}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Validation of the \emph {de novo} sequencing-derived sequence}{86}{subsection.3.2.6}%
+\contentsline {section}{\numberline {3.3}Discussion}{89}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Experimental model and subject details}{91}{subsection.3.3.1}%
+\contentsline {subsubsection}{Human subjects}{91}{section*.39}%
+\contentsline {subsection}{\numberline {3.3.2}Method details}{92}{subsection.3.3.2}%
+\contentsline {subsubsection}{Plasma IgG purification and Fab generation}{92}{section*.40}%
+\contentsline {subsubsection}{Method optimization and validation using a mixture of recombinant mAbs}{93}{section*.41}%
+\contentsline {subsubsection}{LC-MS(/MS)}{94}{section*.42}%
+\contentsline {subsubsection}{Clonal profiling data analysis}{95}{section*.43}%
+\contentsline {subsubsection}{Peptide-centric (bottom-up) \emph {de novo} sequencing}{96}{section*.44}%
+\contentsline {paragraph}{LC-MS/MS}{97}{section*.45}%
+\contentsline {paragraph}{Data analysis}{97}{section*.46}%
+\contentsline {subsubsection}{Protein-centric (middle-down) \emph {de novo} sequencing}{98}{section*.47}%
+\contentsline {paragraph}{Data analysis}{98}{section*.48}%
+\contentsline {subsection}{\numberline {3.3.3}Quantification and statistical analysis}{100}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Acknowledgments}{101}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Author contributions}{101}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Declaration of interests}{102}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.A}Supplementary material}{103}{section.b.3.A}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-4}
+\contentsline {chapter}{\numberline {4}A case series exploring the human milk polyclonal IgA1 response to repeated SARS-CoV-2 vaccinations by LC–MS based fab profiling}{120}{appendix.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{123}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Results}{125}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Vaccination results in a heterogeneous polyclonal response}{125}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Novel clonal populations emerge after the second vaccination in all donors}{129}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Clonal titer fluctuations can be driven by highly divergent clonal populations}{130}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Discussion}{134}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Methods}{137}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Study design}{137}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Subjects}{137}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Sample collection}{138}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Fab clonal profiling from human serum and milk}{138}{subsection.4.4.4}%
+\contentsline {subsubsection}{IgA enrichment, capture, and digestion}{138}{section*.69}%
+\contentsline {subsubsection}{Fab profiling by LC-MS}{139}{section*.70}%
+\contentsline {subsubsection}{IgA1 clonal profiling data analysis}{140}{section*.71}%
+\contentsline {section}{\numberline {4.5}Acknowledgements}{141}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Data Availability}{141}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Trial registration}{141}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Funding statement}{141}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Declaration of Interests}{141}{subsection.4.5.4}%
+\contentsline {section}{\numberline {4.6}Author Contributions}{142}{section.4.6}%
+\contentsline {section}{\numberline {4.A}Supplementary material}{143}{section.c.4.A}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-5}
+\contentsline {chapter}{\numberline {5}Modular antibody \emph {de novo} sequence analysis using multi-tier LC-MS/MS data}{150}{appendix.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{153}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Results}{156}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Target mass determination and sample characterization by using MD-MS}{157}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Using multi-enzyme shotgun proteomics data for \emph {de novo} sequencing}{159}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Integrating multiple evidence streams}{161}{subsection.5.2.3}%
+\contentsline {subsubsection}{Performance on recombinant samples}{161}{section*.81}%
+\contentsline {paragraph}{Framework region sequencing}{161}{section*.82}%
+\contentsline {paragraph}{Complementarity determining region sequencing}{163}{section*.83}%
+\contentsline {paragraph}{Full chain sequencing}{164}{section*.84}%
+\contentsline {subsubsection}{Performance on the complex polyclonal samples}{165}{section*.85}%
+\contentsline {section}{\numberline {5.3}Discussion}{168}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Materials and Methods}{169}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Immunoglobulin capture and Fab generation}{169}{subsection.5.4.1}%
+\contentsline {subsubsection}{Recombinant IgG1 sample preparation}{169}{section*.87}%
+\contentsline {subsubsection}{Serum IgA1 sample preparation}{170}{section*.88}%
+\contentsline {subsection}{\numberline {5.4.2}Bottom-up \emph {de novo} sequencing}{171}{subsection.5.4.2}%
+\contentsline {subsubsection}{Sample preparation}{171}{section*.89}%
+\contentsline {subsubsection}{LC-MS/MS}{171}{section*.90}%
+\contentsline {subsubsection}{Data analysis}{172}{section*.91}%
+\contentsline {subsubsection}{Germline database preparation}{173}{section*.92}%
+\contentsline {subsection}{\numberline {5.4.3}Middle-down \emph {de novo} sequencing}{173}{subsection.5.4.3}%
+\contentsline {subsubsection}{LC-MS/MS}{173}{section*.93}%
+\contentsline {subsubsection}{Data analysis}{174}{section*.94}%
+\contentsline {subsubsection}{Contig scoring and refinement using middle-down data}{175}{section*.95}%
+\contentsline {section}{\numberline {5.5}Acknowledgements}{176}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Data availability}{176}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Author contributions}{176}{subsection.5.5.2}%
+\contentsline {section}{\numberline {5.A}Supplementary material}{177}{section.d.5.A}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-6}
+\contentsline {chapter}{\numberline {6}Perspective and outlook, synopsis}{186}{appendix.6}%
+\contentsline {section}{\numberline {6.1}Summary}{188}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Perspective and Outlook}{191}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}The importance of standardized tools}{191}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Challenges}{193}{subsection.6.2.2}%
+\contentsline {subsubsection}{Larger sample size needed}{193}{section*.107}%
+\contentsline {subsubsection}{Dealing with other isotypes and subclasses of antibodies}{194}{section*.108}%
+\contentsline {subsubsection}{Dealing with low-abundant clones}{195}{section*.109}%
+\contentsline {subsubsection}{Clonal lineage analysis and profiling MS}{195}{section*.110}%
+\contentsline {subsubsection}{The need for full sequencing}{196}{section*.111}%
+\contentsline {subsubsection}{Sequencing-specific challenges}{196}{section*.112}%
+\contentsline {subsubsection}{Factors impacting sequencing strategies}{197}{section*.113}%
+\contentsline {subsubsection}{Protein centric improvements}{198}{section*.114}%
+\contentsline {subsubsection}{Peptide centric improvements}{199}{section*.115}%
+\contentsline {subsection}{\numberline {6.2.3}Conclusion}{199}{subsection.6.2.3}%
+\babel@toc {dutch}{}\relax 
+\contentsline {section}{\numberline {6.3}Samenvatting}{201}{section.6.3}%
+\babel@toc {english}{}\relax 
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-7}
+\contentsline {chapter}{\numberline {7}Curriculum vitae, List of publications, Acknowledgements}{208}{appendix.7}%
+\contentsline {section}{\numberline {7.1}Curriculum vitae}{210}{section.7.1}%
+\contentsline {section}{\numberline {7.2}List of publications}{211}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Acknowledgements}{212}{section.7.3}%
+\gdef \the@ipfilectr {}
